@@ -5,5 +5,12 @@ Centralization of termite UCE data and assignation of unique identification code
 
 For any questions, please open an issue.
 
+## Referenced contributions of UCE data
+| Contribution  | Number of samples | Original reference |
+| --------  | ------------------- | --------------------- |
+| #1 | 45 | Hellemans _et al_. |
+
+
 ## Reference
 Hellemans S, Wang M, Hasegawa N, Šobotník J, Scheffrahn RH, Bourguignon T. Using ultraconserved elements to reconstruct the termite tree of life.
+
