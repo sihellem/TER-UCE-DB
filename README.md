@@ -6,6 +6,7 @@ Centralization of termite UCE data and assignation of unique identification code
 For any questions, please open an issue.
 
 ## Referenced contributions of UCE data
+Listed contributions to the [Database](termite_uce_db_ids.tsv).
 | Contribution  | Number of samples | Original reference |
 | --------  | ------------------- | --------------------- |
 | #1 | 45 | Hellemans _et al_. |
