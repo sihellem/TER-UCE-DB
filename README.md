@@ -3,7 +3,7 @@ This database is maintained by the [Evolutionary Genomics Unit](https://groups.o
 
 Centralization of termite UCE data and assignation of unique identification code. We invite researchers to communicate us the metadata relating to samples from which UCE data were extracted using the bait set made available at (_link_pending_). This will ensure a long-term (re-)usability of all published data.
 
-For any questions, please open an issue.
+For any question or request, please open an issue.
 
 ## Referenced contributions of UCE data
 Listed contributions to the [Database](termite_uce_db_ids.tsv).
