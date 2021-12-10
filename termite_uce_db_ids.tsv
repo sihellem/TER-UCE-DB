@@ -1,46 +1,46 @@
-Contribution	Tag_UCE_DB	Family	Species	Sample_id
-#1	TER_1_UCEDB	Kalotermitidae	Cryptotermes secundus	NA
-#1	TER_2_UCEDB	Rhinotermitidae	Coptotermes formosanus	NA
-#1	TER_3_UCEDB	Termitidae/Macrotermitinae	Macrotermes natalensis	NA
-#1	TER_4_UCEDB	Archotermopsidae	Zootermopsis nevadensis	NA
-#1	TER_5_UCEDB	Cryptocercidae	Cryptocercus punctulatus	CR18
-#1	TER_6_UCEDB	Cryptocercidae	Cryptocercus meridianus	CRY-MERI
-#1	TER_7_UCEDB	Cryptocercidae	Cryptocercus hirtus	CRY-HIR
-#1	TER_8_UCEDB	Termitidae/Foraminitermitinae	Foraminitermes rhinoceros	BDIT108
-#1	TER_9_UCEDB	Termitidae/Foraminitermitinae	Labritermes buttelreepeni	TBRU8.14E.1
-#1	TER_10_UCEDB	Termitidae/Apicotermitinae	Allognathotermes hypogeus	CIVT304
-#1	TER_11_UCEDB	Termitidae/Apicotermitinae	Astalotermes sp. D	CIVT266
-#1	TER_12_UCEDB	Mastotermitidae	Mastotermes darwiniensis	MD-RNA-1
-#1	TER_13_UCEDB	Archotermopsidae	Hodotermopsis sjostedti	HSRNA1
-#1	TER_14_UCEDB	Stolotermitidae	Porotermes quadricollis	PORO-CHILI
-#1	TER_15_UCEDB	Kalotermitidae	Glyptotermes pubescens	PR1052
-#1	TER_16_UCEDB	Kalotermitidae	Cryptotermes cavifrons	MX313
-#1	TER_17_UCEDB	Rhinotermitidae	Rhinotermes hispidus	EC1239
-#1	TER_18_UCEDB	Rhinotermitidae	Dolichorhinotermes longilabius	EC713
-#1	TER_19_UCEDB	Rhinotermitidae	Heterotermes tenuis	BO70
-#1	TER_20_UCEDB	Rhinotermitidae	Reticulitermes flavipes	FL349
-#1	TER_21_UCEDB	Rhinotermitidae	Coptotermes testaceus	CO423
-#1	TER_22_UCEDB	Termitidae/Apicotermitinae	Anoplotermes banksi	Guyane 104
-#1	TER_23_UCEDB	Termitidae/Microcerotermes-group	Microcerotermes sp.	BR18-03
-#1	TER_24_UCEDB	Termitidae/Nasutitermitinae	Subulitermes sp. 1-1	BR18-10 
-#1	TER_25_UCEDB	Termitidae/Nasutitermitinae	Nasutitermes corniger	NI275
-#1	TER_26_UCEDB	Termitidae/Nasutitermitinae	Constrictotermes cyphergaster	PA766
-#1	TER_27_UCEDB	Termitidae/Neocapritermes-group	Neocapritermes utiariti	PU874
-#1	TER_28_UCEDB	Termitidae/Syntermitinae	Cornitermes pugnax	PU620
-#1	TER_29_UCEDB	Termitidae/Syntermitinae	Embiratermes neotenicus	BO211
-#1	TER_30_UCEDB	Termitidae/Termes-group	Cavitermes tuberosus	TT18-59
-#1	TER_31_UCEDB	Termitidae/Termitinae	Dentispicotermes n. sp. 2	BO816
-#1	TER_32_UCEDB	Termitidae/Termitinae	Amitermes californicus	US589
-#1	TER_33_UCEDB	Termitidae/Cubitermitinae	Nitiditermes sp.	DJ0381
-#1	TER_34_UCEDB	Kalotermitidae	Kalotermes flavicollis	Breeds_KF
-#1	TER_35_UCEDB	Kalotermitidae	Neotermes castaneus	Breeds_NC_col1
-#1	TER_36_UCEDB	Rhinotermitidae	Prorhinotermes simplex	Breeds_PS_colF
-#1	TER_37_UCEDB	Serritermitidae	Glossotermes occulatus	Breeds_FG19-PG-02
-#1	TER_38_UCEDB	Stylotermitidae	Stylotermes halumicus	CHI15-156
-#1	TER_39_UCEDB	Termitidae/Macrotermitinae	Odontotermes formosanus	OK3
-#1	TER_40_UCEDB	Termitidae/Nasutitermitinae	Leptomyxotermes doriae	CAM16-PG-18
-#1	TER_41_UCEDB	Termitidae/Sphaerotermitinae	Sphaerotermes sphaerothorax	CAM17-SP3
-#1	TER_42_UCEDB	Termitidae/Syntermitinae	Labiotermes labralis	FG18-PG-042
-#1	TER_43_UCEDB	Termitidae/Termitinae	Promirotermes redundans	CAM239
-#1	TER_44_UCEDB	Termitidae/Termitinae	Pericapritermes sp. 4	CAM179
-#1	TER_45_UCEDB	Rhinotermitidae	Termitogeton planus	IRJT202
+Contribution	Tag_UCE_DB	Family	Subfamily	Species-group	Genus	Genus_Species	Sample_id
+#1	TER_1_UCEDB	Kalotermitidae			Cryptotermes	Cryptotermes secundus	NA
+#1	TER_2_UCEDB	Rhinotermitidae			Coptotermes	Coptotermes formosanus	NA
+#1	TER_3_UCEDB	Termitidae	Macrotermitinae		Macrotermes	Macrotermes natalensis	NA
+#1	TER_4_UCEDB	Archotermopsidae			Zootermopsis	Zootermopsis nevadensis	NA
+#1	TER_5_UCEDB	Cryptocercidae			Cryptocercus	Cryptocercus punctulatus	CR18
+#1	TER_6_UCEDB	Cryptocercidae			Cryptocercus	Cryptocercus meridianus	CRY-MERI
+#1	TER_7_UCEDB	Cryptocercidae			Cryptocercus	Cryptocercus hirtus	CRY-HIR
+#1	TER_8_UCEDB	Termitidae	Foraminitermitinae		Foraminitermes	Foraminitermes rhinoceros	BDIT108
+#1	TER_9_UCEDB	Termitidae	Foraminitermitinae		Labritermes	Labritermes buttelreepeni	TBRU8.14E.1
+#1	TER_10_UCEDB	Termitidae	Apicotermitinae		Allognathotermes	Allognathotermes hypogeus	CIVT304
+#1	TER_11_UCEDB	Termitidae	Apicotermitinae		Astalotermes	Astalotermes sp. D	CIVT266
+#1	TER_12_UCEDB	Mastotermitidae			Mastotermes	Mastotermes darwiniensis	MD-RNA-1
+#1	TER_13_UCEDB	Hodotermopsidae			Hodotermopsis	Hodotermopsis sjostedti	HSRNA1
+#1	TER_14_UCEDB	Stolotermitidae			Porotermes	Porotermes quadricollis	PORO-CHILI
+#1	TER_15_UCEDB	Kalotermitidae			Glyptotermes	Glyptotermes pubescens	PR1052
+#1	TER_16_UCEDB	Kalotermitidae			Cryptotermes	Cryptotermes cavifrons	MX313
+#1	TER_17_UCEDB	Rhinotermitidae	Rhinotermitinae		Rhinotermes	Rhinotermes hispidus	EC1239
+#1	TER_18_UCEDB	Rhinotermitidae	Rhinotermitinae		Dolichorhinotermes	Dolichorhinotermes longilabius	EC713
+#1	TER_19_UCEDB	Rhinotermitidae			Heterotermes	Heterotermes tenuis	BO70
+#1	TER_20_UCEDB	Rhinotermitidae			Reticulitermes	Reticulitermes flavipes	FL349
+#1	TER_21_UCEDB	Rhinotermitidae			Coptotermes	Coptotermes testaceus	CO423
+#1	TER_22_UCEDB	Termitidae	Apicotermitinae		Anoplotermes	Anoplotermes banksi	Guyane 104
+#1	TER_23_UCEDB	Termitidae	Termitinae	Microcerotermes-group	Microcerotermes	Microcerotermes sp.	BR18-03
+#1	TER_24_UCEDB	Termitidae	Nasutitermitinae		Subulitermes	Subulitermes sp. 1-1	BR18-10 
+#1	TER_25_UCEDB	Termitidae	Nasutitermitinae		Nasutitermes	Nasutitermes corniger	NI275
+#1	TER_26_UCEDB	Termitidae	Nasutitermitinae		Constrictotermes	Constrictotermes cyphergaster	PA766
+#1	TER_27_UCEDB	Termitidae	Termitinae	Neocapritermes-group	Neocapritermes	Neocapritermes utiariti	PU874
+#1	TER_28_UCEDB	Termitidae	Syntermitinae		Cornitermes	Cornitermes pugnax	PU620
+#1	TER_29_UCEDB	Termitidae	Syntermitinae		Embiratermes	Embiratermes neotenicus	BO211
+#1	TER_30_UCEDB	Termitidae	Termitinae	Termes-group	Cavitermes	Cavitermes tuberosus	TT18-59
+#1	TER_31_UCEDB	Termitidae	Termitinae		Dentispicotermes	Dentispicotermes n. sp. 2	BO816
+#1	TER_32_UCEDB	Termitidae	Termitinae		Amitermes	Amitermes californicus	US589
+#1	TER_33_UCEDB	Termitidae	Cubitermitinae		Nitiditermes	Nitiditermes sp.	DJ0381
+#1	TER_34_UCEDB	Kalotermitidae			Kalotermes	Kalotermes flavicollis	Breeds_KF
+#1	TER_35_UCEDB	Kalotermitidae			Neotermes	Neotermes castaneus	Breeds_NC_col1
+#1	TER_36_UCEDB	Rhinotermitidae	Prorhinotermitinae		Prorhinotermes	Prorhinotermes simplex	Breeds_PS_colF
+#1	TER_37_UCEDB	Serritermitidae			Glossotermes	Glossotermes occulatus	Breeds_FG19-PG-02
+#1	TER_38_UCEDB	Stylotermitidae			Stylotermes	Stylotermes halumicus	CHI15-156
+#1	TER_39_UCEDB	Termitidae	Macrotermitinae		Odontotermes	Odontotermes formosanus	OK3
+#1	TER_40_UCEDB	Termitidae	Nasutitermitinae		Leptomyxotermes	Leptomyxotermes doriae	CAM16-PG-18
+#1	TER_41_UCEDB	Termitidae	Sphaerotermitinae		Sphaerotermes	Sphaerotermes sphaerothorax	CAM17-SP3
+#1	TER_42_UCEDB	Termitidae	Syntermitinae		Labiotermes	Labiotermes labralis	FG18-PG-042
+#1	TER_43_UCEDB	Termitidae	Termitinae		Promirotermes	Promirotermes redundans	CAM239
+#1	TER_44_UCEDB	Termitidae	Termitinae		Pericapritermes	Pericapritermes sp. 4	CAM179
+#1	TER_45_UCEDB	Rhinotermitidae	Termitogetoninae		Termitogeton	Termitogeton planus	IRJT202
