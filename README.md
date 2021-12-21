@@ -17,11 +17,19 @@ Listed contributions to the [Database](termite_uce_db_ids.tsv).
 Assuming that all contributions are made available as individual package, and samples labelled using the unique identification code (TER_X_UCEDB), wanted samples can easily be extracted with [SeqKit](https://bioinf.shenwei.me/seqkit/usage/) to be incorporated in further phylogenies.
 
 ```
-### First combine data contributions together
+### First combine database contributions together
 cat contrib_1.fasta ... contrib_n.fasta > database.fasta
 
+### Create a list with required samples to extract
+cat <<__END__> ids.txt
+TER_4_UCEDB
+TER_12_UCEDB
+TER_13_UCEDB
+TER_14_UCEDB
+__END__
+
 ### Then extract the required samples
-seqkit grep -f id.txt database.fasta > extracted_samples.fasta
+seqkit grep -f ids.txt database.fasta > extracted_samples.fasta
 ```
 
 ## Reference
