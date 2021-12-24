@@ -1,6 +1,6 @@
  # /!\ UNDER CONSTRUCTION /!\ 
  
-[![Generic badge](https://img.shields.io/badge/DOI-10.1101/2021.12.09.472027-<COLOR>.svg)](https://doi.org/10.1101/2021.12.09.472027)
+[![Generic badge](https://img.shields.io/badge/bioRxiv-10.1101/2021.12.09.472027-<COLOR>.svg)](https://doi.org/10.1101/2021.12.09.472027)
 [![sihellem - TER-UCE-DB](https://img.shields.io/static/v1?label=sihellem&message=TER-UCE-DB&color=red&logo=github)](https://github.com/sihellem/TER-UCE-DB "Go to GitHub repo")
 [![forks - TER-UCE-DB](https://img.shields.io/github/forks/sihellem/TER-UCE-DB?style=social)](https://github.com/oist/TER-UCE-DB?organization=oist&organization=oist)
 
@@ -84,7 +84,7 @@ phyluce_align_format_nexus_files_for_raxml --nexus
 With your tresholded matrices, you are all set for phylogenetic inferences. Once you finished your analyses and submit your manuscript to a journal, it would be great to contact us with the metadata of your samples, such as [these](termite_uce_db_ids.tsv). We will then assign each sample to a unique identification code (TER_X_UCEDB).
 _Contact us!_
 <div align="center">
-<a href="mailto:simon.hellemans@gmail.com?cc=simon.hellemans@oist.jp, simon.hellemans@ulb.be&subject=TER-UCE-DB
+<a href="mailto:simon.hellemans@gmail.com?cc=xxx@xxx, xxx@yyy&subject=TER-UCE-DB
 "><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </div>
 
