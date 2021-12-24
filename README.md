@@ -18,12 +18,24 @@ Listed contributions to the [Database](termite_uce_db_ids.tsv).
 | #1 | 45 | Hellemans _et al_. [_bioRxiv_](https://doi.org/10.1101/2021.12.09.472027) | _Pending_ |
 
 ## B/ Methods and suggested database usage
-[phyluce](https://github.com/faircloth-lab/phyluce) was used to design the bait set and to extract UCEs.
 
-Assuming that all contributions are made available as individual package, and samples labelled using the unique identification code (TER_X_UCEDB), selected samples can easily be extracted with [SeqKit](https://bioinf.shenwei.me/seqkit/usage/) to be incorporated in further phylogenies.
+_Dependencies_: [bioawk](https://github.com/lh3/bioawk), faToTwoBit from [BLAT](http://hgdownload.soe.ucsc.edu/admin/exe/), [phyluce](https://github.com/faircloth-lab/phyluce), [SeqKit](https://bioinf.shenwei.me/seqkit/usage/).
 
-### B.1/ Sample selection
-Here, you typically want to add already published UCE data (outgroups, etc.) to your newly acquired data. You will want to select samples with a lot of loci in order to maximize the number of UCEs kept in the final supermatrices, based on %-completeness treshold.
+### B.1/ Extraction of UCEs from newly-generated assemblies
+Start by using the termites baits (_link_pending_) to extract from your assemblies.
+
+```
+### 1. Assembly formatting
+## Rename the headers of contigs for processing by phyluce
+bioawk -c fastx '{ print ">node_" ++i"\n"$seq }' < ${SAMPLE}_assembly.fasta > ${SAMPLE}_assembly_new_header.fasta
+
+## Convert assemblies in 2bit format
+faToTwoBit ${SAMPLE}_assembly_new_header.fasta ${SAMPLE}_assembly_new_header.2bit
+
+```
+
+### B.2/ Database usage
+Here, you typically want to add already published UCE data (outgroups, etc.) to your newly acquired data. You will want to select samples with a lot of loci in order to maximize the number of UCEs kept in the final supermatrices, based on %-completeness treshold. This assumes that contributions are made available as individual package, and samples labelled using the unique identification code (TER_X_UCEDB) as specified in the [Database](termite_uce_db_ids.tsv) file.
  
 ```
 ### Generate the database
@@ -40,7 +52,7 @@ __END__
 ### Extract the required samples with seqkit grep -nrif
 seqkit grep --by-name --use-regexp --ignore-case --pattern-file ids.txt database.fasta > database_subset.fasta
 ```
-### B.2/ Alignments and generation of supermatrices
+### B.3/ Alignments and generation of supermatrices
 ```
 ### Merge your own data with the database subset
 cat my_own_data.fasta database_subset.fasta > samples_to_align.fasta
