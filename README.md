@@ -1,5 +1,6 @@
  # /!\ UNDER CONSTRUCTION /!\ 
-
+ 
+[![Generic badge](https://img.shields.io/badge/DOI-10.1101/2021.12.09.472027-<COLOR>.svg)](https://doi.org/10.1101/2021.12.09.472027)
 [![sihellem - TER-UCE-DB](https://img.shields.io/static/v1?label=sihellem&message=TER-UCE-DB&color=red&logo=github)](https://github.com/sihellem/TER-UCE-DB "Go to GitHub repo")
 [![forks - TER-UCE-DB](https://img.shields.io/github/forks/sihellem/TER-UCE-DB?style=social)](https://github.com/oist/TER-UCE-DB?organization=oist&organization=oist)
 
