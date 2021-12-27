@@ -84,7 +84,7 @@ phyluce_align_format_nexus_files_for_raxml --nexus
 With your tresholded matrices, you are all set for phylogenetic inferences. Once you finished your analyses and submit your manuscript to a journal, it would be great to contact us with the metadata of your samples, such as [these](termite_uce_db_ids.tsv). We will then assign each sample to a unique identification code (TER_X_UCEDB).
 _Contact us!_
 <div align="center">
-<a href="mailto:simon.hellemans@gmail.com?cc=xxx@xxx, xxx@yyy&subject=TER-UCE-DB
+<a href="mailto:vvvv@gmail.com?cc=xxx@xxx, xxx@yyy&subject=TER-UCE-DB
 "><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </div>
 
