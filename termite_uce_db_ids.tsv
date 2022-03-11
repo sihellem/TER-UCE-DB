@@ -1,5 +1,5 @@
 Contribution	Tag_UCE_DB	Sample_id	Family	Subfamily	Species-group	Genus	Genus_Species	Country	Locality	Year of collection	Number of extracted UCEs
-#1	TER_1_UCEDB	NA	Kalotermitidae			Cryptotermes	Cryptotermes secundus	Australia			42542
+#1	TER_1_UCEDB	NA	Kalotermitidae			Cryptotermes	_Cryptotermes secundus_	Australia			42542
 #1	TER_2_UCEDB	NA	Rhinotermitidae			Coptotermes	Coptotermes formosanus	Japan	Wakayama		42860
 #1	TER_3_UCEDB	NA	Termitidae	Macrotermitinae		Macrotermes	Macrotermes natalensis	South Africa			42297
 #1	TER_4_UCEDB	NA	Archotermopsidae			Zootermopsis	Zootermopsis nevadensis	USA	California		42388
