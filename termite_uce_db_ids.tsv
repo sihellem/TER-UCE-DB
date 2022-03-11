@@ -1,46 +1,64 @@
-Contribution	Tag_UCE_DB	Family	Subfamily	Species-group	Genus	Genus_Species	Sample_id	Country	Locality	Year of collection
-#1	TER_1_UCEDB	Kalotermitidae			Cryptotermes	Cryptotermes secundus	NA	Australia		
-#1	TER_2_UCEDB	Rhinotermitidae			Coptotermes	Coptotermes formosanus	NA	Japan	Wakayama	
-#1	TER_3_UCEDB	Termitidae	Macrotermitinae		Macrotermes	Macrotermes natalensis	NA	South Africa		
-#1	TER_4_UCEDB	Archotermopsidae			Zootermopsis	Zootermopsis nevadensis	NA	USA	California	
-#1	TER_5_UCEDB	Cryptocercidae			Cryptocercus	Cryptocercus punctulatus	CR18	USA	Virginia	2012
-#1	TER_6_UCEDB	Cryptocercidae			Cryptocercus	Cryptocercus meridianus	CRY-MERI	China	Yunnan Province	2012
-#1	TER_7_UCEDB	Cryptocercidae			Cryptocercus	Cryptocercus hirtus	CRY-HIR	China	Shaanxi Province	2013
-#1	TER_8_UCEDB	Termitidae	Foraminitermitinae		Foraminitermes	Foraminitermes rhinoceros	BDIT108	Burundi		2013
-#1	TER_9_UCEDB	Termitidae	Foraminitermitinae		Labritermes	Labritermes buttelreepeni	TBRU8.14E.1	Brunei		2014
-#1	TER_10_UCEDB	Termitidae	Apicotermitinae		Allognathotermes	Allognathotermes hypogeus	CIVT304	Ivory Coast		2017
-#1	TER_11_UCEDB	Termitidae	Apicotermitinae		Astalotermes	Astalotermes sp. D	CIVT266	Ivory Coast		2017
-#1	TER_12_UCEDB	Mastotermitidae			Mastotermes	Mastotermes darwiniensis	MD-RNA-1	Australia		NA
-#1	TER_13_UCEDB	Hodotermopsidae			Hodotermopsis	Hodotermopsis sjostedti	HSRNA1	China		NA
-#1	TER_14_UCEDB	Stolotermitidae			Porotermes	Porotermes quadricollis	PORO-CHILI	Chile		NA
-#1	TER_15_UCEDB	Kalotermitidae			Glyptotermes	Glyptotermes pubescens	PR1052	Puerto Rico		2017
-#1	TER_16_UCEDB	Kalotermitidae			Cryptotermes	Cryptotermes cavifrons	MX313	Mexico		2001
-#1	TER_17_UCEDB	Rhinotermitidae	Rhinotermitinae		Rhinotermes	Rhinotermes hispidus	EC1239	Ecuador		2011
-#1	TER_18_UCEDB	Rhinotermitidae	Rhinotermitinae		Dolichorhinotermes	Dolichorhinotermes longilabius	EC713	Ecuador		2011
-#1	TER_19_UCEDB	Rhinotermitidae			Heterotermes	Heterotermes tenuis	BO70	Bolivia		2013
-#1	TER_20_UCEDB	Rhinotermitidae			Reticulitermes	Reticulitermes flavipes	FL349	USA	Florida	NA
-#1	TER_21_UCEDB	Rhinotermitidae			Coptotermes	Coptotermes testaceus	CO423	Columbia 	Cienaga de Ortiz	2009
-#1	TER_22_UCEDB	Termitidae	Apicotermitinae		Anoplotermes	Anoplotermes banksi	Guyane 104	French Guiana		2008
-#1	TER_23_UCEDB	Termitidae	Termitinae	Microcerotermes-group	Microcerotermes	Microcerotermes sp.	BR18-03	Brazil	Paraíba	2018
-#1	TER_24_UCEDB	Termitidae	Nasutitermitinae		Subulitermes	Subulitermes sp. 1-1	BR18-10 	Brazil	Paraíba	2018
-#1	TER_25_UCEDB	Termitidae	Nasutitermitinae		Nasutitermes	Nasutitermes corniger	NI275	Nicaragua		2004
-#1	TER_26_UCEDB	Termitidae	Nasutitermitinae		Constrictotermes	Constrictotermes cyphergaster	PA766	Paraguay		2012
-#1	TER_27_UCEDB	Termitidae	Termitinae	Neocapritermes-group	Neocapritermes	Neocapritermes utiariti	PU874	Peru		2014
-#1	TER_28_UCEDB	Termitidae	Syntermitinae		Cornitermes	Cornitermes pugnax	PU620	Peru		2014
-#1	TER_29_UCEDB	Termitidae	Syntermitinae		Embiratermes	Embiratermes neotenicus	BO211	Bolivia		2013
-#1	TER_30_UCEDB	Termitidae	Termitinae	Termes-group	Cavitermes	Cavitermes tuberosus	TT18-59	Trinidad and Tobago		2018
-#1	TER_31_UCEDB	Termitidae	Termitinae	Amitermes-group	Dentispicotermes	Dentispicotermes n. sp. 2	BO816	Bolivia		2013
-#1	TER_32_UCEDB	Termitidae	Termitinae	Amitermes-group	Amitermes	Amitermes californicus	US589	USA	Arizona	2005
-#1	TER_33_UCEDB	Termitidae	Cubitermitinae		Nitiditermes	Nitiditermes sp.	DJ0381	Burkina Faso		2016
-#1	TER_34_UCEDB	Kalotermitidae			Kalotermes	Kalotermes flavicollis	Breeds_KF	Italy	Florence	NA
-#1	TER_35_UCEDB	Kalotermitidae			Neotermes	Neotermes castaneus	Breeds_NC_col1	Cuba		NA
-#1	TER_36_UCEDB	Rhinotermitidae	Prorhinotermitinae		Prorhinotermes	Prorhinotermes simplex	Breeds_PS_colF	USA	Florida	NA
-#1	TER_37_UCEDB	Serritermitidae			Glossotermes	Glossotermes occulatus	Breeds_FG19-PG-02	French Guiana		NA
-#1	TER_38_UCEDB	Stylotermitidae			Stylotermes	Stylotermes halumicus	CHI15-156	China		2016
-#1	TER_39_UCEDB	Termitidae	Macrotermitinae		Odontotermes	Odontotermes formosanus	OK3	Japan	Okinawa	2019
-#1	TER_40_UCEDB	Termitidae	Nasutitermitinae		Leptomyxotermes	Leptomyxotermes doriae	CAM16-PG-18	Cameroon		2016
-#1	TER_41_UCEDB	Termitidae	Sphaerotermitinae		Sphaerotermes	Sphaerotermes sphaerothorax	CAM17-SP3	Cameroon		2017
-#1	TER_42_UCEDB	Termitidae	Syntermitinae		Labiotermes	Labiotermes labralis	FG18-PG-042	French Guiana		2018
-#1	TER_43_UCEDB	Termitidae	Termitinae	Amitermes-group	Promirotermes	Promirotermes redundans	CAM239	Cameroon		2015
-#1	TER_44_UCEDB	Termitidae	Termitinae	Pericapritermes-group	Pericapritermes	Pericapritermes sp. 4	CAM179	Cameroon		2015
-#1	TER_45_UCEDB	Rhinotermitidae	Termitogetoninae		Termitogeton	Termitogeton planus	IRJT202	Indonesia	Papua	1995
+Contribution	Tag_UCE_DB	Sample_id	Family	Subfamily	Species-group	Genus	Genus_Species	Country	Locality	Year of collection	Number of extracted UCEs
+#1	TER_1_UCEDB	NA	Kalotermitidae			Cryptotermes	Cryptotermes secundus	Australia			42542
+#1	TER_2_UCEDB	NA	Rhinotermitidae			Coptotermes	Coptotermes formosanus	Japan	Wakayama		42860
+#1	TER_3_UCEDB	NA	Termitidae	Macrotermitinae		Macrotermes	Macrotermes natalensis	South Africa			42297
+#1	TER_4_UCEDB	NA	Archotermopsidae			Zootermopsis	Zootermopsis nevadensis	USA	California		42388
+#1	TER_5_UCEDB	CR18	Cryptocercidae			Cryptocercus	Cryptocercus punctulatus	USA	Virginia	2012	13480
+#1	TER_6_UCEDB	CRY-MERI	Cryptocercidae			Cryptocercus	Cryptocercus meridianus	China	Yunnan Province	2012	13958
+#1	TER_7_UCEDB	CRY-HIR	Cryptocercidae			Cryptocercus	Cryptocercus hirtus	China	Shaanxi Province	2013	16331
+#1	TER_8_UCEDB	BDIT108	Termitidae	Foraminitermitinae		Foraminitermes	Foraminitermes rhinoceros	Burundi		2013	37108
+#1	TER_9_UCEDB	TBRU8.14E.1	Termitidae	Foraminitermitinae		Labritermes	Labritermes buttelreepeni	Brunei		2014	39588
+#1	TER_10_UCEDB	CIVT304	Termitidae	Apicotermitinae		Allognathotermes	Allognathotermes hypogeus	Ivory Coast		2017	3426
+#1	TER_11_UCEDB	CIVT266	Termitidae	Apicotermitinae		Astalotermes	Astalotermes sp. D	Ivory Coast		2017	5007
+#1	TER_12_UCEDB	MD-RNA-1	Mastotermitidae			Mastotermes	Mastotermes darwiniensis	Australia		NA	35429
+#1	TER_13_UCEDB	HSRNA1	Hodotermopsidae			Hodotermopsis	Hodotermopsis sjostedti	China		NA	35656
+#1	TER_14_UCEDB	PORO-CHILI	Stolotermitidae			Porotermes	Porotermes quadricollis	Chile		NA	38150
+#1	TER_15_UCEDB	PR1052	Kalotermitidae			Glyptotermes	Glyptotermes pubescens	Puerto Rico		2017	11915
+#1	TER_16_UCEDB	MX313	Kalotermitidae			Cryptotermes	Cryptotermes cavifrons	Mexico		2001	18994
+#1	TER_17_UCEDB	EC1239	Rhinotermitidae	Rhinotermitinae		Rhinotermes	Rhinotermes hispidus	Ecuador		2011	23406
+#1	TER_18_UCEDB	EC713	Rhinotermitidae	Rhinotermitinae		Dolichorhinotermes	Dolichorhinotermes longilabius	Ecuador		2011	26968
+#1	TER_19_UCEDB	BO70	Rhinotermitidae			Heterotermes	Heterotermes tenuis	Bolivia		2013	30583
+#1	TER_20_UCEDB	FL349	Rhinotermitidae			Reticulitermes	Reticulitermes flavipes	USA	Florida	NA	32336
+#1	TER_21_UCEDB	CO423	Rhinotermitidae			Coptotermes	Coptotermes testaceus	Columbia 	Cienaga de Ortiz	2009	34001
+#1	TER_22_UCEDB	Guyane 104	Termitidae	Apicotermitinae		Anoplotermes	Anoplotermes banksi	French Guiana		2008	19394
+#1	TER_23_UCEDB	BR18-03	Termitidae	Termitinae	Microcerotermes-group	Microcerotermes	Microcerotermes sp.	Brazil	Paraíba	2018	24367
+#1	TER_24_UCEDB	BR18-10 	Termitidae	Nasutitermitinae		Subulitermes	Subulitermes sp. 1-1	Brazil	Paraíba	2018	21257
+#1	TER_25_UCEDB	NI275	Termitidae	Nasutitermitinae		Nasutitermes	Nasutitermes corniger	Nicaragua		2004	23053
+#1	TER_26_UCEDB	PA766	Termitidae	Nasutitermitinae		Constrictotermes	Constrictotermes cyphergaster	Paraguay		2012	23546
+#1	TER_27_UCEDB	PU874	Termitidae	Termitinae	Neocapritermes-group	Neocapritermes	Neocapritermes utiariti	Peru		2014	7637
+#1	TER_28_UCEDB	PU620	Termitidae	Syntermitinae		Cornitermes	Cornitermes pugnax	Peru		2014	18854
+#1	TER_29_UCEDB	BO211	Termitidae	Syntermitinae		Embiratermes	Embiratermes neotenicus	Bolivia		2013	24978
+#1	TER_30_UCEDB	TT18-59	Termitidae	Termitinae	Termes-group	Cavitermes	Cavitermes tuberosus	Trinidad and Tobago		2018	23535
+#1	TER_31_UCEDB	BO816	Termitidae	Termitinae	Amitermes-group	Dentispicotermes	Dentispicotermes n. sp. 2	Bolivia		2013	6602
+#1	TER_32_UCEDB	US589	Termitidae	Termitinae	Amitermes-group	Amitermes	Amitermes californicus	USA	Arizona	2005	21240
+#1	TER_33_UCEDB	DJ0381	Termitidae	Cubitermitinae		Nitiditermes	Nitiditermes sp.	Burkina Faso		2016	16240
+#1	TER_34_UCEDB	Breeds_KF	Kalotermitidae			Kalotermes	Kalotermes flavicollis	Italy	Florence	NA	40941
+#1	TER_35_UCEDB	Breeds_NC_col1	Kalotermitidae			Neotermes	Neotermes castaneus	Cuba		NA	41508
+#1	TER_36_UCEDB	Breeds_PS_colF	Rhinotermitidae	Prorhinotermitinae		Prorhinotermes	Prorhinotermes simplex	USA	Florida	NA	42117
+#1	TER_37_UCEDB	Breeds_FG19-PG-02	Serritermitidae			Glossotermes	Glossotermes occulatus	French Guiana		NA	41813
+#1	TER_38_UCEDB	CHI15-156	Stylotermitidae			Stylotermes	Stylotermes halumicus	China		2016	35273
+#1	TER_39_UCEDB	OK3	Termitidae	Macrotermitinae		Odontotermes	Odontotermes formosanus	Japan	Okinawa	2019	41278
+#1	TER_40_UCEDB	CAM16-PG-18	Termitidae	Nasutitermitinae		Leptomyxotermes	Leptomyxotermes doriae	Cameroon		2016	40077
+#1	TER_41_UCEDB	CAM17-SP3	Termitidae	Sphaerotermitinae		Sphaerotermes	Sphaerotermes sphaerothorax	Cameroon		2017	40520
+#1	TER_42_UCEDB	FG18-PG-042	Termitidae	Syntermitinae		Labiotermes	Labiotermes labralis	French Guiana		2018	39895
+#1	TER_43_UCEDB	CAM239	Termitidae	Termitinae	Amitermes-group	Promirotermes	Promirotermes redundans	Cameroon		2015	17316
+#1	TER_44_UCEDB	CAM179	Termitidae	Termitinae	Pericapritermes-group	Pericapritermes	Pericapritermes sp. 4	Cameroon		2015	38121
+#1	TER_45_UCEDB	IRJT202	Rhinotermitidae	Termitogetoninae		Termitogeton	Termitogeton planus	Indonesia	Papua	1995	9378
+#2	TER_46_UCEDB	ISR6	Kalotermitidae			Longicaputermes	Longicaputermes sinaicus	Israel		NA	17782
+#2	TER_47_UCEDB	IRAN4A	Kalotermitidae		near Longicaputermes	UNDESCRIBED	UNDESCRIBED UNDESCRIBED	Iran		2000	7128
+#2	TER_48_UCEDB	SantoT_003	Kalotermitidae			Cryptotermes	Cryptotermes penaoru	Vanuatu		NA	22275
+#2	TER_49_UCEDB	US622	Kalotermitidae			Pterotermes	Pterotermes occidentis	USA	Arizona	2005	1059
+#2	TER_50_UCEDB	BA3087	Kalotermitidae			Cryptotermes	Cryptotermes cymatofrons	Bahamas		2015	13457
+#2	TER_51_UCEDB	BA3122	Kalotermitidae			Incisitermes	Incisitermes schwarzi	Bahamas		2015	2111
+#2	TER_52_UCEDB	Cam17-PG-1-TA	Kalotermitidae			Glyptotermes	Glyptotermes sp	Cameroon		2017	4722
+#2	TER_53_UCEDB	Cam16-41	Kalotermitidae			Cryptotermes	Cryptotermes havilandi	Cameroon		2016	20122
+#2	TER_54_UCEDB	CU_1490_0	Kalotermitidae			Neotermes	Neotermes phragmosus	Cuba		2001	4942
+#2	TER_55_UCEDB	FL901_0	Kalotermitidae			Kalotermes	Kalotermes approximatus	USA	Florida	2001	4690
+#2	TER_56_UCEDB	MAD19-117	Kalotermitidae			Postelectrotermes	Postelectrotermes sp	Madagascar		2019	5129
+#2	TER_57_UCEDB	MAD19_7R	Kalotermitidae			Allotermes	Allotermes sp	Madagascar		2019	26904
+#2	TER_58_UCEDB	Marg-RS	Kalotermitidae			Marginitermes	Marginitermes hubbardi	USA		2018	24980
+#2	TER_59_UCEDB	NAM16_PG012TR	Kalotermitidae			Epicalotermes	Epicalotermes sp	Namibia		2018	22164
+#2	TER_60_UCEDB	PA827	Kalotermitidae			Neotermes	Neotermes fulvescens	Paraguay		2012	18296
+#2	TER_61_UCEDB	PA943	Kalotermitidae			Tauritermes	Tauritermes triceromegas	Paraguay		2012	24735
+#2	TER_62_UCEDB	PN1380_0	Kalotermitidae			Calcaritermes	Calcaritermes nigriceps	Panama		2010	3960
+#2	TER_63_UCEDB	PU998_0	Kalotermitidae			Rugitermes	Rugitermes aridus	Peru		2014	4760
