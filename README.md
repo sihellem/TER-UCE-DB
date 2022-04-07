@@ -50,6 +50,11 @@ Here, you typically want to add already published UCE data (outgroups, etc.) to 
  
 ```
 ### 4. Generate the database
+## Contribution #1
+
+## Contribution #2
+wget https://datadryad.org/stash/downloads/file_stream/1427659 --output-document=TER_UCE_DB_CONTRIB_2.zip && unzip TER_UCE_DB_CONTRIB_2.zip && rm TER_UCE_DB_CONTRIB_2.zip && rm -fr __MACOSX
+## Combine fastas
 cat contrib_1.fasta ... contrib_n.fasta > database.fasta
 
 ### 5. Extract the required samples from the database
