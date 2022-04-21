@@ -35,7 +35,7 @@ Contribution	Tag_UCE_DB	Sample_id	Family	Subfamily	Species-group	Genus	Genus_Spe
 #1	TER_34_UCEDB	Breeds_KF	Kalotermitidae			Kalotermes	Kalotermes flavicollis	Italy	Florence	NA	40941
 #1	TER_35_UCEDB	Breeds_NC_col1	Kalotermitidae			Neotermes	Neotermes castaneus	Cuba		NA	41508
 #1	TER_36_UCEDB	Breeds_PS_colF	Rhinotermitidae	Prorhinotermitinae		Prorhinotermes	Prorhinotermes simplex	USA	Florida	NA	42117
-#1	TER_37_UCEDB	Breeds_FG19-PG-02	Serritermitidae			Glossotermes	Glossotermes occulatus	French Guiana		NA	41813
+#1	TER_37_UCEDB	Breeds_FG19-PG-02	Serritermitidae			Glossotermes	Glossotermes oculatus	French Guiana		NA	41813
 #1	TER_38_UCEDB	CHI15-156	Stylotermitidae			Stylotermes	Stylotermes halumicus	China		2016	35273
 #1	TER_39_UCEDB	OK3	Termitidae	Macrotermitinae		Odontotermes	Odontotermes formosanus	Japan	Okinawa	2019	41278
 #1	TER_40_UCEDB	CAM16-PG-18	Termitidae	Nasutitermitinae		Leptomyxotermes	Leptomyxotermes doriae	Cameroon		2016	40077
