@@ -17,7 +17,7 @@ Listed contributions to the [Database](termite_uce_db_ids.tsv).
 | Contribution  | Number of samples | Reference | Data location |
 | --------  | ------------------- | --------------------- | ------------------- |
 | #1 | 45 | Hellemans _et al_. [_bioRxiv_](https://doi.org/10.1101/2021.12.09.472027) | _Pending_ |
-| #2 | 18 | Buček _et al_. | _Pending_ |
+| #2 | 18 | Buček _et al_. | [_Dryad_](https://doi.org/10.5061/dryad.5mkkwh77v) |
 
 ## B/ Methods and suggested database usage
 
