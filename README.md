@@ -1,6 +1,6 @@
  # /!\ UNDER CONSTRUCTION /!\ 
  
-[![Generic badge](https://img.shields.io/badge/bioRxiv-10.1101/2021.12.09.472027-<COLOR>.svg)](https://doi.org/10.1101/2021.12.09.472027)
+[![Generic badge](https://img.shields.io/badge/MPE-10.1016/j.ympev.2022.107520-<COLOR>.svg)](https://doi.org/10.1016/j.ympev.2022.107520)
 [![sihellem - TER-UCE-DB](https://img.shields.io/static/v1?label=sihellem&message=TER-UCE-DB&color=red&logo=github)](https://github.com/sihellem/TER-UCE-DB "Go to GitHub repo")
 [![forks - TER-UCE-DB](https://img.shields.io/github/forks/sihellem/TER-UCE-DB?style=social)](https://github.com/oist/TER-UCE-DB?organization=oist&organization=oist)
 
@@ -16,8 +16,8 @@ For any question or request, please open an issue.
 Listed contributions to the [Database](termite_uce_db_ids.tsv).
 | Contribution  | Number of samples | Reference | Data location |
 | --------  | ------------------- | --------------------- | ------------------- |
-| #1 | 45 | Hellemans _et al_. [_bioRxiv_](https://doi.org/10.1101/2021.12.09.472027) | _Pending_ |
-| #2 | 18 | Buček _et al_. | [_Dryad_](https://doi.org/10.5061/dryad.5mkkwh77v) |
+| #1 | 45 | Hellemans _et al_. [_MPE_](https://doi.org/10.1016/j.ympev.2022.107520) | _Pending_ |
+| #2 | 18 | Buček _et al_. [_MBE_](https://doi.org/10.1093/molbev/msac093) | [_Dryad_](https://doi.org/10.5061/dryad.5mkkwh77v) |
 
 ## B/ Methods and suggested database usage
 
@@ -34,7 +34,7 @@ bioawk -c fastx '{ print ">node_" ++i"\n"$seq }' < ${SAMPLE}_assembly.fasta > ${
 faToTwoBit ${SAMPLE}_assembly_new_header.fasta ${SAMPLE}_assembly_new_header.2bit
 ```
 
-Now, use the following suite of commands on your assemblies from the official documentation of [phyluce](https://github.com/faircloth-lab/phyluce): [Finding UCEs](https://phyluce.readthedocs.io/en/latest/tutorials/tutorial-3.html#tutorial-iii-harvesting-uce-loci-from-genomes), followed by [Extracting UCEs](https://phyluce.readthedocs.io/en/latest/tutorials/tutorial-1.html#uceextraction). In short, the list of commands will be the following (with the parameters used in our [_bioRxiv_](https://doi.org/10.1101/2021.12.09.472027)) paper for full compatibility with the deposited UCE data:
+Now, use the following suite of commands on your assemblies from the official documentation of [phyluce](https://github.com/faircloth-lab/phyluce): [Finding UCEs](https://phyluce.readthedocs.io/en/latest/tutorials/tutorial-3.html#tutorial-iii-harvesting-uce-loci-from-genomes), followed by [Extracting UCEs](https://phyluce.readthedocs.io/en/latest/tutorials/tutorial-1.html#uceextraction). In short, the list of commands will be the following (with the parameters used in the [_MPE_](https://doi.org/10.1016/j.ympev.2022.107520) paper) for full compatibility with the deposited UCE data:
 ```
 ### 2. Finding UCEs
 phyluce_probe_run_multiple_lastzs_sqlite --identity 50
@@ -114,4 +114,6 @@ done < db_ids.txt
 ```
 
 ## C/ Reference
-Hellemans S, Wang M, Hasegawa N, Šobotník J, Scheffrahn RH, Bourguignon T. 2021. Using ultraconserved elements to reconstruct the termite tree of life. _bioRxiv_ [2021.12.09.472027](https://doi.org/10.1101/2021.12.09.472027)
+Hellemans S, Wang M, Hasegawa N, Šobotník J, Scheffrahn RH, Bourguignon T. 2022. Using ultraconserved elements to reconstruct the termite tree of life. _Molecular Phylogenetics and Evolution_. doi: [10.1016/j.ympev.2022.107520](https://doi.org/10.1016/j.ympev.2022.107520)
+
+/Preprint on _bioRxiv_ [2021.12.09.472027](https://doi.org/10.1101/2021.12.09.472027)/
