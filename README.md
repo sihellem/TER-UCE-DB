@@ -16,7 +16,7 @@ For any question or request, please open an issue.
 Listed contributions to the [Database](termite_uce_db_ids.tsv).
 | Contribution  | Number of samples | Reference | Data location |
 | --------  | ------------------- | --------------------- | ------------------- |
-| #1 | 45 | Hellemans _et al_. [_MPE_](https://doi.org/10.1016/j.ympev.2022.107520) | _Pending_ |
+| #1 | 45 | Hellemans _et al_. [_MPE_](https://doi.org/10.1016/j.ympev.2022.107520) | [_Dryad_](https://doi.org/10.5061/dryad.x0k6djhn0) |
 | #2 | 18 | Buček _et al_. [_MBE_](https://doi.org/10.1093/molbev/msac093) | [_Dryad_](https://doi.org/10.5061/dryad.5mkkwh77v) |
 
 ## B/ Methods and suggested database usage
