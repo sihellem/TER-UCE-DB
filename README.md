@@ -113,7 +113,7 @@ while read i; do
 done < db_ids.txt
 ```
 
-## C/ Reference
+## C/ How to cite
 Hellemans S, Wang M, Hasegawa N, Šobotník J, Scheffrahn RH, Bourguignon T. 2022. Using ultraconserved elements to reconstruct the termite tree of life. _Molecular Phylogenetics and Evolution_. doi: [10.1016/j.ympev.2022.107520](https://doi.org/10.1016/j.ympev.2022.107520)
 
-/Preprint on _bioRxiv_ [2021.12.09.472027](https://doi.org/10.1101/2021.12.09.472027)/
+[Preprint on _bioRxiv_ [2021.12.09.472027](https://doi.org/10.1101/2021.12.09.472027)]
