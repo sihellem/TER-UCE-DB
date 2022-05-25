@@ -1,5 +1,3 @@
- # /!\ UNDER CONSTRUCTION /!\ 
- 
 [![Generic badge](https://img.shields.io/badge/MPE-10.1016/j.ympev.2022.107520-<COLOR>.svg)](https://doi.org/10.1016/j.ympev.2022.107520)
 [![sihellem - TER-UCE-DB](https://img.shields.io/static/v1?label=sihellem&message=TER-UCE-DB&color=red&logo=github)](https://github.com/sihellem/TER-UCE-DB "Go to GitHub repo")
 [![forks - TER-UCE-DB](https://img.shields.io/github/forks/sihellem/TER-UCE-DB?style=social)](https://github.com/oist/TER-UCE-DB?organization=oist&organization=oist)
@@ -8,7 +6,7 @@
 
 This database is maintained by the [Evolutionary Genomics Unit](https://groups.oist.jp/egu) at OIST.
 
-The purpose of this database is the centralization of termite UCE data and assignation of unique identification codes. We invite researchers to communicate to us the metadata related to samples from which UCE data were extracted using the bait set made available at (_link_pending_). This will ensure a long-term (re-)usability of all published data.
+The purpose of this database is the centralization of termite UCE data and assignation of unique identification codes. We invite researchers to communicate to us the metadata related to samples from which UCE data were extracted using the bait sets made available on [_Dryad_](https://doi.org/10.5061/dryad.x0k6djhn0). This will ensure a long-term (re-)usability of all published data.
 
 For any question or request, please open an issue.
 
