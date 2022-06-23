@@ -79,6 +79,13 @@ Now, it is time to align your UCE data in combination with the selected samples 
 ### 7. Merge your own data with the database subset
 cat my_own_termite_uce_data-incomplete.fasta database_subset.fasta > samples_to_align.fasta
 
+### OPTIONAL: (re-)create separated loci or taxon files from the samples_to_align.fasta
+### This can be useful for subsetting purposes, or parrallelizing the alignment of loci
+## Exploding the monolithic fasta into one locus per file
+phyluce_assembly_explode_get_fastas_file --input samples_to_align.fasta --output exploded-loci
+## Exploding the monolithic fasta into one sample per file
+phyluce_assembly_explode_get_fastas_file --by-taxon --input samples_to_align.fasta --output exploded-taxa
+
 ### 8. Align the loci with internal trimming
 phyluce_align_seqcap_align --fasta samples_to_align.fasta
 phyluce_align_get_gblocks_trimmed_alignments_from_untrimmed
