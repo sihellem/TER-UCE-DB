@@ -79,7 +79,7 @@ Now, it is time to align your UCE data in combination with the selected samples 
 ### 7. Merge your own data with the database subset
 cat my_own_termite_uce_data-incomplete.fasta database_subset.fasta > samples_to_align.fasta
 
-### OPTIONAL: (re-)create separated loci or taxon files from the samples_to_align.fasta
+### OPTIONAL: (re-)create separated locus or taxon files from the samples_to_align.fasta
 ### This can be useful for subsetting purposes, or parrallelizing the alignment of loci
 ## Exploding the monolithic fasta into one locus per file
 phyluce_assembly_explode_get_fastas_file --input samples_to_align.fasta --output exploded-loci
