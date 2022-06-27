@@ -96,6 +96,10 @@ phyluce_align_get_only_loci_with_min_taxa
 ## Export as phylip or nexus
 phyluce_align_format_nexus_files_for_raxml
 phyluce_align_format_nexus_files_for_raxml --nexus
+## You might want to export your alignment in .fasta for conveniently run phylogenies with FastTree.
+# For this, use the .phy file produce by 'phyluce_align_format_nexus_files_for_raxml', and:
+sed '1d' aln.phylip > aln.fasta
+sed -i 's/^/>/' aln.fasta && sed -i "s/ /\\n/g" aln.fasta
 ```
 ### B.4. What is next?
 With your tresholded matrices, you are all set for phylogenetic inferences. Once you finished your analyses and submit your manuscript to a journal, please contact us with the metadata of your samples, such as [these](termite_uce_db_ids.tsv). We will then assign each sample to a unique identification code (TER_X_UCEDB).
