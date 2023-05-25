@@ -16,6 +16,7 @@ Listed contributions to the [Database](termite_uce_db_ids.tsv).
 | --------  | ------------------- | --------------------- | ------------------- |
 | #1 | 45 | Hellemans _et al_. [_MPE_](https://doi.org/10.1016/j.ympev.2022.107520) | [_Dryad_](https://doi.org/10.5061/dryad.x0k6djhn0) |
 | #2 | 18 | Buček _et al_. [_MBE_](https://doi.org/10.1093/molbev/msac093) | [_Dryad_](https://doi.org/10.5061/dryad.5mkkwh77v) |
+| #3 | 196 | Arora _et al_. | [_Dryad_](https://doi.org/10.5061/dryad.tmpg4f53w) |
 
 ## B/ Methods and suggested database usage
 
@@ -58,6 +59,8 @@ At this point, you typically want to add already published UCE data (outgroups, 
 wget https://datadryad.org/stash/downloads/file_stream/1543952 --output-document=TER_UCE_DB_CONTRIB_1.fasta
 ## Contribution #2
 wget https://datadryad.org/stash/downloads/file_stream/1427659 --output-document=TER_UCE_DB_CONTRIB_2.zip && unzip TER_UCE_DB_CONTRIB_2.zip && rm TER_UCE_DB_CONTRIB_2.zip && rm -fr __MACOSX
+## Contribution #3
+wget https://datadryad.org/stash/downloads/file_stream/2255906 --output-document=TER_UCE_DB_CONTRIB_3.tar.gz && tar -xvf TER_UCE_DB_CONTRIB_3.tar.gz && rm TER_UCE_DB_CONTRIB_3.tar.gz
 ## Combine fastas
 cat TER_UCE_DB_CONTRIB_1.fasta TER_UCE_DB_CONTRIB_2.fasta ... TER_UCE_DB_CONTRIB_N.fasta > database.fasta
 
