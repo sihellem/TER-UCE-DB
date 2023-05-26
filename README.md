@@ -75,6 +75,9 @@ __END__
 
 ## Extract the selected samples with seqkit grep -nrif
 seqkit grep --by-name --use-regexp --ignore-case --pattern-file ids.txt database.fasta > database_subset.fasta
+
+## Get the corresponding ID-species ids
+wget https://raw.githubusercontent.com/sihellem/TER-UCE-DB/main/termite_uce_db_ids.tsv
 ```
 ### B.3. Alignments and generation of supermatrices
 Now, it is time to align your UCE data in combination with the selected samples from the database. This step mostly follows the phyluce official docs: [Aligning UCEs](https://phyluce.readthedocs.io/en/latest/tutorials/tutorial-1.html#aligning-uce-loci)
