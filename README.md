@@ -84,10 +84,11 @@ cat my_own_termite_uce_data-incomplete.fasta database_subset.fasta > samples_to_
 
 ### OPTIONAL: (re-)create separated locus or taxon files from the samples_to_align.fasta
 ### This can be useful for subsetting purposes, or parrallelizing the alignment of loci
-## Exploding the monolithic fasta into one locus per file
+## OPT.1: Exploding the monolithic fasta into one locus per file
 phyluce_assembly_explode_get_fastas_file --input samples_to_align.fasta --output exploded-loci
-## Exploding the monolithic fasta into one sample per file
+## OPT.2: Exploding the monolithic fasta into one sample per file
 phyluce_assembly_explode_get_fastas_file --by-taxon --input samples_to_align.fasta --output exploded-taxa
+### NOTE: if process stops and does not write fasta files, you may need to break the samples_to_align.fasta into two parts (or more)
 
 ### 8. Align the loci with internal trimming
 phyluce_align_seqcap_align --fasta samples_to_align.fasta
