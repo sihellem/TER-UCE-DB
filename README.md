@@ -137,7 +137,19 @@ done < db_ids.txt
 ```
 
 ## C/ Diagnostic tool for subfamily determination within Termitidae
-/// COMING_SOON ///
+The current version of the diagnostic tool for the subfamilies of Termitidae is available in the [_Dryad_](https://doi.org/10.5061/dryad.02v6wwqbm) repository. For the list of UCEs covered by this tool, please refer to the Supplements published in _Hellemans et al_.
+Using this tool requires the command line version of [_NCBI-BLAST_](https://www.ncbi.nlm.nih.gov/books/NBK569861/).
+
+```
+## Downloading the current diagnostic database
+wget https://datadryad.org/stash/downloads/XXX --output-document=termitidae_diagnosing_database_v1.fasta.gz && tar -xvf termitidae_diagnosing_database_v1.fasta && rm termitidae_diagnosing_database_v1.fasta.gz
+
+## Converting to database format
+makeblastdb -in termitidae_diagnosing_database_v1.fasta -dbtype nucl -parse_seqids
+
+## Using the tool on your $FASTA restricted to covered UCEs
+blastn -task megablast -db termitidae_diagnosing_database_v1.fasta -query $FASTA -out blasted_uces.txt -outfmt '6 qseqid sseqid bitscore evalue length qlen qcovs pident' -max_hsps 1
+```
 
 ## D/ How to cite
 Hellemans S, Wang M, Hasegawa N, Šobotník J, Scheffrahn RH, Bourguignon T. 2022. Using ultraconserved elements to reconstruct the termite tree of life. _Molecular Phylogenetics and Evolution_ __173__: 107520. doi: [10.1016/j.ympev.2022.107520](https://doi.org/10.1016/j.ympev.2022.107520)
