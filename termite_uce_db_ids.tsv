@@ -1,6 +1,6 @@
 Contribution	ID	Tag_UCE_DB	Sample_id	Family	Subfamily	Species-group	Genus	Genus_Species	Country	Locality	Year of collection	Number of extracted UCEs	GenBank_Mitogenome_Accession
 #1	1	TER_1_UCEDB	NA	Kalotermitidae	NA		Cryptotermes	Cryptotermes secundus	Australia			42542	NA
-#1	2	TER_2_UCEDB	NA	Rhinotermitidae	NA		Coptotermes	Coptotermes formosanus	Japan	Wakayama		42860	NA
+#1	2	TER_2_UCEDB	NA	Heterotermitidae	NA		Coptotermes	Coptotermes formosanus	Japan	Wakayama		42860	NA
 #1	3	TER_3_UCEDB	NA	Termitidae	Macrotermitinae		Macrotermes	Macrotermes natalensis	South Africa			42297	NA
 #1	4	TER_4_UCEDB	NA	Archotermopsidae	NA		Zootermopsis	Zootermopsis nevadensis	USA	California		42388	NA
 #1	5	TER_5_UCEDB	CR18	Cryptocercidae	NA		Cryptocercus	Cryptocercus punctulatus	USA	Virginia	2012	13480	MG882217
@@ -15,11 +15,11 @@ Contribution	ID	Tag_UCE_DB	Sample_id	Family	Subfamily	Species-group	Genus	Genus_
 #1	14	TER_14_UCEDB	PORO-CHILI	Stolotermitidae	NA		Porotermes	Porotermes quadricollis	Chile		NA	38150	OM646555
 #1	15	TER_15_UCEDB	PR1052	Kalotermitidae	NA		Glyptotermes	Glyptotermes pubescens	Puerto Rico		2017	11915	OL875057
 #1	16	TER_16_UCEDB	MX313	Kalotermitidae	NA		Cryptotermes	Cryptotermes cavifrons	Mexico		2001	18994	OL875054
-#1	17	TER_17_UCEDB	EC1239	Rhinotermitidae	Rhinotermitinae		Rhinotermes	Rhinotermes hispidus	Ecuador		2011	23406	OL875052
-#1	18	TER_18_UCEDB	EC713	Rhinotermitidae	Rhinotermitinae		Dolichorhinotermes	Dolichorhinotermes longilabius	Ecuador		2011	26968	OL875051
-#1	19	TER_19_UCEDB	BO70	Rhinotermitidae	NA		Heterotermes	Heterotermes tenuis	Bolivia		2013	30583	OL875043
-#1	20	TER_20_UCEDB	FL349	Rhinotermitidae	NA		Reticulitermes	Reticulitermes flavipes	USA	Florida	NA	32336	OL875053
-#1	21	TER_21_UCEDB	CO423	Rhinotermitidae	NA		Coptotermes	Coptotermes testaceus	Columbia 	Cienaga de Ortiz	2009	34001	OL875050
+#1	17	TER_17_UCEDB	EC1239	Rhinotermitidae	NA		Rhinotermes	Rhinotermes hispidus	Ecuador		2011	23406	OL875052
+#1	18	TER_18_UCEDB	EC713	Rhinotermitidae	NA		Dolichorhinotermes	Dolichorhinotermes longilabius	Ecuador		2011	26968	OL875051
+#1	19	TER_19_UCEDB	BO70	Heterotermitidae	NA		Heterotermes	Heterotermes tenuis	Bolivia		2013	30583	OL875043
+#1	20	TER_20_UCEDB	FL349	Heterotermitidae	NA		Reticulitermes	Reticulitermes flavipes	USA	Florida	NA	32336	OL875053
+#1	21	TER_21_UCEDB	CO423	Heterotermitidae	NA		Coptotermes	Coptotermes testaceus	Columbia 	Cienaga de Ortiz	2009	34001	OL875050
 #1	22	TER_22_UCEDB	Guyane 104	Termitidae	Apicotermitinae		Anoplotermes	Anoplotermes banksi	French Guiana		2008	19394	OL875045
 #1	23	TER_23_UCEDB	BR18-03	Termitidae	Microcerotermitinae	Microcerotermes-group	Microcerotermes	Microcerotermes sp.	Brazil	Paraíba	2018	24367	OL875048
 #1	24	TER_24_UCEDB	BR18-10 	Termitidae	Nasutitermitinae		Subulitermes	Subulitermes sp. 1-1	Brazil	Paraíba	2018	21257	OL875047
@@ -34,7 +34,7 @@ Contribution	ID	Tag_UCE_DB	Sample_id	Family	Subfamily	Species-group	Genus	Genus_
 #1	33	TER_33_UCEDB	DJ0381	Termitidae	Cubitermitinae		Nitiditermes	Nitiditermes sp.	Burkina Faso		2016	16240	OL875029
 #1	34	TER_34_UCEDB	Breeds_KF	Kalotermitidae	NA		Kalotermes	Kalotermes flavicollis	Italy	Florence	NA	40941	OL875030
 #1	35	TER_35_UCEDB	Breeds_NC_col1	Kalotermitidae	NA		Neotermes	Neotermes castaneus	Cuba		NA	41508	OL875031
-#1	36	TER_36_UCEDB	Breeds_PS_colF	Rhinotermitidae	Prorhinotermitinae		Prorhinotermes	Prorhinotermes simplex	USA	Florida	NA	42117	OL875033
+#1	36	TER_36_UCEDB	Breeds_PS_colF	Psammotermitidae	Prorhinotermitinae		Prorhinotermes	Prorhinotermes simplex	USA	Florida	NA	42117	OL875033
 #1	37	TER_37_UCEDB	Breeds_FG19-PG-02	Serritermitidae	NA		Glossotermes	Glossotermes oculatus	French Guiana		NA	41813	OL875032
 #1	38	TER_38_UCEDB	CHI15-156	Stylotermitidae	NA		Stylotermes	Stylotermes halumicus	China		2016	35273	KY449049
 #1	39	TER_39_UCEDB	OK3	Termitidae	Macrotermitinae		Odontotermes	Odontotermes formosanus	Japan	Okinawa	2019	41278	OL875037
@@ -43,7 +43,7 @@ Contribution	ID	Tag_UCE_DB	Sample_id	Family	Subfamily	Species-group	Genus	Genus_
 #1	42	TER_42_UCEDB	FG18-PG-042	Termitidae	Syntermitinae		Labiotermes	Labiotermes labralis	French Guiana		2018	39895	OL875034
 #1	43	TER_43_UCEDB	CAM239	Termitidae	Promirotermitinae	Amitermes-group	Promirotermes	Promirotermes redundans	Cameroon		2015	17316	OL875039
 #1	44	TER_44_UCEDB	CAM179	Termitidae	Mirocapritermitinae	Pericapritermes-group	Pericapritermes	Pericapritermes sp. 4	Cameroon		2015	38121	OL875038
-#1	45	TER_45_UCEDB	IRJT202	Rhinotermitidae	Termitogetoninae		Termitogeton	Termitogeton planus	Indonesia	Papua	1995	9378	OL875040
+#1	45	TER_45_UCEDB	IRJT202	Termitogetonidae	NA		Termitogeton	Termitogeton planus	Indonesia	Papua	1995	9378	OL875040
 #2	46	TER_46_UCEDB	ISR6	Kalotermitidae	NA		Longicaputermes	Longicaputermes sinaicus	Israel		NA	17782	OM991367
 #2	47	TER_47_UCEDB	IRAN4A	Kalotermitidae	NA	near Longicaputermes	UNDESCRIBED	UNDESCRIBED UNDESCRIBED	Iran		2000	7128	OM991362
 #2	48	TER_48_UCEDB	SantoT_003	Kalotermitidae	NA		Cryptotermes	Cryptotermes penaoru	Vanuatu		NA	22275	OM991436
@@ -88,24 +88,24 @@ Contribution	ID	Tag_UCE_DB	Sample_id	Family	Subfamily	Species-group	Genus	Genus_
 #3	87	TER_87_UCEDB	Chi15_131	Stylotermitidae	NA		Stylotermes	Stylotermes sp	China			38658	KY449048
 #3	88	TER_88_UCEDB	BRA31	Serritermitidae	NA		Serritermes	Serritermes serrifer	Brazil			23375	KP026264
 #3	89	TER_89_UCEDB	G13-144	Serritermitidae	NA		Glossotermes	Glossotermes oculatus	French Guiana			36490	NA
-#3	90	TER_90_UCEDB	NG30	Rhinotermitidae	Rhinotermitinae		Parrhinotermes	Parrhinotermes browni	Papua New Guinea			40499	OQ991900
-#3	91	TER_91_UCEDB	THAI23	Rhinotermitidae	Rhinotermitinae		Parrhinotermes	Parrhinotermes sp A	Thailand			31725	MK246854
-#3	92	TER_92_UCEDB	G13-54	Rhinotermitidae	Rhinotermitinae		Dolichorhinotermes	Dolichorhinotermes longilabius	French Guiana			38176	OQ980237
-#3	93	TER_93_UCEDB	RDCT112	Rhinotermitidae	Rhinotermitinae		Schedorhinotermes	Schedorhinotermes lamanianus	Democratic Republic of the Congo			40538	MK246844
-#3	94	TER_94_UCEDB	THAI63	Rhinotermitidae	Rhinotermitinae		Schedorhinotermes	Schedorhinotermes sp 3	Thailand			41574	MK246856
-#3	95	TER_95_UCEDB	TBRU2.3A	Rhinotermitidae	Rhinotermitinae		Schedorhinotermes	Schedorhinotermes sarawakensis	Brunei			38861	MK246852
-#3	96	TER_96_UCEDB	NG84	Rhinotermitidae	Termitogetoninae		Termitogeton	Termitogeton planus	Papua New Guinea			8761	OQ933860
-#3	97	TER_97_UCEDB	NG90	Rhinotermitidae	Prorhinotermitinae		Prorhinotermes	Prorhinotermes inopinatus	Papua New Guinea			40731	OQ933861
-#3	98	TER_98_UCEDB	THAI98	Rhinotermitidae	NA		Reticulitermes	Reticulitermes sp A	Thailand			35585	KU925239
-#3	99	TER_99_UCEDB	US1	Rhinotermitidae	NA		Reticulitermes	Reticulitermes nelsonae	USA			37661	KU925238
-#3	100	TER_100_UCEDB	AUS88	Rhinotermitidae	NA		Heterotermes	Heterotermes cf paradoxus	Australia			39806	KU925223
-#3	101	TER_101_UCEDB	AUS121	Rhinotermitidae	NA		Heterotermes	Heterotermes cf paradoxus	Australia			41139	KU925225
-#3	102	TER_102_UCEDB	AUS47	Rhinotermitidae	NA		Heterotermes	Heterotermes vagus	Australia			38854	KU925234
-#3	103	TER_103_UCEDB	TBRU8.25	Rhinotermitidae	NA		Heterotermes	Heterotermes tenuior	Brunei			40068	OR052090
-#3	104	TER_104_UCEDB	CF_RNA_1	Rhinotermitidae	NA		Coptotermes	Coptotermes formosanus	Japan			41220	OR069384
-#3	105	TER_105_UCEDB	NG87	Rhinotermitidae	NA		Coptotermes	Coptotermes elisae	Papua New Guinea			39420	KU925202
-#3	106	TER_106_UCEDB	RDCT185	Rhinotermitidae	NA		Coptotermes	Coptotermes	Democratic Republic of the Congo			13994	OQ947861
-#3	107	TER_107_UCEDB	G13-107	Rhinotermitidae	NA		Coptotermes	Coptotermes testaceus	French Guiana			19080	KU925219
+#3	90	TER_90_UCEDB	NG30	Rhinotermitidae	NA		Parrhinotermes	Parrhinotermes browni	Papua New Guinea			40499	OQ991900
+#3	91	TER_91_UCEDB	THAI23	Rhinotermitidae	NA		Parrhinotermes	Parrhinotermes sp A	Thailand			31725	MK246854
+#3	92	TER_92_UCEDB	G13-54	Rhinotermitidae	NA		Dolichorhinotermes	Dolichorhinotermes longilabius	French Guiana			38176	OQ980237
+#3	93	TER_93_UCEDB	RDCT112	Rhinotermitidae	NA		Schedorhinotermes	Schedorhinotermes lamanianus	Democratic Republic of the Congo			40538	MK246844
+#3	94	TER_94_UCEDB	THAI63	Rhinotermitidae	NA		Schedorhinotermes	Schedorhinotermes sp 3	Thailand			41574	MK246856
+#3	95	TER_95_UCEDB	TBRU2.3A	Rhinotermitidae	NA		Schedorhinotermes	Schedorhinotermes sarawakensis	Brunei			38861	MK246852
+#3	96	TER_96_UCEDB	NG84	Termitogetonidae	NA		Termitogeton	Termitogeton planus	Papua New Guinea			8761	OQ933860
+#3	97	TER_97_UCEDB	NG90	Psammotermitidae	Prorhinotermitinae		Prorhinotermes	Prorhinotermes inopinatus	Papua New Guinea			40731	OQ933861
+#3	98	TER_98_UCEDB	THAI98	Heterotermitidae	NA		Reticulitermes	Reticulitermes sp A	Thailand			35585	KU925239
+#3	99	TER_99_UCEDB	US1	Heterotermitidae	NA		Reticulitermes	Reticulitermes nelsonae	USA			37661	KU925238
+#3	100	TER_100_UCEDB	AUS88	Heterotermitidae	NA		Heterotermes	Heterotermes cf paradoxus	Australia			39806	KU925223
+#3	101	TER_101_UCEDB	AUS121	Heterotermitidae	NA		Heterotermes	Heterotermes cf paradoxus	Australia			41139	KU925225
+#3	102	TER_102_UCEDB	AUS47	Heterotermitidae	NA		Heterotermes	Heterotermes vagus	Australia			38854	KU925234
+#3	103	TER_103_UCEDB	TBRU8.25	Heterotermitidae	NA		Heterotermes	Heterotermes tenuior	Brunei			40068	OR052090
+#3	104	TER_104_UCEDB	CF_RNA_1	Heterotermitidae	NA		Coptotermes	Coptotermes formosanus	Japan			41220	OR069384
+#3	105	TER_105_UCEDB	NG87	Heterotermitidae	NA		Coptotermes	Coptotermes elisae	Papua New Guinea			39420	KU925202
+#3	106	TER_106_UCEDB	RDCT185	Heterotermitidae	NA		Coptotermes	Coptotermes	Democratic Republic of the Congo			13994	OQ947861
+#3	107	TER_107_UCEDB	G13-107	Heterotermitidae	NA		Coptotermes	Coptotermes testaceus	French Guiana			19080	KU925219
 #3	108	TER_108_UCEDB	RDCT165	Termitidae	Sphaerotermitinae		Sphaerotermes	Sphaerotermes sphaerothorax	Democratic Republic of the Congo			1461	KY224584
 #3	109	TER_109_UCEDB	CAM16-02a	Termitidae	Macrotermitinae		Acanthotermes 	Acanthotermes acanthothorax	Cameroon			33260	KP026280
 #3	110	TER_110_UCEDB	RDCT109	Termitidae	Macrotermitinae		Pseudacanthotermes 	Pseudacanthotermes militaris	Democratic Republic of the Congo			35996	OQ947859
