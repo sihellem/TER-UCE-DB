@@ -148,6 +148,9 @@ wget https://datadryad.org/stash/downloads/XXX --output-document=termitidae_diag
 ## Converting to database format
 makeblastdb -in termitidae_diagnosing_database_v1.fasta -dbtype nucl -parse_seqids
 
+## Get list of UCEs covered by the tool
+grep ">" termitidae_diagnosing_database_v1.fasta | awk -F'_' '{print $1}' | sed 's/>//g' | uniq > tool_ids.txt
+
 ## Using the tool on your $FASTA restricted to covered UCEs
 blastn -task megablast -db termitidae_diagnosing_database_v1.fasta -query $FASTA -out blasted_uces.txt -outfmt '6 qseqid sseqid bitscore evalue length qlen qcovs pident' -max_hsps 1
 ```
