@@ -145,14 +145,18 @@ _NB_: The current tool is not diagnostic for subfamilies represented by only one
 ## Downloading the current diagnostic database
 wget https://datadryad.org/stash/downloads/XXX --output-document=termitidae_diagnosing_database_v1.fasta.gz && tar -xvf termitidae_diagnosing_database_v1.fasta && rm termitidae_diagnosing_database_v1.fasta.gz
 
-## Converting to database format
+## Get list of UCEs covered by the tool
+# keep the underscore to ensure unique match
+grep ">" termitidae_diagnosing_database_v1.fasta | awk -F'_' '{print $1}' | sed 's/>//g' | uniq | sed 's/$/_/g' > tool_ids_uniq.txt
+
+## Extract the UCEs from your samples from the covered list (e.g., from database_subset.fasta file above)
+seqkit grep --by-name --use-regexp --ignore-case --pattern-file tool_ids_uniq.txt database_subset.fasta > subset_to_blast.fasta
+
+## Converting the tool to database format
 makeblastdb -in termitidae_diagnosing_database_v1.fasta -dbtype nucl -parse_seqids
 
-## Get list of UCEs covered by the tool
-grep ">" termitidae_diagnosing_database_v1.fasta | awk -F'_' '{print $1}' | sed 's/>//g' | uniq > tool_ids.txt
-
-## Using the tool on your $FASTA restricted to covered UCEs
-blastn -task megablast -db termitidae_diagnosing_database_v1.fasta -query $FASTA -out blasted_uces.txt -outfmt '6 qseqid sseqid bitscore evalue length qlen qcovs pident' -max_hsps 1
+## Using the tool on your database_subset_to_blast.fasta restricted to covered UCEs
+blastn -task megablast -db termitidae_diagnosing_database_v1.fasta -query subset_to_blast.fasta -out blasted_uces.txt -outfmt '6 qseqid sseqid bitscore evalue length qlen qcovs pident' -max_hsps 1 -max_target_seqs 1
 ```
 
 ## D/ How to cite
