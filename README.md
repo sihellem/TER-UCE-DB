@@ -140,6 +140,7 @@ done < db_ids.txt
 The current version of the diagnostic tool for the subfamilies of Termitidae is available in the [_Dryad_](https://doi.org/10.5061/dryad.02v6wwqbm) repository. For the list of UCEs covered by this tool, please refer to the Supplements published in _Hellemans et al_.
 Using this tool requires the command line version of [_NCBI-BLAST_](https://www.ncbi.nlm.nih.gov/books/NBK569861/).
 
+_NB_: The current tool is not diagnostic for subfamilies represented by only one sample (i.e., Crepititermitinae, Forficulitermitinae, and Protohamitermitinae) in the database.
 ```
 ## Downloading the current diagnostic database
 wget https://datadryad.org/stash/downloads/XXX --output-document=termitidae_diagnosing_database_v1.fasta.gz && tar -xvf termitidae_diagnosing_database_v1.fasta && rm termitidae_diagnosing_database_v1.fasta.gz
