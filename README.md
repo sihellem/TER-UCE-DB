@@ -58,11 +58,13 @@ At this point, you typically want to add already published UCE data (outgroups, 
 ```
 ### 5. Generate the database
 ## Contribution #1
-wget https://datadryad.org/stash/downloads/file_stream/1543952 --output-document=TER_UCE_DB_CONTRIB_1.fasta
+wget --user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7)" https://datadryad.org/stash/downloads/file_stream/1543952 --output-document=TER_UCE_DB_CONTRIB_1.fasta
 ## Contribution #2
-wget https://datadryad.org/stash/downloads/file_stream/1427659 --output-document=TER_UCE_DB_CONTRIB_2.zip && unzip TER_UCE_DB_CONTRIB_2.zip && rm TER_UCE_DB_CONTRIB_2.zip && rm -fr __MACOSX
+wget --user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7)" https://datadryad.org/stash/downloads/file_stream/1427659 --output-document=TER_UCE_DB_CONTRIB_2.zip && unzip TER_UCE_DB_CONTRIB_2.zip && rm TER_UCE_DB_CONTRIB_2.zip && rm -fr __MACOSX
 ## Contribution #3
-wget https://datadryad.org/stash/downloads/file_stream/2255906 --output-document=TER_UCE_DB_CONTRIB_3.tar.gz && tar -xvf TER_UCE_DB_CONTRIB_3.tar.gz && rm TER_UCE_DB_CONTRIB_3.tar.gz
+wget --user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7)" https://datadryad.org/stash/downloads/file_stream/2255906 --output-document=TER_UCE_DB_CONTRIB_3.tar.gz && tar -xvf TER_UCE_DB_CONTRIB_3.tar.gz && rm TER_UCE_DB_CONTRIB_3.tar.gz
+## Contribution #4
+wget --user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7)" https://datadryad.org/stash/downloads/file_stream/3273623 --output-document=TER_UCE_DB_CONTRIB_4.tar.gz && tar -xvf TER_UCE_DB_CONTRIB_4.tar.gz && rm TER_UCE_DB_CONTRIB_4.tar.gz
 ## Combine fastas
 cat TER_UCE_DB_CONTRIB_1.fasta TER_UCE_DB_CONTRIB_2.fasta ... TER_UCE_DB_CONTRIB_N.fasta > database.fasta
 
@@ -144,7 +146,7 @@ Using this tool requires the command line version of [_NCBI-BLAST_](https://www.
 _NB_: The current tool is not diagnostic for subfamilies represented by only one sample (i.e., Crepititermitinae, Forficulitermitinae, and Protohamitermitinae) in the database.
 ```
 ## Downloading the current diagnostic database
-wget https://datadryad.org/stash/downloads/XXX --output-document=termitidae_diagnosing_database_v1.fasta.gz && tar -xvf termitidae_diagnosing_database_v1.fasta && rm termitidae_diagnosing_database_v1.fasta.gz
+wget --user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7)" https://datadryad.org/stash/downloads/file_stream/3273621 --output-document=termitidae_diagnosing_database_v1.fasta.gz && gzip -d termitidae_diagnosing_database_v1.fasta.gz
 
 ## Get list of UCEs covered by the tool
 # keep the underscore to ensure unique match
