@@ -64,7 +64,7 @@ wget --user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7)" https://data
 ## Contribution #3
 wget --user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7)" https://datadryad.org/stash/downloads/file_stream/2255906 --output-document=TER_UCE_DB_CONTRIB_3.tar.gz && tar -xvf TER_UCE_DB_CONTRIB_3.tar.gz && rm TER_UCE_DB_CONTRIB_3.tar.gz
 ## Contribution #4
-wget --user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7)" https://datadryad.org/stash/downloads/file_stream/3273623 --output-document=TER_UCE_DB_CONTRIB_4.tar.gz && tar -xvf TER_UCE_DB_CONTRIB_4.tar.gz && rm TER_UCE_DB_CONTRIB_4.tar.gz
+wget --user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7)" https://datadryad.org/stash/downloads/file_stream/3273623 --output-document=TER_UCE_DB_CONTRIB_4.fasta.gz && gzip -d TER_UCE_DB_CONTRIB_4.fasta.gz
 ## Combine fastas
 cat TER_UCE_DB_CONTRIB_1.fasta TER_UCE_DB_CONTRIB_2.fasta ... TER_UCE_DB_CONTRIB_N.fasta > database.fasta
 
