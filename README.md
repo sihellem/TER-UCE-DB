@@ -18,7 +18,7 @@ Listed contributions to the [Database](termite_uce_db_ids.tsv).
 | #1 | 45 | Hellemans _et al_. [_MPE_](https://doi.org/10.1016/j.ympev.2022.107520) | [_Dryad_](https://doi.org/10.5061/dryad.x0k6djhn0) |
 | #2 | 18 | Buček _et al_. [_MBE_](https://doi.org/10.1093/molbev/msac093) | [_Dryad_](https://doi.org/10.5061/dryad.5mkkwh77v) |
 | #3 | 196 | Arora _et al_. [_Proc. B_](https://doi.org/10.1098/rspb.2023.0619) | [_Dryad_](https://doi.org/10.5061/dryad.tmpg4f53w) |
-| #4 | 56 | Hellemans _et al_. | [_Dryad_](https://doi.org/10.5061/dryad.02v6wwqbm) |
+| #4 | 56 | Hellemans _et al_. [_NatComm_](https://doi.org/10.1038/s41467-024-51028-y) | [_Dryad_](https://doi.org/10.5061/dryad.02v6wwqbm) |
 
 Since 2024, command-line direct download is prevented for non-browser access. You can either use the links of each contribution and download them one-by-one using your favorite internet navigator. Datasets can still be accessed by mimicking browser access through ```--user-agent``` option of ```wget``` (e.g., ```wget --user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7)"```) as suggested on this StackExchange [post](https://unix.stackexchange.com/questions/158352/curl-wget-403-forbidden). Note that ```--user-agent``` needs to be changed after each use.
 For a more permanent solution, you can install a random user-agent generator, such as [randomua](https://github.com/picatz/randomua) written in ```ruby``` (to be installed with the command: ```gem install randomua```).
@@ -144,10 +144,10 @@ done < db_ids.txt
 ```
 
 ## C/ Diagnostic tool for subfamily determination within Termitidae
-The current version of the diagnostic tool for the subfamilies of Termitidae is available in the [_Dryad_](https://doi.org/10.5061/dryad.02v6wwqbm) repository. For the list of UCEs covered by this tool, please refer to the Supplements published in _Hellemans et al_.
+The current version of the diagnostic tool for the subfamilies of Termitidae is available in the [_Dryad_](https://doi.org/10.5061/dryad.02v6wwqbm) repository. For the list of UCEs covered by this tool, please refer to the Supplements published in Hellemans _et al_. [_NatComm_](https://doi.org/10.1038/s41467-024-51028-y).
 Using this tool requires the command line version of [_NCBI-BLAST_](https://www.ncbi.nlm.nih.gov/books/NBK569861/).
 
-_NB_: The current tool is not diagnostic for subfamilies represented by only one sample (i.e., Crepititermitinae, Forficulitermitinae, and Protohamitermitinae) in the database.
+_NB_: The current tool is not diagnostic for subfamilies represented by only one sample (_i.e._: Crepititermitinae, Forficulitermitinae, and Protohamitermitinae) in the database.
 ```
 ## Downloading the current diagnostic database
 wget --user-agent="$(randomua -d)" https://datadryad.org/stash/downloads/file_stream/3273621 --output-document=termitidae_diagnosing_database_v1.fasta.gz && gzip -d termitidae_diagnosing_database_v1.fasta.gz
@@ -167,6 +167,12 @@ blastn -task megablast -db termitidae_diagnosing_database_v1.fasta -query subset
 ```
 
 ## D/ How to cite
-Hellemans S, Wang M, Hasegawa N, Šobotník J, Scheffrahn RH, Bourguignon T. 2022. Using ultraconserved elements to reconstruct the termite tree of life. _Molecular Phylogenetics and Evolution_ __173__: 107520. doi: [10.1016/j.ympev.2022.107520](https://doi.org/10.1016/j.ympev.2022.107520)
 
+__UCEs baits + Database__
+
+* Hellemans S, Wang M, Hasegawa N, Šobotník J, Scheffrahn RH, Bourguignon T. 2022. Using ultraconserved elements to reconstruct the termite tree of life. _Molecular Phylogenetics and Evolution_ __173__: 107520. doi: [10.1016/j.ympev.2022.107520](https://doi.org/10.1016/j.ympev.2022.107520)
 [Preprint on _bioRxiv_ [2021.12.09.472027](https://doi.org/10.1101/2021.12.09.472027)]
+
+__Diagnostic tool for subfamily determination within Termitidae__
+
+* Hellemans S _et al._ 2024. Genomic data provide insights into the classification of extant termites. _Nature Communications_ __15__: 6724. doi: [10.1038/s41467-024-51028-y](https://doi.org/10.1038/s41467-024-51028-y)
