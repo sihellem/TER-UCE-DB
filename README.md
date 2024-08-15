@@ -28,7 +28,15 @@ For a more permanent solution, you can install a random user-agent generator, su
 _Dependencies_: [bioawk](https://github.com/lh3/bioawk), faToTwoBit from [BLAT](http://hgdownload.soe.ucsc.edu/admin/exe/), [phyluce](https://github.com/faircloth-lab/phyluce), [SeqKit](https://bioinf.shenwei.me/seqkit/usage/).
 
 ### B.1. Extraction of UCEs from newly-generated assemblies
-Note that two sets of baits were made available on the [_Dryad_](https://doi.org/10.5061/dryad.x0k6djhn0) repository. The first set targets all 50,616 UCE loci ([_Dryad_](https://doi.org/10.5061/dryad.x0k6djhn0): Supplementary Data 5), while the second set targets a reduced set of 5,934 UCE loci, each present for at least 75% of samples ([_Dryad_](https://doi.org/10.5061/dryad.x0k6djhn0): Supplementary Data 8). The first set is intended to be used for _in silico_ mining approach, while the second could be synthetized for the more traditional hybridization approach.
+The bait design was made from four publicly-available genomes:
+- _Zootermopsis nevadensis_ (GCF_000696155.1),
+- _Cryptotermes secundus_ (GCF_002891405.2),
+- _Coptotermes formosanus_ (GCA_013340265.1),
+- and _Macrotermes natalensis_ (GigaDB #100057).
+
+Refer to Hellemans _et al_. [_MPE_](https://doi.org/10.1016/j.ympev.2022.107520) for more details on the design procedure.
+
+Note that two sets of baits were made available on the [_Dryad_](https://doi.org/10.5061/dryad.x0k6djhn0) repository. The first set targets all 50,616 UCE loci ([_Dryad_](https://doi.org/10.5061/dryad.x0k6djhn0): Supplementary Data 5) with a total of 397,910 baits, while the second set targets a reduced set of 5,934 UCE loci, each present for at least 75% of samples ([_Dryad_](https://doi.org/10.5061/dryad.x0k6djhn0): Supplementary Data 8). The first set is intended to be used for _in silico_ mining approach, while the second could be synthetized for the more traditional hybridization approach.
 
 Start by using the termites baits to extract UCE loci from your formatted assemblies.
 
