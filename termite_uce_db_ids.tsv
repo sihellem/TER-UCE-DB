@@ -1,316 +1,316 @@
-Contribution	ID	Tag_UCE_DB	Sample_id	Family	Subfamily	Species-group	Genus	Genus_Species	Country	Locality	Year of collection	Number of extracted UCEs	GenBank_Mitogenome_Accession
-#1	1	TER_1_UCEDB	NA	Kalotermitidae	NA		Cryptotermes	Cryptotermes secundus	Australia			42542	NA
-#1	2	TER_2_UCEDB	NA	Heterotermitidae	NA		Coptotermes	Coptotermes formosanus	Japan	Wakayama		42860	NA
-#1	3	TER_3_UCEDB	NA	Termitidae	Macrotermitinae		Macrotermes	Macrotermes natalensis	South Africa			42297	NA
-#1	4	TER_4_UCEDB	NA	Archotermopsidae	NA		Zootermopsis	Zootermopsis nevadensis	USA	California		42388	NA
-#1	5	TER_5_UCEDB	CR18	Cryptocercidae	NA		Cryptocercus	Cryptocercus punctulatus	USA	Virginia	2012	13480	MG882217
-#1	6	TER_6_UCEDB	CRY-MERI	Cryptocercidae	NA		Cryptocercus	Cryptocercus meridianus	China	Yunnan Province	2012	13958	MG882224
-#1	7	TER_7_UCEDB	CRY-HIR	Cryptocercidae	NA		Cryptocercus	Cryptocercus hirtus	China	Shaanxi Province	2013	16331	MG882220
-#1	8	TER_8_UCEDB	BDIT108	Termitidae	Foraminitermitinae		Foraminitermes	Foraminitermes rhinoceros	Burundi		2013	37108	KY224630
-#1	9	TER_9_UCEDB	TBRU8.14E.1	Termitidae	Foraminitermitinae		Labritermes	Labritermes buttelreepeni	Brunei		2014	39588	NA
-#1	10	TER_10_UCEDB	CIVT304	Termitidae	Apicotermitinae		Allognathotermes	Allognathotermes hypogeus	Ivory Coast		2017	3426	MW817578
-#1	11	TER_11_UCEDB	CIVT266	Termitidae	Apicotermitinae		Astalotermes	Astalotermes sp. D	Ivory Coast		2017	5007	MW817577
-#1	12	TER_12_UCEDB	MD-RNA-1	Mastotermitidae	NA		Mastotermes	Mastotermes darwiniensis	Australia		NA	35429	OM646554
-#1	13	TER_13_UCEDB	HSRNA1	Hodotermopsidae	NA		Hodotermopsis	Hodotermopsis sjostedti	China		NA	35656	OM646553
-#1	14	TER_14_UCEDB	PORO-CHILI	Stolotermitidae	NA		Porotermes	Porotermes quadricollis	Chile		NA	38150	OM646555
-#1	15	TER_15_UCEDB	PR1052	Kalotermitidae	NA		Glyptotermes	Glyptotermes pubescens	Puerto Rico		2017	11915	OL875057
-#1	16	TER_16_UCEDB	MX313	Kalotermitidae	NA		Cryptotermes	Cryptotermes cavifrons	Mexico		2001	18994	OL875054
-#1	17	TER_17_UCEDB	EC1239	Rhinotermitidae	NA		Rhinotermes	Rhinotermes hispidus	Ecuador		2011	23406	OL875052
-#1	18	TER_18_UCEDB	EC713	Rhinotermitidae	NA		Dolichorhinotermes	Dolichorhinotermes longilabius	Ecuador		2011	26968	OL875051
-#1	19	TER_19_UCEDB	BO70	Heterotermitidae	NA		Heterotermes	Heterotermes tenuis	Bolivia		2013	30583	OL875043
-#1	20	TER_20_UCEDB	FL349	Heterotermitidae	NA		Reticulitermes	Reticulitermes flavipes	USA	Florida	NA	32336	OL875053
-#1	21	TER_21_UCEDB	CO423	Heterotermitidae	NA		Coptotermes	Coptotermes testaceus	Columbia 	Cienaga de Ortiz	2009	34001	OL875050
-#1	22	TER_22_UCEDB	Guyane 104	Termitidae	Apicotermitinae		Anoplotermes	Anoplotermes banksi	French Guiana		2008	19394	OL875045
-#1	23	TER_23_UCEDB	BR18-03	Termitidae	Microcerotermitinae	Microcerotermes-group	Microcerotermes	Microcerotermes sp.	Brazil	Paraíba	2018	24367	OL875048
-#1	24	TER_24_UCEDB	BR18-10 	Termitidae	Nasutitermitinae		Subulitermes	Subulitermes sp. 1-1	Brazil	Paraíba	2018	21257	OL875047
-#1	25	TER_25_UCEDB	NI275	Termitidae	Nasutitermitinae		Nasutitermes	Nasutitermes corniger	Nicaragua		2004	23053	OL875055
-#1	26	TER_26_UCEDB	PA766	Termitidae	Nasutitermitinae		Constrictotermes	Constrictotermes cyphergaster	Paraguay		2012	23546	OL875056
-#1	27	TER_27_UCEDB	PU874	Termitidae	Neocapritermitinae	Neocapritermes-group	Neocapritermes	Neocapritermes utiariti	Peru		2014	7637	OL875041
-#1	28	TER_28_UCEDB	PU620	Termitidae	Syntermitinae		Cornitermes	Cornitermes pugnax	Peru		2014	18854	OL875058
-#1	29	TER_29_UCEDB	BO211	Termitidae	Syntermitinae		Embiratermes	Embiratermes neotenicus	Bolivia		2013	24978	OL875044
-#1	30	TER_30_UCEDB	TT18-59	Termitidae	Termitinae	Termes-group	Cavitermes	Cavitermes tuberosus	Trinidad and Tobago		2018	23535	OL875046
-#1	31	TER_31_UCEDB	BO816	Termitidae	Amitermitinae	Amitermes-group	Dentispicotermes	Dentispicotermes n. sp. 2	Bolivia		2013	6602	OL875049
-#1	32	TER_32_UCEDB	US589	Termitidae	Amitermitinae	Amitermes-group	Amitermes	Amitermes californicus	USA	Arizona	2005	21240	OL875042
-#1	33	TER_33_UCEDB	DJ0381	Termitidae	Cubitermitinae		Nitiditermes	Nitiditermes sp.	Burkina Faso		2016	16240	OL875029
-#1	34	TER_34_UCEDB	Breeds_KF	Kalotermitidae	NA		Kalotermes	Kalotermes flavicollis	Italy	Florence	NA	40941	OL875030
-#1	35	TER_35_UCEDB	Breeds_NC_col1	Kalotermitidae	NA		Neotermes	Neotermes castaneus	Cuba		NA	41508	OL875031
-#1	36	TER_36_UCEDB	Breeds_PS_colF	Psammotermitidae	Prorhinotermitinae		Prorhinotermes	Prorhinotermes simplex	USA	Florida	NA	42117	OL875033
-#1	37	TER_37_UCEDB	Breeds_FG19-PG-02	Serritermitidae	NA		Glossotermes	Glossotermes oculatus	French Guiana		NA	41813	OL875032
-#1	38	TER_38_UCEDB	CHI15-156	Stylotermitidae	NA		Stylotermes	Stylotermes halumicus	China		2016	35273	KY449049
-#1	39	TER_39_UCEDB	OK3	Termitidae	Macrotermitinae		Odontotermes	Odontotermes formosanus	Japan	Okinawa	2019	41278	OL875037
-#1	40	TER_40_UCEDB	CAM16-PG-18	Termitidae	Nasutitermitinae		Leptomyxotermes	Leptomyxotermes doriae	Cameroon		2016	40077	OL875035
-#1	41	TER_41_UCEDB	CAM17-SP3	Termitidae	Sphaerotermitinae		Sphaerotermes	Sphaerotermes sphaerothorax	Cameroon		2017	40520	OL875036
-#1	42	TER_42_UCEDB	FG18-PG-042	Termitidae	Syntermitinae		Labiotermes	Labiotermes labralis	French Guiana		2018	39895	OL875034
-#1	43	TER_43_UCEDB	CAM239	Termitidae	Promirotermitinae	Amitermes-group	Promirotermes	Promirotermes redundans	Cameroon		2015	17316	OL875039
-#1	44	TER_44_UCEDB	CAM179	Termitidae	Mirocapritermitinae	Pericapritermes-group	Pericapritermes	Pericapritermes sp. 4	Cameroon		2015	38121	OL875038
-#1	45	TER_45_UCEDB	IRJT202	Termitogetonidae	NA		Termitogeton	Termitogeton planus	Indonesia	Papua	1995	9378	OL875040
-#2	46	TER_46_UCEDB	ISR6	Kalotermitidae	NA		Longicaputermes	Longicaputermes sinaicus	Israel		NA	17782	OM991367
-#2	47	TER_47_UCEDB	IRAN4A	Kalotermitidae	NA	near Longicaputermes	UNDESCRIBED	UNDESCRIBED UNDESCRIBED	Iran		2000	7128	OM991362
-#2	48	TER_48_UCEDB	SantoT_003	Kalotermitidae	NA		Cryptotermes	Cryptotermes penaoru	Vanuatu		NA	22275	OM991436
-#2	49	TER_49_UCEDB	US622	Kalotermitidae	NA		Pterotermes	Pterotermes occidentis	USA	Arizona	2005	1059	OK506059
-#2	50	TER_50_UCEDB	BA3087	Kalotermitidae	NA		Cryptotermes	Cryptotermes cymatofrons	Bahamas		2015	13457	OM991309
-#2	51	TER_51_UCEDB	BA3122	Kalotermitidae	NA		Incisitermes	Incisitermes schwarzi	Bahamas		2015	2111	OK506045
-#2	52	TER_52_UCEDB	Cam17-PG-1-TA	Kalotermitidae	NA		Glyptotermes	Glyptotermes sp	Cameroon		2017	4722	OM991319
-#2	53	TER_53_UCEDB	Cam16-41	Kalotermitidae	NA		Cryptotermes	Cryptotermes havilandi	Cameroon		2016	20122	OM991316
-#2	54	TER_54_UCEDB	CU_1490_0	Kalotermitidae	NA		Neotermes	Neotermes phragmosus	Cuba		2001	4942	OM991339
-#2	55	TER_55_UCEDB	FL901_0	Kalotermitidae	NA		Kalotermes	Kalotermes approximatus	USA	Florida	2001	4690	OM991351
-#2	56	TER_56_UCEDB	MAD19-117	Kalotermitidae	NA		Postelectrotermes	Postelectrotermes sp	Madagascar		2019	5129	OM991391
-#2	57	TER_57_UCEDB	MAD19_7R	Kalotermitidae	NA		Allotermes	Allotermes sp	Madagascar		2019	26904	OM991396
-#2	58	TER_58_UCEDB	Marg-RS	Kalotermitidae	NA		Marginitermes	Marginitermes hubbardi	USA		2018	24980	OM991400
-#2	59	TER_59_UCEDB	NAM16_PG012TR	Kalotermitidae	NA		Epicalotermes	Epicalotermes sp	Namibia		2018	22164	OM991401
-#2	60	TER_60_UCEDB	PA827	Kalotermitidae	NA		Neotermes	Neotermes fulvescens	Paraguay		2012	18296	OM991405
-#2	61	TER_61_UCEDB	PA943	Kalotermitidae	NA		Tauritermes	Tauritermes triceromegas	Paraguay		2012	24735	OK506056
-#2	62	TER_62_UCEDB	PN1380_0	Kalotermitidae	NA		Calcaritermes	Calcaritermes nigriceps	Panama		2010	3960	OM991430
-#2	63	TER_63_UCEDB	PU998_0	Kalotermitidae	NA		Rugitermes	Rugitermes aridus	Peru		2014	4760	OM991434
-#3	64	TER_64_UCEDB	Cryp	Cryptocercidae	NA		Cryptocercus	Cryptocercus kyebangensis	South Korea			27510	ON059753
-#3	65	TER_65_UCEDB	SA16-13	Hodotermitidae	NA		Hodotermes	Hodotermes mossambicus	South Africa			39578	ON210831
-#3	66	TER_66_UCEDB	US17	Archotermopsidae	NA		Zootermopsis	Zootermopsis nevadensis	USA			21126	OQ434263
-#3	67	TER_67_UCEDB	AUST14-12	Stolotermitidae	NA		Stolotermes	Stolotermes victoriensis	Australia			29909	OK078629
-#3	68	TER_68_UCEDB	POROTERMES52	Stolotermitidae	NA		Porotermes	Porotermes planiceps	South Africa			23371	ON210830
-#3	69	TER_69_UCEDB	AUS89	Kalotermitidae	NA		Kalotermes	Kalotermes sp	Australia			36460	OM991306
-#3	70	TER_70_UCEDB	AUS109	Kalotermitidae	NA		Glyptotermes	Glyptotermes sp 1	Australia			27700	OM991301
-#3	71	TER_71_UCEDB	THAI112	Kalotermitidae	NA		Glyptotermes	Glyptotermes sp 6	Thailand			38476	OM991442
-#3	72	TER_72_UCEDB	H2	Kalotermitidae	NA		Glyptotermes	Glyptotermes sp	Japan			5187	OQ998965
-#3	73	TER_73_UCEDB	THAI31	Kalotermitidae	NA		Glyptotermes	Glyptotermes sp 3	Thailand			13083	OM991440
-#3	74	TER_74_UCEDB	THAI114	Kalotermitidae	NA		Glyptotermes	Glyptotermes sp 22	Thailand			29527	OK506057
-#3	75	TER_75_UCEDB	G678_2	Kalotermitidae	NA		Rugitermes	Rugitermes sp A	French Guiana			35590	KP026284
-#3	76	TER_76_UCEDB	SING74	Kalotermitidae	NA		Neotermes	Neotermes sp 8	Singapore			15553	OM991439
-#3	77	TER_77_UCEDB	AUS102	Kalotermitidae	NA		Neotermes	Neotermes insularis cfmalandensis	Australia			23476	OM991300
-#3	78	TER_78_UCEDB	AUS91	Kalotermitidae	NA		Neotermes	Neotermes insularis cfmalandensis	Australia			25357	OM991307
-#3	79	TER_79_UCEDB	KE15-30	Kalotermitidae	NA		Bifiditermes	Bifiditermes sp	Kenya			33066	OM991371
-#3	80	TER_80_UCEDB	MAD15-2	Kalotermitidae	NA		Bifiditermes	Bifiditermes spnrmadagascariensis	Madagascar			27418	OM991383
-#3	81	TER_81_UCEDB	M16	Kalotermitidae	NA		Tauritermes	Tauritermes sp	Argentina			20334	OQ998963
-#3	82	TER_82_UCEDB	AUS111	Kalotermitidae	NA		Incisitermes	Incisitermes nr barretti	Australia			28128	OM991303
-#3	83	TER_83_UCEDB	US10	Kalotermitidae	NA		Incisitermes	Incisitermes snyderi	USA			39748	OM991443
-#3	84	TER_84_UCEDB	MAL39	Kalotermitidae	NA		Cryptotermes	Cryptotermes domesticus	Malaysia			24118	OM991399
-#3	85	TER_85_UCEDB	AUS110	Kalotermitidae	NA		Cryptotermes	Cryptotermes sp 1	Australia			28254	OM991302
-#3	86	TER_86_UCEDB	AUS117	Kalotermitidae	NA		Cryptotermes	Cryptotermes sp 1	Australia			37539	OM991304
-#3	87	TER_87_UCEDB	Chi15_131	Stylotermitidae	NA		Stylotermes	Stylotermes sp	China			38658	KY449048
-#3	88	TER_88_UCEDB	BRA31	Serritermitidae	NA		Serritermes	Serritermes serrifer	Brazil			23375	KP026264
-#3	89	TER_89_UCEDB	G13-144	Serritermitidae	NA		Glossotermes	Glossotermes oculatus	French Guiana			36490	NA
-#3	90	TER_90_UCEDB	NG30	Rhinotermitidae	NA		Parrhinotermes	Parrhinotermes browni	Papua New Guinea			40499	OQ991900
-#3	91	TER_91_UCEDB	THAI23	Rhinotermitidae	NA		Parrhinotermes	Parrhinotermes sp A	Thailand			31725	MK246854
-#3	92	TER_92_UCEDB	G13-54	Rhinotermitidae	NA		Dolichorhinotermes	Dolichorhinotermes longilabius	French Guiana			38176	OQ980237
-#3	93	TER_93_UCEDB	RDCT112	Rhinotermitidae	NA		Schedorhinotermes	Schedorhinotermes lamanianus	Democratic Republic of the Congo			40538	MK246844
-#3	94	TER_94_UCEDB	THAI63	Rhinotermitidae	NA		Schedorhinotermes	Schedorhinotermes sp 3	Thailand			41574	MK246856
-#3	95	TER_95_UCEDB	TBRU2.3A	Rhinotermitidae	NA		Schedorhinotermes	Schedorhinotermes sarawakensis	Brunei			38861	MK246852
-#3	96	TER_96_UCEDB	NG84	Termitogetonidae	NA		Termitogeton	Termitogeton planus	Papua New Guinea			8761	OQ933860
-#3	97	TER_97_UCEDB	NG90	Psammotermitidae	Prorhinotermitinae		Prorhinotermes	Prorhinotermes inopinatus	Papua New Guinea			40731	OQ933861
-#3	98	TER_98_UCEDB	THAI98	Heterotermitidae	NA		Reticulitermes	Reticulitermes sp A	Thailand			35585	KU925239
-#3	99	TER_99_UCEDB	US1	Heterotermitidae	NA		Reticulitermes	Reticulitermes nelsonae	USA			37661	KU925238
-#3	100	TER_100_UCEDB	AUS88	Heterotermitidae	NA		Heterotermes	Heterotermes cf paradoxus	Australia			39806	KU925223
-#3	101	TER_101_UCEDB	AUS121	Heterotermitidae	NA		Heterotermes	Heterotermes cf paradoxus	Australia			41139	KU925225
-#3	102	TER_102_UCEDB	AUS47	Heterotermitidae	NA		Heterotermes	Heterotermes vagus	Australia			38854	KU925234
-#3	103	TER_103_UCEDB	TBRU8.25	Heterotermitidae	NA		Heterotermes	Heterotermes tenuior	Brunei			40068	OR052090
-#3	104	TER_104_UCEDB	CF_RNA_1	Heterotermitidae	NA		Coptotermes	Coptotermes formosanus	Japan			41220	OR069384
-#3	105	TER_105_UCEDB	NG87	Heterotermitidae	NA		Coptotermes	Coptotermes elisae	Papua New Guinea			39420	KU925202
-#3	106	TER_106_UCEDB	RDCT185	Heterotermitidae	NA		Coptotermes	Coptotermes	Democratic Republic of the Congo			13994	OQ947861
-#3	107	TER_107_UCEDB	G13-107	Heterotermitidae	NA		Coptotermes	Coptotermes testaceus	French Guiana			19080	KU925219
-#3	108	TER_108_UCEDB	RDCT165	Termitidae	Sphaerotermitinae		Sphaerotermes	Sphaerotermes sphaerothorax	Democratic Republic of the Congo			1461	KY224584
-#3	109	TER_109_UCEDB	CAM16-02a	Termitidae	Macrotermitinae		Acanthotermes 	Acanthotermes acanthothorax	Cameroon			33260	KP026280
-#3	110	TER_110_UCEDB	RDCT109	Termitidae	Macrotermitinae		Pseudacanthotermes 	Pseudacanthotermes militaris	Democratic Republic of the Congo			35996	OQ947859
-#3	111	TER_111_UCEDB	BDIT072	Termitidae	Macrotermitinae		Macrotermes 	Macrotermes subhyalinus	Burundi			10780	KY224559
-#3	112	TER_112_UCEDB	THAI50	Termitidae	Macrotermitinae		Macrotermes 	Macrotermes gilvus	Thailand			28367	KY224607
-#3	113	TER_113_UCEDB	THAI071	Termitidae	Macrotermitinae		Macrotermes 	Macrotermes annandalei	Thailand			6431	KY224518
-#3	114	TER_114_UCEDB	SAF5	Termitidae	Macrotermitinae		Allodontotermes 	Allodontotermes schultzei	South Africa			39126	KY224522
-#3	115	TER_115_UCEDB	RDCT144	Termitidae	Macrotermitinae		Odontotermes 	Odontotermes sp D	Democratic Republic of the Congo			32446	KY224520
-#3	116	TER_116_UCEDB	THAI064	Termitidae	Macrotermitinae		Odontotermes 	Odontotermes javanicus	Thailand			30880	KY224596
-#3	117	TER_117_UCEDB	TBRU8.14E	Termitidae	Foraminitermitinae		Labritermes 	Labritermes buttelreepeni	Brunei			21090	KY224478
-#3	118	TER_118_UCEDB	CAM16-13	Termitidae	Apicotermitinae		Labidotermes 	Labidotermes celesi	Cameroon			10829	MW773501
-#3	119	TER_119_UCEDB	CAM16-05	Termitidae	Apicotermitinae		Phoxotermes 	Phoxotermes cerberus	Cameroon			24502	MW817576
-#3	120	TER_120_UCEDB	CAM212	Termitidae	Apicotermitinae		Heimitermes 	Heimitermes laticeps	Cameroon			7412	MW773503
-#3	121	TER_121_UCEDB	BDIT062	Termitidae	Apicotermitinae		Acholotermes 	Acholotermes chirotus	Burundi			14914	KY224688
-#3	122	TER_122_UCEDB	BDIT049	Termitidae	Apicotermitinae		Aderitotermes 	Aderitotermes sp 2	Burundi			20713	KY224719
-#3	123	TER_123_UCEDB	RDCT070	Termitidae	Apicotermitinae		Ateuchotermes 	Ateuchotermes retifaciens	Democratic Republic of the Congo			35618	KY224497
-#3	124	TER_124_UCEDB	RDCT098	Termitidae	Apicotermitinae		Amalotermes 	Amalotermes phaeocephalus	Democratic Republic of the Congo			39213	KY224574
-#3	125	TER_125_UCEDB	RDCT021	Termitidae	Apicotermitinae		Acidnotermes 	Acidnotermes praus	Democratic Republic of the Congo			15229	OQ933864
-#3	126	TER_126_UCEDB	BDIT112	Termitidae	Apicotermitinae		Astalotermes 	Astalotermes murcus	Burundi			34628	KY224676
-#3	127	TER_127_UCEDB	SAF6	Termitidae	Apicotermitinae		Alyscotermes 	Alyscotermes sp	South Africa			21065	KY224502
-#3	128	TER_128_UCEDB	BDIT061	Termitidae	Apicotermitinae		Alyscotermes 	Alyscotermes kilimandjaricus	Burundi			29682	KY224395
-#3	129	TER_129_UCEDB	T4.14A	Termitidae	Apicotermitinae		Euhamitermes 	Euhamitermes hamatus	Singapore			35890	KY224652
-#3	130	TER_130_UCEDB	G13-17	Termitidae	Apicotermitinae		Anoplotermes 	Anoplotermes group sp N	French Guiana			26429	KY224480
-#3	131	TER_131_UCEDB	G13-65	Termitidae	Apicotermitinae		Anoplotermes-group 	Anoplotermes-group sp Q	French Guiana			16594	KY224540
-#3	132	TER_132_UCEDB	G756	Termitidae	Apicotermitinae		Patawatermes 	Patawatermes nigripunctatus	French Guiana			21745	OQ998964
-#3	133	TER_133_UCEDB	G13-69	Termitidae	Apicotermitinae		Anoplotermes-group 	Anoplotermes-group sp AF	French Guiana			12707	KY224670
-#3	134	TER_134_UCEDB	G13-04	Termitidae	Apicotermitinae		Anoplotermes 	Anoplotermes parvus	French Guiana			26650	OQ980228
-#3	135	TER_135_UCEDB	G13-32	Termitidae	Apicotermitinae		Anoplotermes 	Anoplotermes banksi	French Guiana			34355	OQ980233
-#3	136	TER_136_UCEDB	G13-08	Termitidae	Apicotermitinae		Anoplotermes 	Anoplotermes janus	French Guiana			27357	OQ980229
-#3	137	TER_137_UCEDB	TBRU7.11D	Termitidae	Protohamitermitinae		Orientotermes 	Orientotermes emersoni	Brunei			23616	OQ908859
-#3	138	TER_138_UCEDB	G13-24	Termitidae	Cylindrotermitinae	Cylindrotermes-group	Cylindrotermes 	Cylindrotermes parvignathus	French Guiana			33141	OQ980230
-#3	139	TER_139_UCEDB	RDCT180	Termitidae	Cylindrotermitinae	Cylindrotermes-group	Cephalotermes 	Cephalotermes rectangularis	Democratic Republic of the Congo			24410	KY224689
-#3	140	TER_140_UCEDB	CIVT017	Termitidae	Nasutitermitinae		Mimeutermes 	Mimeutermes sorex	Ivory Coast			28149	OQ555366
-#3	141	TER_141_UCEDB	CAM16_18	Termitidae	Nasutitermitinae		Leptomyxotermes 	Leptomyxotermes doriae	Cameroon			10908	OQ998955
-#3	142	TER_142_UCEDB	BRA1	Termitidae	Nasutitermitinae		Constrictotermes 	Constrictotermes cyphergaster	Brazil			22081	KY224443
-#3	143	TER_143_UCEDB	G13-48	Termitidae	Nasutitermitinae		Constrictotermes 	Constrictotermes cavifrons	French Guiana			7623	OQ980236
-#3	144	TER_144_UCEDB	G728	Termitidae	Nasutitermitinae		Agnathotermes 	Agnathotermes crassinasus	French Guiana			12115	KY224404
-#3	145	TER_145_UCEDB	G729	Termitidae	Nasutitermitinae		Araujotermes 	Araujotermes parvellus	French Guiana			23782	KY224477
-#3	146	TER_146_UCEDB	G13-30	Termitidae	Nasutitermitinae		Coatitermes 	Coatitermes kartaboensis	French Guiana			19575	OQ980232
-#3	147	TER_147_UCEDB	AUS49	Termitidae	Nasutitermitinae		Tumulitermes 	Tumulitermes sp	Australia			18572	KY224696
-#3	148	TER_148_UCEDB	NSW6	Termitidae	Nasutitermitinae		Occasitermes 	Occasitermes occasus	Australia			2909	KY224546
-#3	149	TER_149_UCEDB	THAI100	Termitidae	Nasutitermitinae		Bulbitermes 	Bulbitermes nr laticephalus	Thailand			9284	KY224479
-#3	150	TER_150_UCEDB	THAI43	Termitidae	Nasutitermitinae		Nasutitermes 	Nasutitermes sp 3	Thailand			5416	KY224571
-#3	151	TER_151_UCEDB	THAI45	Termitidae	Nasutitermitinae		Oriensubulitermes 	Oriensubulitermes inanis	Thailand			29634	KY224542
-#3	152	TER_152_UCEDB	THAI067	Termitidae	Nasutitermitinae		Hospitalitermes 	Hospitalitermes sp C	Thailand			24437	KY224485
-#3	153	TER_153_UCEDB	BDIT041	Termitidae	Nasutitermitinae		Nasutitermes 	Nasutitermes arborum	Burundi			8113	KY224603
-#3	154	TER_154_UCEDB	KE15-44	Termitidae	Nasutitermitinae		Trinervitermes 	Trinervitermes gratiosus	Kenya			27202	OQ675033
-#3	155	TER_155_UCEDB	BDIT094	Termitidae	Nasutitermitinae		Trinervitermes 	Trinervitermes sp	Burundi			35418	OQ991906
-#3	156	TER_156_UCEDB	RDCT106	Termitidae	Nasutitermitinae		Nasutitermes 	Nasutitermes lujae	Democratic Republic of the Congo			21775	KY224441
-#3	157	TER_157_UCEDB	BRU6	Termitidae	Nasutitermitinae		Nasutitermes 	Nasutitermes matangensis	Brunei			6309	KY224715
-#3	158	TER_158_UCEDB	NG60	Termitidae	Nasutitermitinae		Nasutitermes 	Nasutitermes gracilirostris	Papua New Guinea			5454	OK163846
-#3	159	TER_159_UCEDB	NG69	Termitidae	Nasutitermitinae		Nasutitermes 	Nasutitermes bikpelanus	Papua New Guinea			12534	KP026296
-#3	160	TER_160_UCEDB	G733	Termitidae	Nasutitermitinae		Nasutitermes 	Nasutitermes macrocephalus	French Guiana			11412	KY224724
-#3	161	TER_161_UCEDB	AUS54	Termitidae	Nasutitermitinae		Nasutitermes 	Nasutitermes triodiae	Australia			15788	KY224403
-#3	162	TER_162_UCEDB	AUS62	Termitidae	Nasutitermitinae		Nasutitermes 	Nasutitermes graveolus	Australia			12780	KY224439
-#3	163	TER_163_UCEDB	G13-60	Termitidae	Neocapritermitinae	Neocapritermes-group	Neocapritermes	Neocapritermes taracua	French Guiana			26109	OQ980239
-#3	164	TER_164_UCEDB	G13-28	Termitidae	Neocapritermitinae	Neocapritermes-group	Planicapritermes	Planicapritermes planiceps	French Guiana			25226	KY224552
-#3	165	TER_165_UCEDB	G683	Termitidae	Neocapritermitinae	Neocapritermes-group	Schievitermes	Schievitermes globicornis	French Guiana			35184	KY224444
-#3	166	TER_166_UCEDB	THAI055	Termitidae	Microcerotermitinae	Microcerotermes-group	Microcerotermes	Microcerotermes sp A	Thailand			18367	KY224612
-#3	167	TER_167_UCEDB	PHI1	Termitidae	Microcerotermitinae	Microcerotermes-group	Microcerotermes	Microcerotermes crassus	Philippines			15768	KY224690
-#3	168	TER_168_UCEDB	PHI8	Termitidae	Microcerotermitinae	Microcerotermes-group	Microcerotermes	Microcerotermes phllippines	Philippines			4151	OQ933862
-#3	169	TER_169_UCEDB	T6.14	Termitidae	Microcerotermitinae	Microcerotermes-group	Microcerotermes	Microcerotermes sp	Singapore			13999	OQ908858
-#3	170	TER_170_UCEDB	MAL37	Termitidae	Microcerotermitinae	Microcerotermes-group	Microcerotermes	Microcerotermes crassus	Malaysia			8483	KY224428
-#3	171	TER_171_UCEDB	MAL22	Termitidae	Microcerotermitinae	Microcerotermes-group	Microcerotermes	Microcerotermes crassus	Malaysia			2348	OQ980220
-#3	172	TER_172_UCEDB	TP114A	Termitidae	Microcerotermitinae	Microcerotermes-group	Microcerotermes	Microcerotermes crassus	Malaysia			6595	OQ908860
-#3	173	TER_173_UCEDB	THAI54	Termitidae	Microcerotermitinae	Microcerotermes-group	Microcerotermes	Microcerotermes crassus	Thailand			12297	OQ955593
-#3	174	TER_174_UCEDB	AUS66_2	Termitidae	Microcerotermitinae	Microcerotermes-group	Microcerotermes	Microcerotermes sp E	Australia			16125	KY224573
-#3	175	TER_175_UCEDB	AUS66	Termitidae	Microcerotermitinae	Microcerotermes-group	Microcerotermes	Microcerotermes sp E	Australia			14819	KY224573
-#3	176	TER_176_UCEDB	AUS114	Termitidae	Microcerotermitinae	Microcerotermes-group	Microcerotermes	Microcerotermes spH	Australia			18704	KY224675
-#3	177	TER_177_UCEDB	AUS71	Termitidae	Microcerotermitinae	Microcerotermes-group	Microcerotermes	Microcerotermes spG	Australia			1836	KY224635
-#3	178	TER_178_UCEDB	AUS82	Termitidae	Microcerotermitinae	Microcerotermes-group	Microcerotermes	Microcerotermes spI	Australia			24571	KY224705
-#3	179	TER_179_UCEDB	AUS32	Termitidae	Microcerotermitinae	Microcerotermes-group	Microcerotermes	Microcerotermes sp	Australia			8598	OQ991904
-#3	180	TER_180_UCEDB	AUS6	Termitidae	Microcerotermitinae	Microcerotermes-group	Microcerotermes	Microcerotermes nervosus	Australia			4623	KY224586
-#3	181	TER_181_UCEDB	AUS13	Termitidae	Microcerotermitinae	Microcerotermes-group	Microcerotermes	Microcerotermes sp	Australia			28622	OQ991903
-#3	182	TER_182_UCEDB	TBRU912E	Termitidae	Microcerotermitinae	Microcerotermes-group	Microcerotermes	Microcerotermes serrula	Brunei			11327	KY224710
-#3	183	TER_183_UCEDB	T2-IC	Termitidae	Microcerotermitinae	Microcerotermes-group	Microcerotermes	Microcerotermes havilandi	Singapore			15670	KY224533
-#3	184	TER_184_UCEDB	TBRU414	Termitidae	Microcerotermitinae	Microcerotermes-group	Microcerotermes	Microcerotermes nr havilandi	Brunei			5832	OR052089
-#3	185	TER_185_UCEDB	TBRU318a	Termitidae	Microcerotermitinae	Microcerotermes-group	Microcerotermes	Microcerotermes nr havilandi	Brunei			7682	KY224610
-#3	186	TER_186_UCEDB	NG71	Termitidae	Microcerotermitinae	Microcerotermes-group	Microcerotermes	Microcerotermes biroi	New Guinea			11067	KP026297
-#3	187	TER_187_UCEDB	NG10	Termitidae	Microcerotermitinae	Microcerotermes-group	Microcerotermes	Microcerotermes biroi	New Guinea			3909	OQ980240
-#3	188	TER_188_UCEDB	D2-34/NG	Termitidae	Microcerotermitinae	Microcerotermes-group	Microcerotermes	Microcerotermes biroi	New Guinea			4835	OQ998966
-#3	189	TER_189_UCEDB	NG48	Termitidae	Microcerotermitinae	Microcerotermes-group	Microcerotermes	Microcerotermes papuanus	New Guinea			3241	OQ991901
-#3	190	TER_190_UCEDB	NG81	Termitidae	Microcerotermitinae	Microcerotermes-group	Microcerotermes	Microcerotermes papuanus	New Guinea			4967	OK163848
-#3	191	TER_191_UCEDB	NG81-2	Termitidae	Microcerotermitinae	Microcerotermes-group	Microcerotermes	Microcerotermes papuanus	New Guinea			11629	OK163848
-#3	192	TER_192_UCEDB	NG28	Termitidae	Microcerotermitinae	Microcerotermes-group	Microcerotermes	Microcerotermes papuanus	New Guinea			16441	OQ984045
-#3	193	TER_193_UCEDB	RDCT033	Termitidae	Microcerotermitinae	Microcerotermes-group	Microcerotermes	Microcerotermes fuscotibialis	Democratic Republic of the Congo			10899	KY224494
-#3	194	TER_194_UCEDB	BDIT102	Termitidae	Microcerotermitinae	Microcerotermes-group	Microcerotermes	Microcerotermes fuscotibialis	Burundi			12758	KY224645
-#3	195	TER_195_UCEDB	BDIT045	Termitidae	Microcerotermitinae	Microcerotermes-group	Microcerotermes	Microcerotermes parvus	Burundi			29961	OQ991905
-#3	196	TER_196_UCEDB	RDCT119	Termitidae	Microcerotermitinae	Microcerotermes-group	Microcerotermes	Microcerotermes parvus	Democratic Republic of the Congo			8312	KY224699
-#3	197	TER_197_UCEDB	RDCT053	Termitidae	Microcerotermitinae	Microcerotermes-group	Microcerotermes	Microcerotermes parvus	Democratic Republic of the Congo			20203	OQ933865
-#3	198	TER_198_UCEDB	RDCT134	Termitidae	Microcerotermitinae	Microcerotermes-group	Microcerotermes	Microcerotermes parvus	Democratic Republic of the Congo			20660	OQ947860
-#3	199	TER_199_UCEDB	RDCT055	Termitidae	Microcerotermitinae	Microcerotermes-group	Microcerotermes	Microcerotermes parvus	Democratic Republic of the Congo			6671	OQ947858
-#3	200	TER_200_UCEDB	Msp_RNA_1	Termitidae	Microcerotermitinae	Microcerotermes-group	Microcerotermes	Microcerotermes sp	Thailand			21359	OQ980221
-#3	201	TER_201_UCEDB	G689	Termitidae	Microcerotermitinae	Microcerotermes-group	Microcerotermes	Microcerotermes sp	French Guiana			9907	KY224534
-#3	202	TER_202_UCEDB	FG-ND02-39	Termitidae	Microcerotermitinae	Microcerotermes-group	Microcerotermes	Microcerotermes spSC	French Guiana			7136	OQ980227
-#3	203	TER_203_UCEDB	G-13-58	Termitidae	Microcerotermitinae	Microcerotermes-group	Microcerotermes	Microcerotermes sp	French Guiana			18702	KY224722
-#3	204	TER_204_UCEDB	FG-ND02-38	Termitidae	Microcerotermitinae	Microcerotermes-group	Microcerotermes	Microcerotermes sp SA	French Guiana			8761	KY224435
-#3	205	TER_205_UCEDB	MAD15-116	Termitidae	Microcerotermitinae	Microcerotermes-group	Microcerotermes	Microcerotermes mad spH	Madagascar			12510	OQ923230
-#3	206	TER_206_UCEDB	MAD15-148	Termitidae	Microcerotermitinae	Microcerotermes-group	Microcerotermes	MAD15 148 Microcerotermes subtilis	Madagascar			7452	OQ130293
-#3	207	TER_207_UCEDB	MAD15-62	Termitidae	Microcerotermitinae	Microcerotermes-group	Microcerotermes	MAD15 62 Microcerotermes subtilis	Madagascar			18473	OQ130276
-#3	208	TER_208_UCEDB	MAD15-59	Termitidae	Microcerotermitinae	Microcerotermes-group	Microcerotermes	Microcerotermes mad spF	Madagascar			21197	OQ970623
-#3	209	TER_209_UCEDB	MAD15-136	Termitidae	Microcerotermitinae	Microcerotermes-group	Microcerotermes	MAD15 136 Microcerotermes pauliani	Madagascar			11257	OQ130292
-#3	210	TER_210_UCEDB	MAD15-16	Termitidae	Microcerotermitinae	Microcerotermes-group	Microcerotermes	Microcerotermes mad spC	Madagascar			10464	OQ955595
-#3	211	TER_211_UCEDB	MAD15-85	Termitidae	Microcerotermitinae	Microcerotermes-group	Microcerotermes	Microcerotermes mad spA	Madagascar			16779	OQ970626
-#3	212	TER_212_UCEDB	MAD15-104	Termitidae	Microcerotermitinae	Microcerotermes-group	Microcerotermes	MAD15 104 Microcerotermes unidentatus	Madagascar			14517	OQ130291
-#3	213	TER_213_UCEDB	MAD15-5	Termitidae	Microcerotermitinae	Microcerotermes-group	Microcerotermes	MAD15 5 Microcerotermes aff pauliani	Madagascar			13908	OQ130270
-#3	214	TER_214_UCEDB	MAD15-21	Termitidae	Microcerotermitinae	Microcerotermes-group	Microcerotermes	Microcerotermes mad spD	Madagascar			15694	OQ955596
-#3	215	TER_215_UCEDB	MAD15-169	Termitidae	Microcerotermitinae	Microcerotermes-group	Microcerotermes	MAD15 169 Microcerotermes aff sikorae	Madagascar			15178	OQ130273
-#3	216	TER_216_UCEDB	MAD15-151	Termitidae	Microcerotermitinae	Microcerotermes-group	Microcerotermes	Microcerotermes mad spM	Madagascar			12472	OQ980219
-#3	217	TER_217_UCEDB	MAD15-139	Termitidae	Microcerotermitinae	Microcerotermes-group	Microcerotermes	MAD15 139 Microcerotermes sp 1	Madagascar			9776	OQ130272
-#3	218	TER_218_UCEDB	MAD15-130	Termitidae	Microcerotermitinae	Microcerotermes-group	Microcerotermes	MAD15 130 Microcerotermes sp 1	Madagascar			22487	OQ130271
-#3	219	TER_219_UCEDB	MAD15-113	Termitidae	Microcerotermitinae	Microcerotermes-group	Microcerotermes	Microcerotermes mad spG	Madagascar			13556	OQ970628
-#3	220	TER_220_UCEDB	MAD15-71	Termitidae	Microcerotermitinae	Microcerotermes-group	Microcerotermes	Microcerotermes mad spB	Madagascar			28090	OQ970625
-#3	221	TER_221_UCEDB	MAD15-76	Termitidae	Microcerotermitinae	Microcerotermes-group	Microcerotermes	MAD15 76 Microcerotermes sp 2	Madagascar			12953	OQ130279
-#3	222	TER_222_UCEDB	MAD15-66	Termitidae	Microcerotermitinae	Microcerotermes-group	Microcerotermes	MAD15 66 Microcerotermes sp 2	Madagascar			15151	OQ130278
-#3	223	TER_223_UCEDB	MAD15-63	Termitidae	Microcerotermitinae	Microcerotermes-group	Microcerotermes	Microcerotermes mad spN	Madagascar			1070	OQ130277
-#3	224	TER_224_UCEDB	MAD15-86	Termitidae	Microcerotermitinae	Microcerotermes-group	Microcerotermes	Microcerotermes mad spK	Madagascar			21773	OQ130281
-#3	225	TER_225_UCEDB	MAD15-54	Termitidae	Microcerotermitinae	Microcerotermes-group	Microcerotermes	MAD15 54 Microcerotermes sp 2	Madagascar			12557	OQ130295
-#3	226	TER_226_UCEDB	G13-23	Termitidae	Syntermitinae		Embiratermes 	Embiratermes brevinasus	French Guiana			17135	KY224580
-#3	227	TER_227_UCEDB	G13-45	Termitidae	Syntermitinae		Cyrilliotermes 	Cyrilliotermes angulariceps	French Guiana			7770	OQ980235
-#3	228	TER_228_UCEDB	BRA14	Termitidae	Syntermitinae		Cyrilliotermes 	Cyrilliotermes sp	Brazil			30163	OQ885052
-#3	229	TER_229_UCEDB	BRA11_2	Termitidae	Syntermitinae		Syntermes 	Syntermes grandis	Brazil			14234	OQ998954
-#3	230	TER_230_UCEDB	BRA9	Termitidae	Syntermitinae		Rhynchotermes 	Rhynchotermes nasutissimus	Brazil			11968	KY224701
-#3	231	TER_231_UCEDB	G13_62	Termitidae	Syntermitinae		Cornitermes 	Cornitermes sp A	French Guiana			4581	KY224702
-#3	232	TER_232_UCEDB	BRA3	Termitidae	Syntermitinae		Cornitermes 	Cornitermes cumulans	Brazil			25227	KY224538
-#3	233	TER_233_UCEDB	BRA5	Termitidae	Syntermitinae		Silvestritermes 	Silvestritermes heyeri	Brazil			26178	KY224492
-#3	234	TER_234_UCEDB	BRA29	Termitidae	Syntermitinae		Labiotermes 	Labiotermes sp	Brazil			19659	KY224468
-#3	235	TER_235_UCEDB	G13-43	Termitidae	Syntermitinae		Labiotermes 	Labiotermes labralis	French Guiana			2883	OQ980234
-#3	236	TER_236_UCEDB	BDI-TR1-M1e	Termitidae	Promirotermitinae	Amitermes-group	Promirotermes	Promirotermes pygmaeus	Burundi			35873	OQ933863
-#3	237	TER_237_UCEDB	RDCT105	Termitidae	Cubitermitinae		Ophiotermes	Ophiotermes mirandus	Democratic Republic of the Congo			14216	KY224495
-#3	238	TER_238_UCEDB	BDIT069	Termitidae	Cubitermitinae		Nitiditermes 	Nitiditermes fulvus	Burundi			6140	KY224600
-#3	239	TER_239_UCEDB	RDCT051	Termitidae	Cubitermitinae		Orthotermes 	Orthotermes depressifrons	Democratic Republic of the Congo			14924	KY224654
-#3	240	TER_240_UCEDB	BDIT043	Termitidae	Cubitermitinae		Basidentitermes 	Basidentitermes aurivillii	Burundi			2430	OR052087
-#3	241	TER_241_UCEDB	RDCT159	Termitidae	Cubitermitinae		Proboscitermes 	Proboscitermes tubuliferus	Democratic Republic of the Congo			7682	KY224503
-#3	242	TER_242_UCEDB	RDCT125	Termitidae	Termitinae	Termes-group	Tuberculitermes 	Tuberculitermes bycanistes	Democratic Republic of the Congo			30764	KY224466
-#3	243	TER_243_UCEDB	G13-112	Termitidae	Termitinae	Termes-group	Cavitermes 	Cavitermes tuberosus	French Guiana			30685	OQ998960
-#3	244	TER_244_UCEDB	G13-105	Termitidae	Termitinae	Termes-group	Termes 	Termes fatalis	French Guiana			27065	KY224726
-#3	245	TER_245_UCEDB	NG49	Termitidae	Termitinae	Termes-group	Protocapritermes 	Protocapritermes odontomachus	Papua New Guinea			7309	OK163843
-#3	246	TER_246_UCEDB	THAI096	Termitidae	Termitinae	Termes-group	Termes 	Termes rostratus	Thailand			17567	KY224595
-#3	247	TER_247_UCEDB	TBRU5.14A	Termitidae	Amitermitinae	Amitermes-group	Prohamitermes 	Prohamitermes mirabilis	Brunei			10573	KY224617
-#3	248	TER_248_UCEDB	THAI49	Termitidae	Amitermitinae	Amitermes-group	Amitermes 	Amitermes dentalus	Thailand			10596	KY224513
-#3	249	TER_249_UCEDB	AUS4	Termitidae	Amitermitinae	Amitermes-group	Amitermes 	Amitermes meridionalis	Australia			28578	KY224487
-#3	250	TER_250_UCEDB	G697	Termitidae	Amitermitinae	Amitermes-group	Orthognathotermes 	Orthognathotermes aduncus	French Guiana			9488	KP026289
-#3	251	TER_251_UCEDB	G730	Termitidae	Amitermitinae	Amitermes-group	Dentispicotermes 	Dentispicotermes brevicarinatus	French Guiana			23349	OQ998962
-#3	252	TER_252_UCEDB	NG55	Termitidae	Mirocapritermitinae	Pericapritermes-gp	Pericapritermes 	Pericapritermes sp B	Papua New Guinea			11098	OK163844
-#3	253	TER_253_UCEDB	NG45	Termitidae	Mirocapritermitinae	Pericapritermes-gp	Pericapritermes 	Pericapritermes parvus	Papua New Guinea			15774	OQ980241
-#3	254	TER_254_UCEDB	NG45-10k	Termitidae	Mirocapritermitinae	Pericapritermes-gp	Pericapritermes 	Pericapritermes parvus	Papua New Guinea			30343	OQ980241
-#3	255	TER_255_UCEDB	SING57	Termitidae	Mirocapritermitinae	Pericapritermes-gp	Dicuspiditermes 	Dicuspiditermes nemorosus	Singapore			261	NA
-#3	256	TER_256_UCEDB	THAI038	Termitidae	Mirocapritermitinae	Pericapritermes-gp	Mirocapritermes 	Mirocapritermes sp 1	Thailand			20874	KY224731
-#3	257	TER_257_UCEDB	THAI037	Termitidae	Mirocapritermitinae	Pericapritermes-gp	Procapritermes 	Procapritermes sp 1	Thailand			33601	KY224437
-#3	258	TER_258_UCEDB	SP1	Termitidae	Mirocapritermitinae	Pericapritermes-gp	Sinocapritermes 	Sinocapritermes mushae	Japan			29595	OQ947862
-#3	259	TER_259_UCEDB	THAI105	Termitidae	Mirocapritermitinae	Pericapritermes-gp	Sinocapritermes 	Sinocapritermes sp 1	Thailand			25521	KY224541
-#4	260	TER_260_UCEDB	MZUSP 16356	Termitidae	Syntermitinae		Genuotermes	Genuotermes spinifer	Brazil			1275	NA
-#4	261	TER_261_UCEDB	MZUSP 21604	Termitidae	Neocapritermitinae	Neocapritermes-group	Neocapritermes	Neocapritermes talpa	Brazil			27667	NA
-#4	262	TER_262_UCEDB	MZUSP 24538	Termitidae	Cylindrotermitinae	Cylindrotermes-group	Cylindrotermes	Cylindrotermes flangiatus	Brazil			26995	NA
-#4	263	TER_263_UCEDB	MZUSP 24842	Termitidae	Neocapritermitinae	Neocapritermes-group	Neocapritermes	Neocapritermes braziliensis	Brazil			25699	NA
-#4	264	TER_264_UCEDB	MZUSP 25207	Termitidae	Amitermitinae	Amitermes-group	Dentispicotermes	Dentispicotermes sp	Brazil			27167	NA
-#4	265	TER_265_UCEDB	MZUSP 26056	Termitidae	Termitinae	Termes-group	Inquilinitermes	Inquilinitermes sp	Brazil			19058	NA
-#4	266	TER_266_UCEDB	Anacan_Mt_w	Hodotermitidae	NA		Anacanthotermes	Anacanthotermes sp	Jordan			38314	OQ440394
-#4	267	TER_267_UCEDB	AUS19 STOLO PQ+M	Stolotermitidae	Stolotermitinae		Stolotermes	Stolotermes victoriensis	Australia			38632	OQ440395
-#4	268	TER_268_UCEDB	AUS5	Termitidae	Amitermitinae	Amitermes-group	Drepanotermes	Drepanotermes perniger	Australia			24976	NA
-#4	269	TER_269_UCEDB	AUS73	Termitidae	Termitinae		Termes-group	Termes-group spF	Australia			39384	NA
-#4	270	TER_270_UCEDB	BO541	Termitidae	Amitermitinae	Amitermes-group	Orthognathotermes	Orthognathotermes aduncus	Bolivia			28282	NA
-#4	271	TER_271_UCEDB	CAM18S-25A	Termitidae	Cubitermitinae		Apilitermes	Apilitermes longiceps	Cameroon			21656	NA
-#4	272	TER_272_UCEDB	CAM19_1_PG_077	Termitidae	Cubitermitinae		Thoracotermes	Thoracotermes macrothorax	Cameroon			17456	NA
-#4	273	TER_273_UCEDB	CAM19_1_PG_182	Termitidae	Apicotermitinae		Jugositermes	Jugositermes tuberculatus	Cameroon			26619	NA
-#4	274	TER_274_UCEDB	CAM19_2_PG_101	Termitidae	Termitinae	Termes-group	Termes	Termes hospes	Cameroon			27081	NA
-#4	275	TER_275_UCEDB	CAM19_2_PG_102	Termitidae	Apicotermitinae		Duplidentitermes	Duplidentitermes furcatidens	Cameroon			16818	NA
-#4	276	TER_276_UCEDB	CAM19_2_PG_118	Termitidae	Apicotermitinae		Astratotermes	Astratotermes hilarus	Cameroon			30192	NA
-#4	277	TER_277_UCEDB	CAM19_2_PG_126	Termitidae	Cubitermitinae		Furculitermes	Furculitermes sp	Cameroon			12482	NA
-#4	278	TER_278_UCEDB	CAM19_2_PG_138	Termitidae	Cubitermitinae		Unguitermes	Unguitermes trispinosus	Cameroon			11446	NA
-#4	279	TER_279_UCEDB	CAM19-1-PG-005	Termitidae	Cubitermitinae		Crenetermes	Crenetermes albotarsalis	Cameroon			13388	NA
-#4	280	TER_280_UCEDB	CAM19-1-PG-018	Termitidae	Engelitermitinae		Engelitermes	Engelitermes zambo	Cameroon			22529	OP882287
-#4	281	TER_281_UCEDB	CAM19-1-PG-022	Termitidae	Nasutitermitinae		Postsubulitermes	Postsubulitermes sp	Cameroon			14596	NA
-#4	282	TER_282_UCEDB	CAM19-1-PG-025	Termitidae	Cubitermitinae		Procubitermes	Procubitermes arboricola	Cameroon			6323	NA
-#4	283	TER_283_UCEDB	CAM19-1-PG-123	Termitidae	Forficulitermitinae		Forficulitermes	Forficulitermes planifrons	Cameroon			7348	OP882292
-#4	284	TER_284_UCEDB	CAM19-1-PG-179	Termitidae	Engelitermitinae		Engelitermes	Engelitermes zambo	Cameroon			24394	OP882288
-#4	285	TER_285_UCEDB	CAM19-2-PG-139	Termitidae	Nasutitermitinae		Verrucositermes	Verrucositermes tuberosus	Cameroon			15597	NA
-#4	286	TER_286_UCEDB	CAM19-2-PG-144	Termitidae	Nasutitermitinae		Eutermellus	Eutermellus aquilinus	Cameroon			1021	NA
-#4	287	TER_287_UCEDB	CAM19-2-PG-195	Termitidae	Cubitermitinae		Noditermes	Noditermes lamanianus	Cameroon			32792	NA
-#4	288	TER_288_UCEDB	DJ_0007_26	Termitidae	Cubitermitinae		Polyspathotermes	Polyspathotermes inclitus	Democratic Republic of the Congo			23840	NA
-#4	289	TER_289_UCEDB	DJ_0709_11	Termitidae	Cubitermitinae		Cubitermes	Cubitermes tenuiceps	Democratic Republic of the Congo			40244	NA
-#4	290	TER_290_UCEDB	DJ_0711_14	Termitidae	Cubitermitinae		Ternicubitermes	Ternicubitermes sp	Angola			37687	NA
-#4	291	TER_291_UCEDB	DJ_0742_16	Termitidae	Cubitermitinae		Isognathotermes	Isognathotermes finitimus	Democratic Republic of the Congo			39920	NA
-#4	292	TER_292_UCEDB	EC1330	Termitidae	Neocapritermitinae	Neocapritermes-group	Planicapritermes	Planicapritermes sp	Ecuador			22863	NA
-#4	293	TER_293_UCEDB	EC504	Rhinotermitidae	NA		Acorhinotermes	Acorhinotermes subfusciceps	Ecuador			34919	NA
-#4	294	TER_294_UCEDB	EC662	Termitidae	Crepititermitinae	Cylindrotermes-group	Crepititermes	Crepititermes verruculosus	Ecuador			26899	NA
-#4	295	TER_295_UCEDB	EC792	Termitidae	Cylindrotermitinae	Cylindrotermes-group	Cylindrotermes	Cylindrotermes parvignathus	Ecuador			17798	NA
-#4	296	TER_296_UCEDB	G17-009	Termitidae	Nasutitermitinae		Nasutitermes	Nasutitermes coxipoensis	French Guiana			5968	NA
-#4	297	TER_297_UCEDB	Guyane 33	Termitidae	Neocapritermitinae	Neocapritermes-group	Neocapritermes	Neocapritermes araguaia	French Guiana			30188	NA
-#4	298	TER_298_UCEDB	IBISCA_141_13_04	Termitidae	Nasutitermitinae		Velocitermes	Velocitermes barrocoloradensis	Panama			4142	NA
-#4	299	TER_299_UCEDB	KE15-122	Termitidae	Promirotermitinae		Angulitermes	Angulitermes sp	Kenya			22581	NA
-#4	300	TER_300_UCEDB	L250-11-F	Termitidae	Cylindrotermitinae	Cylindrotermes-group	Cylindrotermes	Cylindrotermes parvignathus	French Guiana			41473	NA
-#4	301	TER_301_UCEDB	MAD19_51	Psammotermitidae	Psammotermitinae		Psammotermes	Psammotermes voeltzkowi	Madagascar			6433	OQ555377
-#4	302	TER_302_UCEDB	MAD19-151	Termitidae	Termitinae		Quasitermes	Quasitermes incisus	Madagascar			5488	OQ555373
-#4	303	TER_303_UCEDB	MT20_04	Termitidae	Termitinae		Termes	Termes hispaniolae	Martinique			17506	NA
-#4	304	TER_304_UCEDB	MX98	Termitidae	Amitermitinae	Amitermes-group	Gnathamitermes	Gnathamitermes grandis	Mexico			32438	NA
-#4	305	TER_305_UCEDB	PA969	Termitidae	Microcerotermitinae		Onkotermes	Onkotermes corochus	Paraguay			5967	NA
-#4	306	TER_306_UCEDB	PN1478	Termitidae	Amitermitinae	Amitermes-group	Orthognathotermes	Orthognathotermes wheeleri	Panama			26597	NA
-#4	307	TER_307_UCEDB	PU476	Termitidae	Syntermitinae		Syntermes	Syntermes spinosus	Peru			20074	NA
-#4	308	TER_308_UCEDB	PU733	Termitidae	Syntermitinae		Silvestritermes	Silvestritermes heyeri	Peru			27447	NA
-#4	309	TER_309_UCEDB	RNAL_57	Termitidae	Cubitermitinae		Megagnathotermes	Megagnathotermes notandus	Cote d'Ivoire			33716	NA
-#4	310	TER_310_UCEDB	SING86	Termitidae	Amitermitinae		Globitermes	Globitermes globosus	Singapore			6551	KY224563
-#4	311	TER_311_UCEDB	T3_10f	Termitidae	Nasutitermitinae		Aciculitermes	Aciculitermes sp	Singapore			23643	KY224659
-#4	312	TER_312_UCEDB	THAI97	Termitidae	Mirocapritermitinae		Homallotermes	Homallotermes foraminifer	Thailand			15502	NA
-#4	313	TER_313_UCEDB	TL-01	Termitidae	Amitermitinae	Amitermes-group	Eremotermes	Eremotermes sp	Israel			39468	NA
-#4	314	TER_314_UCEDB	US1244	Termitidae	Nasutitermitinae		Tenuirostritermes	Tenuirostritermes tenuirostris	USA			34414	NA
-#4	315	TER_315_UCEDB	VZ305	Termitidae	Termitinae		Spinitermes	Spinitermes nigrostomus	Venezuela			11467	NA
+Contribution	ID	Tag_UCE_DB	Sample_id	Family	Subfamily	Species-group	Genus	Genus_Species	Previous_Published_Identification	Country	Locality	Year of collection	Number of extracted UCEs	GenBank_Mitogenome_Accession
+#1	1	TER_1_UCEDB	NA	Kalotermitidae	NA		Cryptotermes	Cryptotermes secundus		Australia			42542	NA
+#1	2	TER_2_UCEDB	NA	Heterotermitidae	NA		Coptotermes	Coptotermes formosanus		Japan	Wakayama		42860	NA
+#1	3	TER_3_UCEDB	NA	Termitidae	Macrotermitinae		Macrotermes	Macrotermes natalensis		South Africa			42297	NA
+#1	4	TER_4_UCEDB	NA	Archotermopsidae	NA		Zootermopsis	Zootermopsis nevadensis		USA	California		42388	NA
+#1	5	TER_5_UCEDB	CR18	Cryptocercidae	NA		Cryptocercus	Cryptocercus punctulatus		USA	Virginia	2012	13480	MG882217
+#1	6	TER_6_UCEDB	CRY-MERI	Cryptocercidae	NA		Cryptocercus	Cryptocercus meridianus		China	Yunnan Province	2012	13958	MG882224
+#1	7	TER_7_UCEDB	CRY-HIR	Cryptocercidae	NA		Cryptocercus	Cryptocercus hirtus		China	Shaanxi Province	2013	16331	MG882220
+#1	8	TER_8_UCEDB	BDIT108	Termitidae	Foraminitermitinae		Foraminitermes	Foraminitermes rhinoceros		Burundi		2013	37108	KY224630
+#1	9	TER_9_UCEDB	TBRU8.14E.1	Termitidae	Foraminitermitinae		Labritermes	Labritermes buttelreepeni		Brunei		2014	39588	NA
+#1	10	TER_10_UCEDB	CIVT304	Termitidae	Apicotermitinae		Allognathotermes	Allognathotermes hypogeus		Ivory Coast		2017	3426	MW817578
+#1	11	TER_11_UCEDB	CIVT266	Termitidae	Apicotermitinae		Astalotermes	Astalotermes sp. D		Ivory Coast		2017	5007	MW817577
+#1	12	TER_12_UCEDB	MD-RNA-1	Mastotermitidae	NA		Mastotermes	Mastotermes darwiniensis		Australia		NA	35429	OM646554
+#1	13	TER_13_UCEDB	HSRNA1	Hodotermopsidae	NA		Hodotermopsis	Hodotermopsis sjostedti		China		NA	35656	OM646553
+#1	14	TER_14_UCEDB	PORO-CHILI	Stolotermitidae	NA		Porotermes	Porotermes quadricollis		Chile		NA	38150	OM646555
+#1	15	TER_15_UCEDB	PR1052	Kalotermitidae	NA		Glyptotermes	Glyptotermes pubescens		Puerto Rico		2017	11915	OL875057
+#1	16	TER_16_UCEDB	MX313	Kalotermitidae	NA		Cryptotermes	Cryptotermes cavifrons		Mexico		2001	18994	OL875054
+#1	17	TER_17_UCEDB	EC1239	Rhinotermitidae	NA		Rhinotermes	Rhinotermes hispidus		Ecuador		2011	23406	OL875052
+#1	18	TER_18_UCEDB	EC713	Rhinotermitidae	NA		Dolichorhinotermes	Dolichorhinotermes longilabius		Ecuador		2011	26968	OL875051
+#1	19	TER_19_UCEDB	BO70	Heterotermitidae	NA		Heterotermes	Heterotermes tenuis		Bolivia		2013	30583	OL875043
+#1	20	TER_20_UCEDB	FL349	Heterotermitidae	NA		Reticulitermes	Reticulitermes flavipes		USA	Florida	NA	32336	OL875053
+#1	21	TER_21_UCEDB	CO423	Heterotermitidae	NA		Coptotermes	Coptotermes testaceus		Columbia 	Cienaga de Ortiz	2009	34001	OL875050
+#1	22	TER_22_UCEDB	Guyane 104	Termitidae	Apicotermitinae		Anoplotermes	Anoplotermes banksi		French Guiana		2008	19394	OL875045
+#1	23	TER_23_UCEDB	BR18-03	Termitidae	Microcerotermitinae	Microcerotermes-group	Microcerotermes	Microcerotermes sp.		Brazil	Paraíba	2018	24367	OL875048
+#1	24	TER_24_UCEDB	BR18-10 	Termitidae	Nasutitermitinae		Subulitermes	Subulitermes sp. 1-1		Brazil	Paraíba	2018	21257	OL875047
+#1	25	TER_25_UCEDB	NI275	Termitidae	Nasutitermitinae		Nasutitermes	Nasutitermes corniger		Nicaragua		2004	23053	OL875055
+#1	26	TER_26_UCEDB	PA766	Termitidae	Nasutitermitinae		Constrictotermes	Constrictotermes cyphergaster		Paraguay		2012	23546	OL875056
+#1	27	TER_27_UCEDB	PU874	Termitidae	Neocapritermitinae	Neocapritermes-group	Neocapritermes	Neocapritermes utiariti		Peru		2014	7637	OL875041
+#1	28	TER_28_UCEDB	PU620	Termitidae	Syntermitinae		Cornitermes	Cornitermes pugnax		Peru		2014	18854	OL875058
+#1	29	TER_29_UCEDB	BO211	Termitidae	Syntermitinae		Embiratermes	Embiratermes neotenicus		Bolivia		2013	24978	OL875044
+#1	30	TER_30_UCEDB	TT18-59	Termitidae	Termitinae	Termes-group	Cavitermes	Cavitermes tuberosus		Trinidad and Tobago		2018	23535	OL875046
+#1	31	TER_31_UCEDB	BO816	Termitidae	Amitermitinae	Amitermes-group	Dentispicotermes	Dentispicotermes trapezia	Dentispicotermes n. sp. 2	Bolivia		2013	6602	OL875049
+#1	32	TER_32_UCEDB	US589	Termitidae	Amitermitinae	Amitermes-group	Amitermes	Amitermes californicus		USA	Arizona	2005	21240	OL875042
+#1	33	TER_33_UCEDB	DJ0381	Termitidae	Cubitermitinae		Nitiditermes	Nitiditermes oculatus	Nitiditermes sp.	Burkina Faso		2016	16240	OL875029
+#1	34	TER_34_UCEDB	Breeds_KF	Kalotermitidae	NA		Kalotermes	Kalotermes flavicollis		Italy	Florence	NA	40941	OL875030
+#1	35	TER_35_UCEDB	Breeds_NC_col1	Kalotermitidae	NA		Neotermes	Neotermes castaneus		Cuba		NA	41508	OL875031
+#1	36	TER_36_UCEDB	Breeds_PS_colF	Psammotermitidae	Prorhinotermitinae		Prorhinotermes	Prorhinotermes simplex		USA	Florida	NA	42117	OL875033
+#1	37	TER_37_UCEDB	Breeds_FG19-PG-02	Serritermitidae	NA		Glossotermes	Glossotermes oculatus		French Guiana		NA	41813	OL875032
+#1	38	TER_38_UCEDB	CHI15-156	Stylotermitidae	NA		Stylotermes	Stylotermes halumicus		China		2016	35273	KY449049
+#1	39	TER_39_UCEDB	OK3	Termitidae	Macrotermitinae		Odontotermes	Odontotermes formosanus		Japan	Okinawa	2019	41278	OL875037
+#1	40	TER_40_UCEDB	CAM16-PG-18	Termitidae	Nasutitermitinae		Leptomyxotermes	Leptomyxotermes doriae		Cameroon		2016	40077	OL875035
+#1	41	TER_41_UCEDB	CAM17-SP3	Termitidae	Sphaerotermitinae		Sphaerotermes	Sphaerotermes sphaerothorax		Cameroon		2017	40520	OL875036
+#1	42	TER_42_UCEDB	FG18-PG-042	Termitidae	Syntermitinae		Labiotermes	Labiotermes labralis		French Guiana		2018	39895	OL875034
+#1	43	TER_43_UCEDB	CAM239	Termitidae	Promirotermitinae	Amitermes-group	Promirotermes	Promirotermes redundans		Cameroon		2015	17316	OL875039
+#1	44	TER_44_UCEDB	CAM179	Termitidae	Mirocapritermitinae	Pericapritermes-group	Pericapritermes	Pericapritermes sp. 4		Cameroon		2015	38121	OL875038
+#1	45	TER_45_UCEDB	IRJT202	Termitogetonidae	NA		Termitogeton	Termitogeton planus		Indonesia	Papua	1995	9378	OL875040
+#2	46	TER_46_UCEDB	ISR6	Kalotermitidae	NA		Longicaputermes	Longicaputermes sinaicus		Israel		NA	17782	OM991367
+#2	47	TER_47_UCEDB	IRAN4A	Kalotermitidae	NA	near Longicaputermes	UNDESCRIBED	UNDESCRIBED UNDESCRIBED		Iran		2000	7128	OM991362
+#2	48	TER_48_UCEDB	SantoT_003	Kalotermitidae	NA		Cryptotermes	Cryptotermes penaoru		Vanuatu		NA	22275	OM991436
+#2	49	TER_49_UCEDB	US622	Kalotermitidae	NA		Pterotermes	Pterotermes occidentis		USA	Arizona	2005	1059	OK506059
+#2	50	TER_50_UCEDB	BA3087	Kalotermitidae	NA		Cryptotermes	Cryptotermes cymatofrons		Bahamas		2015	13457	OM991309
+#2	51	TER_51_UCEDB	BA3122	Kalotermitidae	NA		Incisitermes	Incisitermes schwarzi		Bahamas		2015	2111	OK506045
+#2	52	TER_52_UCEDB	Cam17-PG-1-TA	Kalotermitidae	NA		Glyptotermes	Glyptotermes sp		Cameroon		2017	4722	OM991319
+#2	53	TER_53_UCEDB	Cam16-41	Kalotermitidae	NA		Cryptotermes	Cryptotermes havilandi		Cameroon		2016	20122	OM991316
+#2	54	TER_54_UCEDB	CU_1490_0	Kalotermitidae	NA		Neotermes	Neotermes phragmosus		Cuba		2001	4942	OM991339
+#2	55	TER_55_UCEDB	FL901_0	Kalotermitidae	NA		Kalotermes	Kalotermes approximatus		USA	Florida	2001	4690	OM991351
+#2	56	TER_56_UCEDB	MAD19-117	Kalotermitidae	NA		Postelectrotermes	Postelectrotermes sp		Madagascar		2019	5129	OM991391
+#2	57	TER_57_UCEDB	MAD19_7R	Kalotermitidae	NA		Allotermes	Allotermes sp		Madagascar		2019	26904	OM991396
+#2	58	TER_58_UCEDB	Marg-RS	Kalotermitidae	NA		Marginitermes	Marginitermes hubbardi		USA		2018	24980	OM991400
+#2	59	TER_59_UCEDB	NAM16_PG012TR	Kalotermitidae	NA		Epicalotermes	Epicalotermes sp		Namibia		2018	22164	OM991401
+#2	60	TER_60_UCEDB	PA827	Kalotermitidae	NA		Neotermes	Neotermes fulvescens		Paraguay		2012	18296	OM991405
+#2	61	TER_61_UCEDB	PA943	Kalotermitidae	NA		Tauritermes	Tauritermes triceromegas		Paraguay		2012	24735	OK506056
+#2	62	TER_62_UCEDB	PN1380_0	Kalotermitidae	NA		Calcaritermes	Calcaritermes nigriceps		Panama		2010	3960	OM991430
+#2	63	TER_63_UCEDB	PU998_0	Kalotermitidae	NA		Rugitermes	Rugitermes aridus		Peru		2014	4760	OM991434
+#3	64	TER_64_UCEDB	Cryp	Cryptocercidae	NA		Cryptocercus	Cryptocercus kyebangensis		South Korea			27510	ON059753
+#3	65	TER_65_UCEDB	SA16-13	Hodotermitidae	NA		Hodotermes	Hodotermes mossambicus		South Africa			39578	ON210831
+#3	66	TER_66_UCEDB	US17	Archotermopsidae	NA		Zootermopsis	Zootermopsis nevadensis		USA			21126	OQ434263
+#3	67	TER_67_UCEDB	AUST14-12	Stolotermitidae	NA		Stolotermes	Stolotermes victoriensis		Australia			29909	OK078629
+#3	68	TER_68_UCEDB	POROTERMES52	Stolotermitidae	NA		Porotermes	Porotermes planiceps		South Africa			23371	ON210830
+#3	69	TER_69_UCEDB	AUS89	Kalotermitidae	NA		Kalotermes	Kalotermes sp		Australia			36460	OM991306
+#3	70	TER_70_UCEDB	AUS109	Kalotermitidae	NA		Glyptotermes	Glyptotermes sp 1		Australia			27700	OM991301
+#3	71	TER_71_UCEDB	THAI112	Kalotermitidae	NA		Glyptotermes	Glyptotermes sp 6		Thailand			38476	OM991442
+#3	72	TER_72_UCEDB	H2	Kalotermitidae	NA		Glyptotermes	Glyptotermes sp		Japan			5187	OQ998965
+#3	73	TER_73_UCEDB	THAI31	Kalotermitidae	NA		Glyptotermes	Glyptotermes sp 3		Thailand			13083	OM991440
+#3	74	TER_74_UCEDB	THAI114	Kalotermitidae	NA		Glyptotermes	Glyptotermes sp 22		Thailand			29527	OK506057
+#3	75	TER_75_UCEDB	G678_2	Kalotermitidae	NA		Rugitermes	Rugitermes sp A		French Guiana			35590	KP026284
+#3	76	TER_76_UCEDB	SING74	Kalotermitidae	NA		Neotermes	Neotermes sp 8		Singapore			15553	OM991439
+#3	77	TER_77_UCEDB	AUS102	Kalotermitidae	NA		Neotermes	Neotermes insularis cfmalandensis		Australia			23476	OM991300
+#3	78	TER_78_UCEDB	AUS91	Kalotermitidae	NA		Neotermes	Neotermes insularis cfmalandensis		Australia			25357	OM991307
+#3	79	TER_79_UCEDB	KE15-30	Kalotermitidae	NA		Bifiditermes	Bifiditermes sp		Kenya			33066	OM991371
+#3	80	TER_80_UCEDB	MAD15-2	Kalotermitidae	NA		Bifiditermes	Bifiditermes spnrmadagascariensis		Madagascar			27418	OM991383
+#3	81	TER_81_UCEDB	M16	Kalotermitidae	NA		Tauritermes	Tauritermes sp		Argentina			20334	OQ998963
+#3	82	TER_82_UCEDB	AUS111	Kalotermitidae	NA		Incisitermes	Incisitermes nr barretti		Australia			28128	OM991303
+#3	83	TER_83_UCEDB	US10	Kalotermitidae	NA		Incisitermes	Incisitermes snyderi		USA			39748	OM991443
+#3	84	TER_84_UCEDB	MAL39	Kalotermitidae	NA		Cryptotermes	Cryptotermes domesticus		Malaysia			24118	OM991399
+#3	85	TER_85_UCEDB	AUS110	Kalotermitidae	NA		Cryptotermes	Cryptotermes sp 1		Australia			28254	OM991302
+#3	86	TER_86_UCEDB	AUS117	Kalotermitidae	NA		Cryptotermes	Cryptotermes sp 1		Australia			37539	OM991304
+#3	87	TER_87_UCEDB	Chi15_131	Stylotermitidae	NA		Stylotermes	Stylotermes sp		China			38658	KY449048
+#3	88	TER_88_UCEDB	BRA31	Serritermitidae	NA		Serritermes	Serritermes serrifer		Brazil			23375	KP026264
+#3	89	TER_89_UCEDB	G13-144	Serritermitidae	NA		Glossotermes	Glossotermes oculatus		French Guiana			36490	NA
+#3	90	TER_90_UCEDB	NG30	Rhinotermitidae	NA		Parrhinotermes	Parrhinotermes browni		Papua New Guinea			40499	OQ991900
+#3	91	TER_91_UCEDB	THAI23	Rhinotermitidae	NA		Parrhinotermes	Parrhinotermes sp A		Thailand			31725	MK246854
+#3	92	TER_92_UCEDB	G13-54	Rhinotermitidae	NA		Dolichorhinotermes	Dolichorhinotermes longilabius		French Guiana			38176	OQ980237
+#3	93	TER_93_UCEDB	RDCT112	Rhinotermitidae	NA		Schedorhinotermes	Schedorhinotermes lamanianus		Democratic Republic of the Congo			40538	MK246844
+#3	94	TER_94_UCEDB	THAI63	Rhinotermitidae	NA		Schedorhinotermes	Schedorhinotermes sp 3		Thailand			41574	MK246856
+#3	95	TER_95_UCEDB	TBRU2.3A	Rhinotermitidae	NA		Schedorhinotermes	Schedorhinotermes sarawakensis		Brunei			38861	MK246852
+#3	96	TER_96_UCEDB	NG84	Termitogetonidae	NA		Termitogeton	Termitogeton planus		Papua New Guinea			8761	OQ933860
+#3	97	TER_97_UCEDB	NG90	Psammotermitidae	Prorhinotermitinae		Prorhinotermes	Prorhinotermes inopinatus		Papua New Guinea			40731	OQ933861
+#3	98	TER_98_UCEDB	THAI98	Heterotermitidae	NA		Reticulitermes	Reticulitermes sp A		Thailand			35585	KU925239
+#3	99	TER_99_UCEDB	US1	Heterotermitidae	NA		Reticulitermes	Reticulitermes nelsonae		USA			37661	KU925238
+#3	100	TER_100_UCEDB	AUS88	Heterotermitidae	NA		Heterotermes	Heterotermes cf paradoxus		Australia			39806	KU925223
+#3	101	TER_101_UCEDB	AUS121	Heterotermitidae	NA		Heterotermes	Heterotermes cf paradoxus		Australia			41139	KU925225
+#3	102	TER_102_UCEDB	AUS47	Heterotermitidae	NA		Heterotermes	Heterotermes vagus		Australia			38854	KU925234
+#3	103	TER_103_UCEDB	TBRU8.25	Heterotermitidae	NA		Heterotermes	Heterotermes tenuior		Brunei			40068	OR052090
+#3	104	TER_104_UCEDB	CF_RNA_1	Heterotermitidae	NA		Coptotermes	Coptotermes formosanus		Japan			41220	OR069384
+#3	105	TER_105_UCEDB	NG87	Heterotermitidae	NA		Coptotermes	Coptotermes elisae		Papua New Guinea			39420	KU925202
+#3	106	TER_106_UCEDB	RDCT185	Heterotermitidae	NA		Coptotermes	Coptotermes		Democratic Republic of the Congo			13994	OQ947861
+#3	107	TER_107_UCEDB	G13-107	Heterotermitidae	NA		Coptotermes	Coptotermes testaceus		French Guiana			19080	KU925219
+#3	108	TER_108_UCEDB	RDCT165	Termitidae	Sphaerotermitinae		Sphaerotermes	Sphaerotermes sphaerothorax		Democratic Republic of the Congo			1461	KY224584
+#3	109	TER_109_UCEDB	CAM16-02a	Termitidae	Macrotermitinae		Acanthotermes 	Acanthotermes acanthothorax		Cameroon			33260	KP026280
+#3	110	TER_110_UCEDB	RDCT109	Termitidae	Macrotermitinae		Pseudacanthotermes 	Pseudacanthotermes militaris		Democratic Republic of the Congo			35996	OQ947859
+#3	111	TER_111_UCEDB	BDIT072	Termitidae	Macrotermitinae		Macrotermes 	Macrotermes subhyalinus		Burundi			10780	KY224559
+#3	112	TER_112_UCEDB	THAI50	Termitidae	Macrotermitinae		Macrotermes 	Macrotermes gilvus		Thailand			28367	KY224607
+#3	113	TER_113_UCEDB	THAI071	Termitidae	Macrotermitinae		Macrotermes 	Macrotermes annandalei		Thailand			6431	KY224518
+#3	114	TER_114_UCEDB	SAF5	Termitidae	Macrotermitinae		Allodontotermes 	Allodontotermes schultzei		South Africa			39126	KY224522
+#3	115	TER_115_UCEDB	RDCT144	Termitidae	Macrotermitinae		Odontotermes 	Odontotermes sp D		Democratic Republic of the Congo			32446	KY224520
+#3	116	TER_116_UCEDB	THAI064	Termitidae	Macrotermitinae		Odontotermes 	Odontotermes javanicus		Thailand			30880	KY224596
+#3	117	TER_117_UCEDB	TBRU8.14E	Termitidae	Foraminitermitinae		Labritermes 	Labritermes buttelreepeni		Brunei			21090	KY224478
+#3	118	TER_118_UCEDB	CAM16-13	Termitidae	Apicotermitinae		Labidotermes 	Labidotermes celesi		Cameroon			10829	MW773501
+#3	119	TER_119_UCEDB	CAM16-05	Termitidae	Apicotermitinae		Phoxotermes 	Phoxotermes cerberus		Cameroon			24502	MW817576
+#3	120	TER_120_UCEDB	CAM212	Termitidae	Apicotermitinae		Heimitermes 	Heimitermes laticeps		Cameroon			7412	MW773503
+#3	121	TER_121_UCEDB	BDIT062	Termitidae	Apicotermitinae		Acholotermes 	Acholotermes chirotus		Burundi			14914	KY224688
+#3	122	TER_122_UCEDB	BDIT049	Termitidae	Apicotermitinae		Aderitotermes 	Aderitotermes sp 2		Burundi			20713	KY224719
+#3	123	TER_123_UCEDB	RDCT070	Termitidae	Apicotermitinae		Ateuchotermes 	Ateuchotermes retifaciens		Democratic Republic of the Congo			35618	KY224497
+#3	124	TER_124_UCEDB	RDCT098	Termitidae	Apicotermitinae		Amalotermes 	Amalotermes phaeocephalus		Democratic Republic of the Congo			39213	KY224574
+#3	125	TER_125_UCEDB	RDCT021	Termitidae	Apicotermitinae		Acidnotermes 	Acidnotermes praus		Democratic Republic of the Congo			15229	OQ933864
+#3	126	TER_126_UCEDB	BDIT112	Termitidae	Apicotermitinae		Astalotermes 	Astalotermes murcus		Burundi			34628	KY224676
+#3	127	TER_127_UCEDB	SAF6	Termitidae	Apicotermitinae		Alyscotermes 	Alyscotermes sp		South Africa			21065	KY224502
+#3	128	TER_128_UCEDB	BDIT061	Termitidae	Apicotermitinae		Alyscotermes 	Alyscotermes kilimandjaricus		Burundi			29682	KY224395
+#3	129	TER_129_UCEDB	T4.14A	Termitidae	Apicotermitinae		Euhamitermes 	Euhamitermes hamatus		Singapore			35890	KY224652
+#3	130	TER_130_UCEDB	G13-17	Termitidae	Apicotermitinae		Anoplotermes 	Anoplotermes group sp N		French Guiana			26429	KY224480
+#3	131	TER_131_UCEDB	G13-65	Termitidae	Apicotermitinae		Anoplotermes-group 	Anoplotermes-group sp Q		French Guiana			16594	KY224540
+#3	132	TER_132_UCEDB	G756	Termitidae	Apicotermitinae		Patawatermes 	Patawatermes nigripunctatus		French Guiana			21745	OQ998964
+#3	133	TER_133_UCEDB	G13-69	Termitidae	Apicotermitinae		Anoplotermes-group 	Anoplotermes-group sp AF		French Guiana			12707	KY224670
+#3	134	TER_134_UCEDB	G13-04	Termitidae	Apicotermitinae		Anoplotermes 	Anoplotermes parvus		French Guiana			26650	OQ980228
+#3	135	TER_135_UCEDB	G13-32	Termitidae	Apicotermitinae		Anoplotermes 	Anoplotermes banksi		French Guiana			34355	OQ980233
+#3	136	TER_136_UCEDB	G13-08	Termitidae	Apicotermitinae		Anoplotermes 	Anoplotermes janus		French Guiana			27357	OQ980229
+#3	137	TER_137_UCEDB	TBRU7.11D	Termitidae	Protohamitermitinae		Orientotermes 	Orientotermes emersoni		Brunei			23616	OQ908859
+#3	138	TER_138_UCEDB	G13-24	Termitidae	Cylindrotermitinae	Cylindrotermes-group	Cylindrotermes 	Cylindrotermes parvignathus		French Guiana			33141	OQ980230
+#3	139	TER_139_UCEDB	RDCT180	Termitidae	Cylindrotermitinae	Cylindrotermes-group	Cephalotermes 	Cephalotermes rectangularis		Democratic Republic of the Congo			24410	KY224689
+#3	140	TER_140_UCEDB	CIVT017	Termitidae	Nasutitermitinae		Mimeutermes 	Mimeutermes sorex		Ivory Coast			28149	OQ555366
+#3	141	TER_141_UCEDB	CAM16_18	Termitidae	Nasutitermitinae		Leptomyxotermes 	Leptomyxotermes doriae		Cameroon			10908	OQ998955
+#3	142	TER_142_UCEDB	BRA1	Termitidae	Nasutitermitinae		Constrictotermes 	Constrictotermes cyphergaster		Brazil			22081	KY224443
+#3	143	TER_143_UCEDB	G13-48	Termitidae	Nasutitermitinae		Constrictotermes 	Constrictotermes cavifrons		French Guiana			7623	OQ980236
+#3	144	TER_144_UCEDB	G728	Termitidae	Nasutitermitinae		Agnathotermes 	Agnathotermes crassinasus		French Guiana			12115	KY224404
+#3	145	TER_145_UCEDB	G729	Termitidae	Nasutitermitinae		Araujotermes 	Araujotermes parvellus		French Guiana			23782	KY224477
+#3	146	TER_146_UCEDB	G13-30	Termitidae	Nasutitermitinae		Coatitermes 	Coatitermes kartaboensis		French Guiana			19575	OQ980232
+#3	147	TER_147_UCEDB	AUS49	Termitidae	Nasutitermitinae		Tumulitermes 	Tumulitermes sp		Australia			18572	KY224696
+#3	148	TER_148_UCEDB	NSW6	Termitidae	Nasutitermitinae		Occasitermes 	Occasitermes occasus		Australia			2909	KY224546
+#3	149	TER_149_UCEDB	THAI100	Termitidae	Nasutitermitinae		Bulbitermes 	Bulbitermes nr laticephalus		Thailand			9284	KY224479
+#3	150	TER_150_UCEDB	THAI43	Termitidae	Nasutitermitinae		Nasutitermes 	Nasutitermes sp 3		Thailand			5416	KY224571
+#3	151	TER_151_UCEDB	THAI45	Termitidae	Nasutitermitinae		Oriensubulitermes 	Oriensubulitermes inanis		Thailand			29634	KY224542
+#3	152	TER_152_UCEDB	THAI067	Termitidae	Nasutitermitinae		Hospitalitermes 	Hospitalitermes sp C		Thailand			24437	KY224485
+#3	153	TER_153_UCEDB	BDIT041	Termitidae	Nasutitermitinae		Nasutitermes 	Nasutitermes arborum		Burundi			8113	KY224603
+#3	154	TER_154_UCEDB	KE15-44	Termitidae	Nasutitermitinae		Trinervitermes 	Trinervitermes gratiosus		Kenya			27202	OQ675033
+#3	155	TER_155_UCEDB	BDIT094	Termitidae	Nasutitermitinae		Trinervitermes 	Trinervitermes sp		Burundi			35418	OQ991906
+#3	156	TER_156_UCEDB	RDCT106	Termitidae	Nasutitermitinae		Nasutitermes 	Nasutitermes lujae		Democratic Republic of the Congo			21775	KY224441
+#3	157	TER_157_UCEDB	BRU6	Termitidae	Nasutitermitinae		Nasutitermes 	Nasutitermes matangensis		Brunei			6309	KY224715
+#3	158	TER_158_UCEDB	NG60	Termitidae	Nasutitermitinae		Nasutitermes 	Nasutitermes gracilirostris		Papua New Guinea			5454	OK163846
+#3	159	TER_159_UCEDB	NG69	Termitidae	Nasutitermitinae		Nasutitermes 	Nasutitermes bikpelanus		Papua New Guinea			12534	KP026296
+#3	160	TER_160_UCEDB	G733	Termitidae	Nasutitermitinae		Nasutitermes 	Nasutitermes macrocephalus		French Guiana			11412	KY224724
+#3	161	TER_161_UCEDB	AUS54	Termitidae	Nasutitermitinae		Nasutitermes 	Nasutitermes triodiae		Australia			15788	KY224403
+#3	162	TER_162_UCEDB	AUS62	Termitidae	Nasutitermitinae		Nasutitermes 	Nasutitermes graveolus		Australia			12780	KY224439
+#3	163	TER_163_UCEDB	G13-60	Termitidae	Neocapritermitinae	Neocapritermes-group	Neocapritermes	Neocapritermes taracua		French Guiana			26109	OQ980239
+#3	164	TER_164_UCEDB	G13-28	Termitidae	Neocapritermitinae	Neocapritermes-group	Planicapritermes	Planicapritermes planiceps		French Guiana			25226	KY224552
+#3	165	TER_165_UCEDB	G683	Termitidae	Neocapritermitinae	Neocapritermes-group	Schievitermes	Schievitermes globicornis		French Guiana			35184	KY224444
+#3	166	TER_166_UCEDB	THAI055	Termitidae	Microcerotermitinae	Microcerotermes-group	Microcerotermes	Microcerotermes sp A		Thailand			18367	KY224612
+#3	167	TER_167_UCEDB	PHI1	Termitidae	Microcerotermitinae	Microcerotermes-group	Microcerotermes	Microcerotermes crassus		Philippines			15768	KY224690
+#3	168	TER_168_UCEDB	PHI8	Termitidae	Microcerotermitinae	Microcerotermes-group	Microcerotermes	Microcerotermes phllippines		Philippines			4151	OQ933862
+#3	169	TER_169_UCEDB	T6.14	Termitidae	Microcerotermitinae	Microcerotermes-group	Microcerotermes	Microcerotermes sp		Singapore			13999	OQ908858
+#3	170	TER_170_UCEDB	MAL37	Termitidae	Microcerotermitinae	Microcerotermes-group	Microcerotermes	Microcerotermes crassus		Malaysia			8483	KY224428
+#3	171	TER_171_UCEDB	MAL22	Termitidae	Microcerotermitinae	Microcerotermes-group	Microcerotermes	Microcerotermes crassus		Malaysia			2348	OQ980220
+#3	172	TER_172_UCEDB	TP114A	Termitidae	Microcerotermitinae	Microcerotermes-group	Microcerotermes	Microcerotermes crassus		Malaysia			6595	OQ908860
+#3	173	TER_173_UCEDB	THAI54	Termitidae	Microcerotermitinae	Microcerotermes-group	Microcerotermes	Microcerotermes crassus		Thailand			12297	OQ955593
+#3	174	TER_174_UCEDB	AUS66_2	Termitidae	Microcerotermitinae	Microcerotermes-group	Microcerotermes	Microcerotermes sp E		Australia			16125	KY224573
+#3	175	TER_175_UCEDB	AUS66	Termitidae	Microcerotermitinae	Microcerotermes-group	Microcerotermes	Microcerotermes sp E		Australia			14819	KY224573
+#3	176	TER_176_UCEDB	AUS114	Termitidae	Microcerotermitinae	Microcerotermes-group	Microcerotermes	Microcerotermes spH		Australia			18704	KY224675
+#3	177	TER_177_UCEDB	AUS71	Termitidae	Microcerotermitinae	Microcerotermes-group	Microcerotermes	Microcerotermes spG		Australia			1836	KY224635
+#3	178	TER_178_UCEDB	AUS82	Termitidae	Microcerotermitinae	Microcerotermes-group	Microcerotermes	Microcerotermes spI		Australia			24571	KY224705
+#3	179	TER_179_UCEDB	AUS32	Termitidae	Microcerotermitinae	Microcerotermes-group	Microcerotermes	Microcerotermes sp		Australia			8598	OQ991904
+#3	180	TER_180_UCEDB	AUS6	Termitidae	Microcerotermitinae	Microcerotermes-group	Microcerotermes	Microcerotermes nervosus		Australia			4623	KY224586
+#3	181	TER_181_UCEDB	AUS13	Termitidae	Microcerotermitinae	Microcerotermes-group	Microcerotermes	Microcerotermes sp		Australia			28622	OQ991903
+#3	182	TER_182_UCEDB	TBRU912E	Termitidae	Microcerotermitinae	Microcerotermes-group	Microcerotermes	Microcerotermes serrula		Brunei			11327	KY224710
+#3	183	TER_183_UCEDB	T2-IC	Termitidae	Microcerotermitinae	Microcerotermes-group	Microcerotermes	Microcerotermes havilandi		Singapore			15670	KY224533
+#3	184	TER_184_UCEDB	TBRU414	Termitidae	Microcerotermitinae	Microcerotermes-group	Microcerotermes	Microcerotermes nr havilandi		Brunei			5832	OR052089
+#3	185	TER_185_UCEDB	TBRU318a	Termitidae	Microcerotermitinae	Microcerotermes-group	Microcerotermes	Microcerotermes nr havilandi		Brunei			7682	KY224610
+#3	186	TER_186_UCEDB	NG71	Termitidae	Microcerotermitinae	Microcerotermes-group	Microcerotermes	Microcerotermes biroi		New Guinea			11067	KP026297
+#3	187	TER_187_UCEDB	NG10	Termitidae	Microcerotermitinae	Microcerotermes-group	Microcerotermes	Microcerotermes biroi		New Guinea			3909	OQ980240
+#3	188	TER_188_UCEDB	D2-34/NG	Termitidae	Microcerotermitinae	Microcerotermes-group	Microcerotermes	Microcerotermes biroi		New Guinea			4835	OQ998966
+#3	189	TER_189_UCEDB	NG48	Termitidae	Microcerotermitinae	Microcerotermes-group	Microcerotermes	Microcerotermes papuanus		New Guinea			3241	OQ991901
+#3	190	TER_190_UCEDB	NG81	Termitidae	Microcerotermitinae	Microcerotermes-group	Microcerotermes	Microcerotermes papuanus		New Guinea			4967	OK163848
+#3	191	TER_191_UCEDB	NG81-2	Termitidae	Microcerotermitinae	Microcerotermes-group	Microcerotermes	Microcerotermes papuanus		New Guinea			11629	OK163848
+#3	192	TER_192_UCEDB	NG28	Termitidae	Microcerotermitinae	Microcerotermes-group	Microcerotermes	Microcerotermes papuanus		New Guinea			16441	OQ984045
+#3	193	TER_193_UCEDB	RDCT033	Termitidae	Microcerotermitinae	Microcerotermes-group	Microcerotermes	Microcerotermes fuscotibialis		Democratic Republic of the Congo			10899	KY224494
+#3	194	TER_194_UCEDB	BDIT102	Termitidae	Microcerotermitinae	Microcerotermes-group	Microcerotermes	Microcerotermes fuscotibialis		Burundi			12758	KY224645
+#3	195	TER_195_UCEDB	BDIT045	Termitidae	Microcerotermitinae	Microcerotermes-group	Microcerotermes	Microcerotermes parvus		Burundi			29961	OQ991905
+#3	196	TER_196_UCEDB	RDCT119	Termitidae	Microcerotermitinae	Microcerotermes-group	Microcerotermes	Microcerotermes parvus		Democratic Republic of the Congo			8312	KY224699
+#3	197	TER_197_UCEDB	RDCT053	Termitidae	Microcerotermitinae	Microcerotermes-group	Microcerotermes	Microcerotermes parvus		Democratic Republic of the Congo			20203	OQ933865
+#3	198	TER_198_UCEDB	RDCT134	Termitidae	Microcerotermitinae	Microcerotermes-group	Microcerotermes	Microcerotermes parvus		Democratic Republic of the Congo			20660	OQ947860
+#3	199	TER_199_UCEDB	RDCT055	Termitidae	Microcerotermitinae	Microcerotermes-group	Microcerotermes	Microcerotermes parvus		Democratic Republic of the Congo			6671	OQ947858
+#3	200	TER_200_UCEDB	Msp_RNA_1	Termitidae	Microcerotermitinae	Microcerotermes-group	Microcerotermes	Microcerotermes sp		Thailand			21359	OQ980221
+#3	201	TER_201_UCEDB	G689	Termitidae	Microcerotermitinae	Microcerotermes-group	Microcerotermes	Microcerotermes sp		French Guiana			9907	KY224534
+#3	202	TER_202_UCEDB	FG-ND02-39	Termitidae	Microcerotermitinae	Microcerotermes-group	Microcerotermes	Microcerotermes spSC		French Guiana			7136	OQ980227
+#3	203	TER_203_UCEDB	G-13-58	Termitidae	Microcerotermitinae	Microcerotermes-group	Microcerotermes	Microcerotermes sp		French Guiana			18702	KY224722
+#3	204	TER_204_UCEDB	FG-ND02-38	Termitidae	Microcerotermitinae	Microcerotermes-group	Microcerotermes	Microcerotermes sp SA		French Guiana			8761	KY224435
+#3	205	TER_205_UCEDB	MAD15-116	Termitidae	Microcerotermitinae	Microcerotermes-group	Microcerotermes	Microcerotermes mad spH		Madagascar			12510	OQ923230
+#3	206	TER_206_UCEDB	MAD15-148	Termitidae	Microcerotermitinae	Microcerotermes-group	Microcerotermes	MAD15 148 Microcerotermes subtilis		Madagascar			7452	OQ130293
+#3	207	TER_207_UCEDB	MAD15-62	Termitidae	Microcerotermitinae	Microcerotermes-group	Microcerotermes	MAD15 62 Microcerotermes subtilis		Madagascar			18473	OQ130276
+#3	208	TER_208_UCEDB	MAD15-59	Termitidae	Microcerotermitinae	Microcerotermes-group	Microcerotermes	Microcerotermes mad spF		Madagascar			21197	OQ970623
+#3	209	TER_209_UCEDB	MAD15-136	Termitidae	Microcerotermitinae	Microcerotermes-group	Microcerotermes	MAD15 136 Microcerotermes pauliani		Madagascar			11257	OQ130292
+#3	210	TER_210_UCEDB	MAD15-16	Termitidae	Microcerotermitinae	Microcerotermes-group	Microcerotermes	Microcerotermes mad spC		Madagascar			10464	OQ955595
+#3	211	TER_211_UCEDB	MAD15-85	Termitidae	Microcerotermitinae	Microcerotermes-group	Microcerotermes	Microcerotermes mad spA		Madagascar			16779	OQ970626
+#3	212	TER_212_UCEDB	MAD15-104	Termitidae	Microcerotermitinae	Microcerotermes-group	Microcerotermes	MAD15 104 Microcerotermes unidentatus		Madagascar			14517	OQ130291
+#3	213	TER_213_UCEDB	MAD15-5	Termitidae	Microcerotermitinae	Microcerotermes-group	Microcerotermes	MAD15 5 Microcerotermes aff pauliani		Madagascar			13908	OQ130270
+#3	214	TER_214_UCEDB	MAD15-21	Termitidae	Microcerotermitinae	Microcerotermes-group	Microcerotermes	Microcerotermes mad spD		Madagascar			15694	OQ955596
+#3	215	TER_215_UCEDB	MAD15-169	Termitidae	Microcerotermitinae	Microcerotermes-group	Microcerotermes	MAD15 169 Microcerotermes aff sikorae		Madagascar			15178	OQ130273
+#3	216	TER_216_UCEDB	MAD15-151	Termitidae	Microcerotermitinae	Microcerotermes-group	Microcerotermes	Microcerotermes mad spM		Madagascar			12472	OQ980219
+#3	217	TER_217_UCEDB	MAD15-139	Termitidae	Microcerotermitinae	Microcerotermes-group	Microcerotermes	MAD15 139 Microcerotermes sp 1		Madagascar			9776	OQ130272
+#3	218	TER_218_UCEDB	MAD15-130	Termitidae	Microcerotermitinae	Microcerotermes-group	Microcerotermes	MAD15 130 Microcerotermes sp 1		Madagascar			22487	OQ130271
+#3	219	TER_219_UCEDB	MAD15-113	Termitidae	Microcerotermitinae	Microcerotermes-group	Microcerotermes	Microcerotermes mad spG		Madagascar			13556	OQ970628
+#3	220	TER_220_UCEDB	MAD15-71	Termitidae	Microcerotermitinae	Microcerotermes-group	Microcerotermes	Microcerotermes mad spB		Madagascar			28090	OQ970625
+#3	221	TER_221_UCEDB	MAD15-76	Termitidae	Microcerotermitinae	Microcerotermes-group	Microcerotermes	MAD15 76 Microcerotermes sp 2		Madagascar			12953	OQ130279
+#3	222	TER_222_UCEDB	MAD15-66	Termitidae	Microcerotermitinae	Microcerotermes-group	Microcerotermes	MAD15 66 Microcerotermes sp 2		Madagascar			15151	OQ130278
+#3	223	TER_223_UCEDB	MAD15-63	Termitidae	Microcerotermitinae	Microcerotermes-group	Microcerotermes	Microcerotermes mad spN		Madagascar			1070	OQ130277
+#3	224	TER_224_UCEDB	MAD15-86	Termitidae	Microcerotermitinae	Microcerotermes-group	Microcerotermes	Microcerotermes mad spK		Madagascar			21773	OQ130281
+#3	225	TER_225_UCEDB	MAD15-54	Termitidae	Microcerotermitinae	Microcerotermes-group	Microcerotermes	MAD15 54 Microcerotermes sp 2		Madagascar			12557	OQ130295
+#3	226	TER_226_UCEDB	G13-23	Termitidae	Syntermitinae		Embiratermes 	Embiratermes brevinasus		French Guiana			17135	KY224580
+#3	227	TER_227_UCEDB	G13-45	Termitidae	Syntermitinae		Cyrilliotermes 	Cyrilliotermes angulariceps		French Guiana			7770	OQ980235
+#3	228	TER_228_UCEDB	BRA14	Termitidae	Syntermitinae		Cyrilliotermes 	Cyrilliotermes sp		Brazil			30163	OQ885052
+#3	229	TER_229_UCEDB	BRA11_2	Termitidae	Syntermitinae		Syntermes 	Syntermes grandis		Brazil			14234	OQ998954
+#3	230	TER_230_UCEDB	BRA9	Termitidae	Syntermitinae		Rhynchotermes 	Rhynchotermes nasutissimus		Brazil			11968	KY224701
+#3	231	TER_231_UCEDB	G13_62	Termitidae	Syntermitinae		Cornitermes 	Cornitermes sp A		French Guiana			4581	KY224702
+#3	232	TER_232_UCEDB	BRA3	Termitidae	Syntermitinae		Cornitermes 	Cornitermes cumulans		Brazil			25227	KY224538
+#3	233	TER_233_UCEDB	BRA5	Termitidae	Syntermitinae		Silvestritermes 	Silvestritermes heyeri		Brazil			26178	KY224492
+#3	234	TER_234_UCEDB	BRA29	Termitidae	Syntermitinae		Labiotermes 	Labiotermes sp		Brazil			19659	KY224468
+#3	235	TER_235_UCEDB	G13-43	Termitidae	Syntermitinae		Labiotermes 	Labiotermes labralis		French Guiana			2883	OQ980234
+#3	236	TER_236_UCEDB	BDI-TR1-M1e	Termitidae	Promirotermitinae	Amitermes-group	Promirotermes	Promirotermes pygmaeus		Burundi			35873	OQ933863
+#3	237	TER_237_UCEDB	RDCT105	Termitidae	Cubitermitinae		Ophiotermes	Ophiotermes mirandus		Democratic Republic of the Congo			14216	KY224495
+#3	238	TER_238_UCEDB	BDIT069	Termitidae	Cubitermitinae		Nitiditermes 	Nitiditermes fulvus		Burundi			6140	KY224600
+#3	239	TER_239_UCEDB	RDCT051	Termitidae	Cubitermitinae		Orthotermes 	Orthotermes depressifrons		Democratic Republic of the Congo			14924	KY224654
+#3	240	TER_240_UCEDB	BDIT043	Termitidae	Cubitermitinae		Basidentitermes 	Basidentitermes aurivillii		Burundi			2430	OR052087
+#3	241	TER_241_UCEDB	RDCT159	Termitidae	Cubitermitinae		Proboscitermes 	Proboscitermes tubuliferus		Democratic Republic of the Congo			7682	KY224503
+#3	242	TER_242_UCEDB	RDCT125	Termitidae	Termitinae	Termes-group	Tuberculitermes 	Tuberculitermes bycanistes		Democratic Republic of the Congo			30764	KY224466
+#3	243	TER_243_UCEDB	G13-112	Termitidae	Termitinae	Termes-group	Cavitermes 	Cavitermes tuberosus		French Guiana			30685	OQ998960
+#3	244	TER_244_UCEDB	G13-105	Termitidae	Termitinae	Termes-group	Termes 	Termes fatalis		French Guiana			27065	KY224726
+#3	245	TER_245_UCEDB	NG49	Termitidae	Termitinae	Termes-group	Protocapritermes 	Protocapritermes odontomachus		Papua New Guinea			7309	OK163843
+#3	246	TER_246_UCEDB	THAI096	Termitidae	Termitinae	Termes-group	Termes 	Termes rostratus		Thailand			17567	KY224595
+#3	247	TER_247_UCEDB	TBRU5.14A	Termitidae	Amitermitinae	Amitermes-group	Prohamitermes 	Prohamitermes mirabilis		Brunei			10573	KY224617
+#3	248	TER_248_UCEDB	THAI49	Termitidae	Amitermitinae	Amitermes-group	Amitermes 	Amitermes dentalus		Thailand			10596	KY224513
+#3	249	TER_249_UCEDB	AUS4	Termitidae	Amitermitinae	Amitermes-group	Amitermes 	Amitermes meridionalis		Australia			28578	KY224487
+#3	250	TER_250_UCEDB	G697	Termitidae	Amitermitinae	Amitermes-group	Orthognathotermes 	Orthognathotermes aduncus		French Guiana			9488	KP026289
+#3	251	TER_251_UCEDB	G730	Termitidae	Amitermitinae	Amitermes-group	Dentispicotermes 	Dentispicotermes brevicarinatus		French Guiana			23349	OQ998962
+#3	252	TER_252_UCEDB	NG55	Termitidae	Mirocapritermitinae	Pericapritermes-gp	Pericapritermes 	Pericapritermes sp B		Papua New Guinea			11098	OK163844
+#3	253	TER_253_UCEDB	NG45	Termitidae	Mirocapritermitinae	Pericapritermes-gp	Pericapritermes 	Pericapritermes parvus		Papua New Guinea			15774	OQ980241
+#3	254	TER_254_UCEDB	NG45-10k	Termitidae	Mirocapritermitinae	Pericapritermes-gp	Pericapritermes 	Pericapritermes parvus		Papua New Guinea			30343	OQ980241
+#3	255	TER_255_UCEDB	SING57	Termitidae	Mirocapritermitinae	Pericapritermes-gp	Dicuspiditermes 	Dicuspiditermes nemorosus		Singapore			261	NA
+#3	256	TER_256_UCEDB	THAI038	Termitidae	Mirocapritermitinae	Pericapritermes-gp	Mirocapritermes 	Mirocapritermes sp 1		Thailand			20874	KY224731
+#3	257	TER_257_UCEDB	THAI037	Termitidae	Mirocapritermitinae	Pericapritermes-gp	Procapritermes 	Procapritermes sp 1		Thailand			33601	KY224437
+#3	258	TER_258_UCEDB	SP1	Termitidae	Mirocapritermitinae	Pericapritermes-gp	Sinocapritermes 	Sinocapritermes mushae		Japan			29595	OQ947862
+#3	259	TER_259_UCEDB	THAI105	Termitidae	Mirocapritermitinae	Pericapritermes-gp	Sinocapritermes 	Sinocapritermes sp 1		Thailand			25521	KY224541
+#4	260	TER_260_UCEDB	MZUSP 16356	Termitidae	Syntermitinae		Genuotermes	Genuotermes spinifer		Brazil			1275	NA
+#4	261	TER_261_UCEDB	MZUSP 21604	Termitidae	Neocapritermitinae	Neocapritermes-group	Neocapritermes	Neocapritermes talpa		Brazil			27667	NA
+#4	262	TER_262_UCEDB	MZUSP 24538	Termitidae	Cylindrotermitinae	Cylindrotermes-group	Cylindrotermes	Cylindrotermes flangiatus		Brazil			26995	NA
+#4	263	TER_263_UCEDB	MZUSP 24842	Termitidae	Neocapritermitinae	Neocapritermes-group	Neocapritermes	Neocapritermes braziliensis		Brazil			25699	NA
+#4	264	TER_264_UCEDB	MZUSP 25207	Termitidae	Amitermitinae	Amitermes-group	Dentispicotermes	Dentispicotermes sp		Brazil			27167	NA
+#4	265	TER_265_UCEDB	MZUSP 26056	Termitidae	Termitinae	Termes-group	Inquilinitermes	Inquilinitermes sp		Brazil			19058	NA
+#4	266	TER_266_UCEDB	Anacan_Mt_w	Hodotermitidae	NA		Anacanthotermes	Anacanthotermes sp		Jordan			38314	OQ440394
+#4	267	TER_267_UCEDB	AUS19 STOLO PQ+M	Stolotermitidae	Stolotermitinae		Stolotermes	Stolotermes victoriensis		Australia			38632	OQ440395
+#4	268	TER_268_UCEDB	AUS5	Termitidae	Amitermitinae	Amitermes-group	Drepanotermes	Drepanotermes perniger		Australia			24976	NA
+#4	269	TER_269_UCEDB	AUS73	Termitidae	Termitinae		Termes-group	Termes-group spF		Australia			39384	NA
+#4	270	TER_270_UCEDB	BO541	Termitidae	Amitermitinae	Amitermes-group	Orthognathotermes	Orthognathotermes aduncus		Bolivia			28282	NA
+#4	271	TER_271_UCEDB	CAM18S-25A	Termitidae	Cubitermitinae		Apilitermes	Apilitermes longiceps		Cameroon			21656	NA
+#4	272	TER_272_UCEDB	CAM19_1_PG_077	Termitidae	Cubitermitinae		Thoracotermes	Thoracotermes macrothorax		Cameroon			17456	NA
+#4	273	TER_273_UCEDB	CAM19_1_PG_182	Termitidae	Apicotermitinae		Jugositermes	Jugositermes tuberculatus		Cameroon			26619	NA
+#4	274	TER_274_UCEDB	CAM19_2_PG_101	Termitidae	Termitinae	Termes-group	Termes	Termes hospes		Cameroon			27081	NA
+#4	275	TER_275_UCEDB	CAM19_2_PG_102	Termitidae	Apicotermitinae		Duplidentitermes	Duplidentitermes furcatidens		Cameroon			16818	NA
+#4	276	TER_276_UCEDB	CAM19_2_PG_118	Termitidae	Apicotermitinae		Astratotermes	Astratotermes hilarus		Cameroon			30192	NA
+#4	277	TER_277_UCEDB	CAM19_2_PG_126	Termitidae	Cubitermitinae		Furculitermes	Furculitermes sp		Cameroon			12482	NA
+#4	278	TER_278_UCEDB	CAM19_2_PG_138	Termitidae	Cubitermitinae		Unguitermes	Unguitermes trispinosus		Cameroon			11446	NA
+#4	279	TER_279_UCEDB	CAM19-1-PG-005	Termitidae	Cubitermitinae		Crenetermes	Crenetermes albotarsalis		Cameroon			13388	NA
+#4	280	TER_280_UCEDB	CAM19-1-PG-018	Termitidae	Engelitermitinae		Engelitermes	Engelitermes zambo		Cameroon			22529	OP882287
+#4	281	TER_281_UCEDB	CAM19-1-PG-022	Termitidae	Nasutitermitinae		Postsubulitermes	Postsubulitermes sp		Cameroon			14596	NA
+#4	282	TER_282_UCEDB	CAM19-1-PG-025	Termitidae	Cubitermitinae		Procubitermes	Procubitermes arboricola		Cameroon			6323	NA
+#4	283	TER_283_UCEDB	CAM19-1-PG-123	Termitidae	Forficulitermitinae		Forficulitermes	Forficulitermes planifrons		Cameroon			7348	OP882292
+#4	284	TER_284_UCEDB	CAM19-1-PG-179	Termitidae	Engelitermitinae		Engelitermes	Engelitermes zambo		Cameroon			24394	OP882288
+#4	285	TER_285_UCEDB	CAM19-2-PG-139	Termitidae	Nasutitermitinae		Verrucositermes	Verrucositermes tuberosus		Cameroon			15597	NA
+#4	286	TER_286_UCEDB	CAM19-2-PG-144	Termitidae	Nasutitermitinae		Eutermellus	Eutermellus aquilinus		Cameroon			1021	NA
+#4	287	TER_287_UCEDB	CAM19-2-PG-195	Termitidae	Cubitermitinae		Noditermes	Noditermes lamanianus		Cameroon			32792	NA
+#4	288	TER_288_UCEDB	DJ_0007_26	Termitidae	Cubitermitinae		Polyspathotermes	Polyspathotermes inclitus		Democratic Republic of the Congo			23840	NA
+#4	289	TER_289_UCEDB	DJ_0709_11	Termitidae	Cubitermitinae		Cubitermes	Cubitermes tenuiceps		Democratic Republic of the Congo			40244	NA
+#4	290	TER_290_UCEDB	DJ_0711_14	Termitidae	Cubitermitinae		Ternicubitermes	Ternicubitermes sp		Angola			37687	NA
+#4	291	TER_291_UCEDB	DJ_0742_16	Termitidae	Cubitermitinae		Isognathotermes	Isognathotermes finitimus		Democratic Republic of the Congo			39920	NA
+#4	292	TER_292_UCEDB	EC1330	Termitidae	Neocapritermitinae	Neocapritermes-group	Planicapritermes	Planicapritermes sp		Ecuador			22863	NA
+#4	293	TER_293_UCEDB	EC504	Rhinotermitidae	NA		Acorhinotermes	Acorhinotermes subfusciceps		Ecuador			34919	NA
+#4	294	TER_294_UCEDB	EC662	Termitidae	Crepititermitinae	Cylindrotermes-group	Crepititermes	Crepititermes verruculosus		Ecuador			26899	NA
+#4	295	TER_295_UCEDB	EC792	Termitidae	Cylindrotermitinae	Cylindrotermes-group	Cylindrotermes	Cylindrotermes parvignathus		Ecuador			17798	NA
+#4	296	TER_296_UCEDB	G17-009	Termitidae	Nasutitermitinae		Nasutitermes	Nasutitermes coxipoensis		French Guiana			5968	NA
+#4	297	TER_297_UCEDB	Guyane 33	Termitidae	Neocapritermitinae	Neocapritermes-group	Neocapritermes	Neocapritermes araguaia		French Guiana			30188	NA
+#4	298	TER_298_UCEDB	IBISCA_141_13_04	Termitidae	Nasutitermitinae		Velocitermes	Velocitermes barrocoloradensis		Panama			4142	NA
+#4	299	TER_299_UCEDB	KE15-122	Termitidae	Promirotermitinae		Angulitermes	Angulitermes sp		Kenya			22581	NA
+#4	300	TER_300_UCEDB	L250-11-F	Termitidae	Cylindrotermitinae	Cylindrotermes-group	Cylindrotermes	Cylindrotermes parvignathus		French Guiana			41473	NA
+#4	301	TER_301_UCEDB	MAD19_51	Psammotermitidae	Psammotermitinae		Psammotermes	Psammotermes voeltzkowi		Madagascar			6433	OQ555377
+#4	302	TER_302_UCEDB	MAD19-151	Termitidae	Termitinae		Quasitermes	Quasitermes incisus		Madagascar			5488	OQ555373
+#4	303	TER_303_UCEDB	MT20_04	Termitidae	Termitinae		Termes	Termes hispaniolae		Martinique			17506	NA
+#4	304	TER_304_UCEDB	MX98	Termitidae	Amitermitinae	Amitermes-group	Gnathamitermes	Gnathamitermes grandis		Mexico			32438	NA
+#4	305	TER_305_UCEDB	PA969	Termitidae	Microcerotermitinae		Onkotermes	Onkotermes corochus		Paraguay			5967	NA
+#4	306	TER_306_UCEDB	PN1478	Termitidae	Amitermitinae	Amitermes-group	Orthognathotermes	Orthognathotermes wheeleri		Panama			26597	NA
+#4	307	TER_307_UCEDB	PU476	Termitidae	Syntermitinae		Syntermes	Syntermes spinosus		Peru			20074	NA
+#4	308	TER_308_UCEDB	PU733	Termitidae	Syntermitinae		Silvestritermes	Silvestritermes heyeri		Peru			27447	NA
+#4	309	TER_309_UCEDB	RNAL_57	Termitidae	Cubitermitinae		Megagnathotermes	Megagnathotermes notandus		Cote d'Ivoire			33716	NA
+#4	310	TER_310_UCEDB	SING86	Termitidae	Amitermitinae		Globitermes	Globitermes globosus		Singapore			6551	KY224563
+#4	311	TER_311_UCEDB	T3_10f	Termitidae	Nasutitermitinae		Aciculitermes	Aciculitermes sp		Singapore			23643	KY224659
+#4	312	TER_312_UCEDB	THAI97	Termitidae	Mirocapritermitinae		Homallotermes	Homallotermes foraminifer		Thailand			15502	NA
+#4	313	TER_313_UCEDB	TL-01	Termitidae	Amitermitinae	Amitermes-group	Eremotermes	Eremotermes sp		Israel			39468	NA
+#4	314	TER_314_UCEDB	US1244	Termitidae	Nasutitermitinae		Tenuirostritermes	Tenuirostritermes tenuirostris		USA			34414	NA
+#4	315	TER_315_UCEDB	VZ305	Termitidae	Termitinae		Spinitermes	Spinitermes nigrostomus		Venezuela			11467	NA
