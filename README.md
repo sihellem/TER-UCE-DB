@@ -19,6 +19,9 @@ Listed contributions to the [Database](termite_uce_db_ids.tsv).
 | #2 | 18 | Buček _et al_. [_MBE_](https://doi.org/10.1093/molbev/msac093) | [_Dryad_](https://doi.org/10.5061/dryad.5mkkwh77v) |
 | #3 | 196 | Arora _et al_. [_Proc. B_](https://doi.org/10.1098/rspb.2023.0619) | [_Dryad_](https://doi.org/10.5061/dryad.tmpg4f53w) |
 | #4 | 56 | Hellemans _et al_. [_NatComm_](https://doi.org/10.1038/s41467-024-51028-y) | [_Dryad_](https://doi.org/10.5061/dryad.02v6wwqbm) |
+| #5 | 1721 | Hellemans _et al_. [_biorxiv_](https://doi.org/10.1101/2025.03.25.645184) | [_Dryad_](XXX) |
+| #6 | 47 | Hellemans _et al_. [_biorxiv_](XXX) | [_Dryad_](XXX) |
+
 
 Since 2024, command-line direct download is prevented for non-browser access. You can either use the links of each contribution and download them one-by-one using your favorite internet navigator. Datasets can still be accessed by mimicking browser access through ```--user-agent``` option of ```wget``` (e.g., ```wget --user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7)"```) as suggested on this StackExchange [post](https://unix.stackexchange.com/questions/158352/curl-wget-403-forbidden). Note that ```--user-agent``` needs to be changed after each use.
 For a more permanent solution, you can install a random user-agent generator, such as [randomua](https://github.com/picatz/randomua) written in ```ruby``` (to be installed with the command: ```gem install randomua```).
