@@ -19,7 +19,7 @@ Listed contributions to the [Database](termite_uce_db_ids.tsv).
 | #2 | 18 | Buček _et al_. [_MBE_](https://doi.org/10.1093/molbev/msac093) | [_Dryad_](https://doi.org/10.5061/dryad.5mkkwh77v) |
 | #3 | 196 | Arora _et al_. [_Proc. B_](https://doi.org/10.1098/rspb.2023.0619) | [_Dryad_](https://doi.org/10.5061/dryad.tmpg4f53w) |
 | #4 | 56 | Hellemans _et al_. [_NatComm_](https://doi.org/10.1038/s41467-024-51028-y) | [_Dryad_](https://doi.org/10.5061/dryad.02v6wwqbm) |
-| #5 | 1721 | Hellemans _et al_. [_biorxiv_](https://doi.org/10.1101/2025.03.25.645184) | [_Dryad_](XXX) |
+| #5 | 1721 | Hellemans _et al_. [_CurrBiol_](https://doi.org/10.1016/j.cub.2026.04.008) | [_Dryad_](https://doi.org/10.5061/dryad.t76hdr8fk) |
 | #6 | 47 | Hellemans _et al_. [_biorxiv_](XXX) | [_Dryad_](XXX) |
 
 
@@ -80,7 +80,10 @@ wget --user-agent="$(randomua -d)" https://datadryad.org/stash/downloads/file_st
 wget --user-agent="$(randomua -d)" https://datadryad.org/stash/downloads/file_stream/2255906 --output-document=TER_UCE_DB_CONTRIB_3.tar.gz && tar -xvf TER_UCE_DB_CONTRIB_3.tar.gz && rm TER_UCE_DB_CONTRIB_3.tar.gz
 ## Contribution #4
 wget --user-agent="$(randomua -d)" https://datadryad.org/stash/downloads/file_stream/3273623 --output-document=TER_UCE_DB_CONTRIB_4.fasta.gz && gzip -d TER_UCE_DB_CONTRIB_4.fasta.gz
-## Combine fastas
+## Contribution #5
+wget --user-agent="$(randomua -d)" https://datadryad.org/downloads/file_stream/4707393 --output-document=TER_UCE_DB_CONTRIB_5.fasta.gz && gzip -d TER_UCE_DB_CONTRIB_5.fasta.gz
+
+### Combine fastas
 cat TER_UCE_DB_CONTRIB_1.fasta TER_UCE_DB_CONTRIB_2.fasta ... TER_UCE_DB_CONTRIB_N.fasta > database.fasta
 
 ### 6. Extract the samples you want from the database
