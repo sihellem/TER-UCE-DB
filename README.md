@@ -35,7 +35,7 @@ The bait design was made from four publicly-available genomes:
 - _Zootermopsis nevadensis_ (GCF_000696155.1),
 - _Cryptotermes secundus_ (GCF_002891405.2),
 - _Coptotermes formosanus_ (GCA_013340265.1),
-- and _Macrotermes natalensis_ (GigaDB #100057).
+- _Macrotermes natalensis_ (GigaDB #100057).
 
 Refer to Hellemans _et al_. [_MPE_](https://doi.org/10.1016/j.ympev.2022.107520) for more details on the design procedure.
 
